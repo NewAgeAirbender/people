@@ -103,7 +103,7 @@ contact_details:
 links:
 - url: https://www.cardin.senate.gov
   note: website
-- url: http://www.cardin.senate.gov/contact/
+- url: https://www.cardin.senate.gov/contact/
   note: contact form
 ids:
   twitter: SenatorCardin

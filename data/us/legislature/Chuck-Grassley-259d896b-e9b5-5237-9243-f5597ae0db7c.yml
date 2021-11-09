@@ -92,7 +92,7 @@ contact_details:
 links:
 - url: https://www.grassley.senate.gov
   note: website
-- url: http://www.grassley.senate.gov/contact
+- url: https://www.grassley.senate.gov/contact
   note: contact form
 ids:
   twitter: ChuckGrassley
