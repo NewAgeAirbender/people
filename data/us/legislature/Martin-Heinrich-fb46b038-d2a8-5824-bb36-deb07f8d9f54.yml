@@ -57,7 +57,7 @@ contact_details:
 links:
 - url: https://www.heinrich.senate.gov
   note: website
-- url: http://www.heinrich.senate.gov/contact
+- url: https://www.heinrich.senate.gov/contact
   note: contact form
 ids:
   twitter: MartinHeinrich
