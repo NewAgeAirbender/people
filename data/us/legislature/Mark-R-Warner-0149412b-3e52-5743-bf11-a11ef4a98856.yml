@@ -48,7 +48,7 @@ contact_details:
 links:
 - url: https://www.warner.senate.gov
   note: website
-- url: http://www.warner.senate.gov/public/index.cfm?p=Contact
+- url: https://www.warner.senate.gov/public/index.cfm?p=Contact
   note: contact form
 ids:
   twitter: MarkWarner
