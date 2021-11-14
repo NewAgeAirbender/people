@@ -75,7 +75,7 @@ contact_details:
 links:
 - url: https://www.carper.senate.gov/public
   note: website
-- url: http://www.carper.senate.gov/public/index.cfm/email-senator-carper
+- url: https://www.carper.senate.gov/public/index.cfm/email-senator-carper
   note: contact form
 ids:
   twitter: SenatorCarper
