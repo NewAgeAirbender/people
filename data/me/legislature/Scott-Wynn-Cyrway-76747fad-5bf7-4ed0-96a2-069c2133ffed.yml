@@ -1,0 +1,32 @@
+id: ocd-person/76747fad-5bf7-4ed0-96a2-069c2133ffed
+name: Scott Wynn Cyrway
+email: Scott.Cyrway@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/67e19185-d883-4fa7-a712-76aca43ca163_CYRWAY.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '63'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 463 Benton Road, Albion, ME 04910
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1506
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1506
+extras:
+  Cell Phone: (207) 485-1308
+  Seat Number: '14'
+  towns represented:
+  - Unity Township
+  - Winslow (Part)
+  - Albion
+  - Freedom
+  occupation: Deputy Sheriff
+  education: University of Maine

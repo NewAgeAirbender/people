@@ -1,0 +1,30 @@
+id: ocd-person/5557b31b-932b-416b-bd27-d925ffe3450a
+name: Amy Bradstreet Arata
+email: Amy.Arata@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/138663c8-a52b-40ca-a64d-e982c37906c1_ARATA.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '104'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: P.O. Box 2, New Gloucester, ME 04260
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+extras:
+  Cell Phone: (207) 333-1817
+  Seat Number: '22'
+  towns represented:
+  - New Gloucester
+  - Gray (Part)
+  occupation: Business Owner
+  education: Gordon College, University of California Davis

@@ -1,0 +1,29 @@
+id: ocd-person/ad440986-d78d-444d-99d4-031c01408725
+name: Laurel D. Libby
+email: Laurel.Libby@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/42e33d22-5d96-4d6b-ac5f-9eab7a19ea4f_LLIBBY.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '90'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 442 Park Avenue, Auburn, ME 04210
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1423
+extras:
+  Seat Number: '36'
+  towns represented:
+  - Minot
+  - Auburn (Part)
+  occupation: Interior Decor

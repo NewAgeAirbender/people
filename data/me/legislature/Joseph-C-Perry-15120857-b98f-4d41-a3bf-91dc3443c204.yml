@@ -1,0 +1,31 @@
+id: ocd-person/15120857-b98f-4d41-a3bf-91dc3443c204
+name: Joseph C. Perry
+email: Joseph.Perry@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/37c627f4-f72a-4db9-990f-0236f34ef452_perryjc-2019.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '24'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 102 Garland Street, Bangor, ME 04401
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/559
+extras:
+  Cell Phone: (207) 659-5295
+  Seat Number: '143'
+  towns represented:
+  - Orono (Part)
+  - Veazie
+  - Bangor (Part)
+  - Brewer (Part)
+  occupation: Convenience Store Owner

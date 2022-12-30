@@ -1,0 +1,31 @@
+id: ocd-person/26cb171f-8399-4bb5-8212-ae371dc18f15
+name: Amanda N. Collamore
+email: Amanda.Collamore@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a8b7350c-604d-43ec-85bc-620d6333f9a4_ACOLLAMORE.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '68'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 173 Library Street, Pittsfield, ME 04967
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1432
+extras:
+  Cell Phone: (207) 679-7305
+  Seat Number: '81'
+  towns represented:
+  - Clinton
+  - Pittsfield
+  - Burnham
+  - Troy
+  occupation: TIDC Education & Outreach Manager, University of Maine

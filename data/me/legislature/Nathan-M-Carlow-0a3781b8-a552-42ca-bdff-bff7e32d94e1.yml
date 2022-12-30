@@ -1,0 +1,31 @@
+id: ocd-person/0a3781b8-a552-42ca-bdff-bff7e32d94e1
+name: Nathan M. Carlow
+email: Nathan.Carlow@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a06a6e19-aeb1-4d9f-b827-7ff997065c8d_CarlowNEW.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '137'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: P.O. Box 714, Bar Mills, ME 04004
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1411
+extras:
+  Cell Phone: (207) 929-0895
+  Seat Number: '20'
+  towns represented:
+  - Buxton (Part)
+  - Hollis (Part)
+  occupation: Accounts Payable Specialist
+  education: USM

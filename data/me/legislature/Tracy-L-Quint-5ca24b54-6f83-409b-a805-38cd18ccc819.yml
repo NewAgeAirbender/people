@@ -1,0 +1,69 @@
+id: ocd-person/5ca24b54-6f83-409b-a805-38cd18ccc819
+name: Tracy L. Quint
+email: Tracy.Quint@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a2caf281-9523-418e-b5a2-1a0635438985_QuintNEW.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '8'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 318 Westford Hill Road, Hodgdon, ME 04730
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1443
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1443
+extras:
+  Seat Number: '61'
+  towns represented:
+  - Amity
+  - Bancroft Township
+  - Benedicta Township
+  - Block 4293 of Tract 952900
+  - Cary Township
+  - Crystal
+  - Glenwood Plantation
+  - Haynesville
+  - Hodgdon
+  - Island Falls
+  - Macwahoc Plantation
+  - Orient
+  - Reed Plantation
+  - Sherman
+  - South Aroostook
+  - Weston
+  - Forkstown Township
+  - Molunkus Township
+  - Silver Ridge Township
+  - Drew Plantation
+  - Kingman Township
+  - Mattawamkeag
+  - Stacyville
+  - Carroll Plantation
+  - Lakeville
+  - Lee
+  - Prentiss Township
+  - Springfield
+  - Twombly Ridge Township
+  - Webster Plantation
+  - Whitney (Pukakon) Township
+  - Codyville Plantation
+  - Danforth
+  - Talmadge
+  - Topsfield
+  - Vanceboro
+  - Waite
+  - Forest Township
+  - Brookton Township
+  - Forest City Township
+  - Kossuth Township
+  - Lambert Lake Township
+  - North Washington (Part)
+  occupation: Registered Nurse

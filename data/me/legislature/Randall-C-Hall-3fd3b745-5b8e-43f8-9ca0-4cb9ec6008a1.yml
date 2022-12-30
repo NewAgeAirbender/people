@@ -1,0 +1,41 @@
+id: ocd-person/3fd3b745-5b8e-43f8-9ca0-4cb9ec6008a1
+name: Randall C. Hall
+email: Randall.Hall@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a6fafe97-8a10-4df9-882b-6f65a04f83dc_HALL.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2020-12-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '74'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: P.O. Box 42, East Dixfield, ME 04227
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1375
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1375
+extras:
+  Cell Phone: (207) 860-8431
+  Seat Number: '106'
+  towns represented:
+  - Industry
+  - New Vineyard
+  - Strong
+  - Wilton
+  - Avon
+  - Carthage
+  - Temple
+  - Weld
+  - Perkins Township
+  - Washington Township
+  - New Portland
+  - South Franklin
+  occupation: Farmer
+  education: UNH

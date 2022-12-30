@@ -1,0 +1,31 @@
+id: ocd-person/4d02647f-a77c-46cd-aa8b-8655521e20a8
+name: Kristen Cloutier
+given_name: Kristen
+family_name: Cloutier
+email: Kristen.Cloutier@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/74bba061-2bbd-407f-9b65-e648ab06e3a2_KCLOUTIER.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '94'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 33 Charles Street, Lewiston, ME 04240
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1355
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1355
+extras:
+  Cell Phone: (207) 807-1637
+  Seat Number: '2'
+  towns represented:
+  - Lewiston (Part)
+  occupation: Assistant Director
+  education: Northeastern University, USM-LAC

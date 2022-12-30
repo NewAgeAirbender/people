@@ -1,0 +1,32 @@
+id: ocd-person/bf77e313-6f0a-441c-ad6e-81a65b15ae41
+name: Michele Meyer
+given_name: Michele
+family_name: Meyer
+email: Michele.Meyer@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b1004d88-844a-4d6d-9e4a-e6a329b430c9_meyer.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '150'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 58 Odiorne Lane, Eliot, ME 03903
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1337
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1337
+extras:
+  Seat Number: '48'
+  towns represented:
+  - Eliot
+  - Kittery (Part)
+  - South Berwick (Part)
+  occupation: Registered Nurse
+  education: Norwich University

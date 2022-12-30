@@ -1,0 +1,30 @@
+id: ocd-person/ab9cc02a-e357-40a1-ae7d-cc713eb7f2ca
+name: Samuel Lewis Zager
+email: Sam.Zager@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b6cd2a0d-2b96-4103-a43b-bea5aef4a435_Zager.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '116'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 90 Prospect Street, Portland, ME 04103
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1418
+extras:
+  Cell Phone: (207) 400-6846
+  Seat Number: '120'
+  towns represented:
+  - Portland (Part)
+  occupation: Family Physician
+  education: U.S. Naval Academy; University of Oxford (UK); Harvard Medical School;
+    Maine Medical Center Family Medicine Residency

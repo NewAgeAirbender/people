@@ -1,0 +1,30 @@
+id: ocd-person/23560d2c-4c64-415d-9369-d230b7ccc50f
+name: Heidi H. Sampson
+email: Heidi.Sampson@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/f1758d00-0a1b-4cb2-92ba-41a0958293ab_samphh[1].jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '136'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 465 Kennebunk Road, Alfred, ME 04002
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/137
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/137
+extras:
+  Cell Phone: (207) 590-1909
+  Seat Number: '125'
+  towns represented:
+  - Lyman (Part)
+  - Alfred
+  - Waterboro (Part)
+  occupation: Educator/Farmer

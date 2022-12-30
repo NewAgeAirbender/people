@@ -1,0 +1,31 @@
+id: ocd-person/cb85455b-8a6e-46a9-95f7-edf6e5342149
+name: Randall Adam Greenwood
+email: Randall.Greenwood@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/6028d809-7632-4877-b380-dab6b432d435_GREENWOOD.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '56'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 38 Witherell Road, Wales, ME 04280
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/208
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/208
+extras:
+  Cell Phone: (207) 754-6604
+  Seat Number: '86'
+  towns represented:
+  - Wales
+  - Litchfield
+  - Monmouth
+  occupation: General Manager
+  education: University of Southern Maine

@@ -1,0 +1,28 @@
+id: ocd-person/3dcbeef8-e385-4bc1-bf1b-7122ce73c279
+name: Bruce A. White
+email: Bruce.White@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/80b99c67-2fca-410c-95ec-0966049b81e8_BWhiteNew.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '65'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 1 Silvermount Street, Waterville, ME 04901
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1372
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1372
+extras:
+  Cell Phone: (207) 518-8265
+  Seat Number: '145'
+  towns represented:
+  - Waterville (Part)
+  occupation: Retired

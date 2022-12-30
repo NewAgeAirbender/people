@@ -10,6 +10,9 @@ roles:
 - type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '80'
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '61'
 offices:
 - classification: capitol
   address: House Minority Office Room 332, State House 2 State House Station Augusta,
@@ -31,12 +34,9 @@ sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Cell Phone: (207) 861-1657
-  Seat Number: '14'
+  Seat Number: '21'
   towns represented:
-  - Augusta (Part)
-  - Hibberts Gore
-  - Somerville
+  - Sidney (Part)
   - Vassalboro
-  - Windsor
   occupation: Semi-Retired - Part Time Association Executive Director
   education: Dartmouth

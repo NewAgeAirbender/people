@@ -1,0 +1,29 @@
+id: ocd-person/4189f5f6-d1b2-4780-bde7-771017e113b3
+name: Suzanne M. Salisbury
+email: Suzanne.Salisbury@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/51e7366f-0985-40da-ad18-0933d15e2d99_SalisburyNEW.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-03-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '128'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 134 Park Road, Westbrook, ME 04092
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1415
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1415
+extras:
+  Seat Number: '27'
+  towns represented:
+  - Westbrook (Part)
+  occupation: Business Owner
+  education: University of Southern Maine

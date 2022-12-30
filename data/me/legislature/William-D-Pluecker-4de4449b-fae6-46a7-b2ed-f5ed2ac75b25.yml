@@ -1,0 +1,28 @@
+id: ocd-person/4de4449b-fae6-46a7-b2ed-f5ed2ac75b25
+name: William D. Pluecker
+email: Bill.Pluecker@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e3bfa8db-a813-47dc-9dc1-27a52d61161d_WPLUECKER.jpg
+party:
+- name: Independent
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '44'
+offices:
+- classification: capitol
+  address: Office of the Clerk of the House 2 State House Station Augusta, Maine 04333-0002
+- classification: district
+  address: 1133 Finntown Road, Warren, ME 04864
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1383
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1383
+extras:
+  Seat Number: '150'
+  towns represented:
+  - Hope
+  - Union
+  - Warren
+  occupation: Farmer

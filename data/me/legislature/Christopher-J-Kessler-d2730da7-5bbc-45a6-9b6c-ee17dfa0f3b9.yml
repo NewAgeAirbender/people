@@ -1,0 +1,28 @@
+id: ocd-person/d2730da7-5bbc-45a6-9b6c-ee17dfa0f3b9
+name: Christopher J. Kessler
+email: Christopher.Kessler@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b6f510d-1915-4b36-846c-7be39a62c2f6_kessler.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '121'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 39 Stanley Street, South Portland, ME 04106
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1384
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1384
+extras:
+  Seat Number: '141'
+  towns represented:
+  - Cape Elizabeth (Part)
+  - South Portland (Part)
+  occupation: Energy Auditor

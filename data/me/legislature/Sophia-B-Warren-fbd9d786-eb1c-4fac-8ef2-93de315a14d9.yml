@@ -1,0 +1,28 @@
+id: ocd-person/fbd9d786-eb1c-4fac-8ef2-93de315a14d9
+name: Sophia B. Warren
+email: Sophia.Warren@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/cf752b53-787f-40ea-980b-165536a3a6c7_Warren.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2019-03-14
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '124'
+offices:
+- classification: capitol
+  address: Office of the Clerk of the House 2 State House Station Augusta, Maine 04333-0002
+- classification: district
+  address: P.O. Box 1, Scarborough, ME 04070
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1413
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1413
+extras:
+  Seat Number: '149'
+  towns represented:
+  - Scarborough (Part)
+  occupation: Self Employed
+  education: Brandeis University

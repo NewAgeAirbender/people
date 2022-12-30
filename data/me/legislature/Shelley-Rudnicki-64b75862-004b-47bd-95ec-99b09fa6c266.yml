@@ -1,0 +1,30 @@
+id: ocd-person/64b75862-004b-47bd-95ec-99b09fa6c266
+name: Shelley Rudnicki
+ggiven_name: Shelley
+family_name: Rudnicki
+email: Shelley.Rudnicki@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/2b62d2a3-ff6f-4dee-8ae8-528c1b02a222_SRUDNICKI.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '67'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 211 Norridgewock Road, Fairfield, ME 04937
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1371
+extras:
+  Seat Number: '79'
+  towns represented:
+  - Benton (Part)
+  - Fairfield
+  occupation: Business Owner

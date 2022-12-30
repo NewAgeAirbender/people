@@ -1,0 +1,28 @@
+id: ocd-person/66b642d3-a517-4d75-b264-b2da3175823c
+name: Melanie F. Sachs
+email: Melanie.Sachs@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/6119e868-352a-4f32-82c6-547a9d13e60f_MSACHS.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '102'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 84 Kelsey Ridge Road, Freeport, ME 04032
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1420
+extras:
+  Seat Number: '3'
+  towns represented:
+  - Freeport
+  occupation: Social Work
+  education: Bates College, Case Western Reserve University

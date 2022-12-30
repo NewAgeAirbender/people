@@ -1,0 +1,29 @@
+id: ocd-person/5bdd17c4-6637-4a5d-929d-b7a2afde5232
+name: Maureen Fitzgerald Terry
+email: Maureen.Terry@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ba4c08ce-72a6-43b5-899a-7bb292b72bbb_terrmf[1].jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '108'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 9 Lombard Street, Gorham, ME 04038
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/54
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/54
+extras:
+  Cell Phone: (207) 712-9735
+  Seat Number: '1'
+  towns represented:
+  - Gorham (Part)
+  occupation: Chef, Small Business Owner
+  education: New York Restaurant School

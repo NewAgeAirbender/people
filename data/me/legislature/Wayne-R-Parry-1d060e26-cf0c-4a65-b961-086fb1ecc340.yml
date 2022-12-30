@@ -1,0 +1,29 @@
+id: ocd-person/1d060e26-cf0c-4a65-b961-086fb1ecc340
+name: Wayne R. Parry
+email: Wayne.Parry@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/64b98aaf-c97d-41c4-88d7-3139d1d72339_Parry.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '140'
+offices:
+- classification: capitol
+  address: House Minority Office Room 332, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 851 Alfred Road, Arundel, ME 04046
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/124
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/124
+extras:
+  Seat Number: '67'
+  towns represented:
+  - Arundel
+  - Dayton
+  - Lyman (Part)
+  occupation: Lobsterman, Small Business Owner

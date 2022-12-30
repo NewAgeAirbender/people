@@ -1,0 +1,31 @@
+id: ocd-person/370acd04-8520-49f9-b136-15aa20d7b800
+name: Poppy Arford
+given_name: Poppy
+family_name: Arford
+email: Poppy.Arford@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/e67bda1d-1bd9-46a4-8dca-4c3616a20dfa_ArfordNEW.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '101'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 8 Quarry Road, Brunswick, ME 04011
+  voice: 207-522-1997
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1421
+extras:
+  Seat Number: '97'
+  towns represented:
+  - Brunswick (Part)
+  occupation: Healthcare Advocate
+  education: University of Southern Maine

@@ -1,0 +1,31 @@
+id: ocd-person/0b592c47-0b9b-4162-ae6e-fcb8afddf503
+name: Tavis Rock Hasenfus
+email: Tavis.Hasenfus@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7caf9ecd-04e1-4e00-b772-b38616cac2ab_HasenfusNEW.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2018-12-05
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '57'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 50 Nobis Point, Readfield, ME 04355
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1427
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1427
+extras:
+  Cell Phone: (207) 446-0016
+  Seat Number: '74'
+  towns represented:
+  - Readfield
+  - Winthrop
+  occupation: Attorney
+  education: University of Maine Orono, Maine School of Law

@@ -1,0 +1,28 @@
+id: ocd-person/64713b99-36ed-4ffc-9bf9-ab914d9e624f
+name: Laura D. Supica
+email: Laura.Supica@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/1a8dbf21-c24a-4e1c-89e3-53030c1ecfe5_Supica.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '22'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 34 Highland Avenue, Bangor, ME 04401
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1438
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1438
+extras:
+  Cell Phone: (207) 717-5702
+  Seat Number: '115'
+  towns represented:
+  - Bangor (Part)
+  occupation: State and Local Government

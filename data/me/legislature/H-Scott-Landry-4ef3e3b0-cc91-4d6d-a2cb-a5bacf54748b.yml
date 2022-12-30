@@ -1,0 +1,29 @@
+id: ocd-person/4ef3e3b0-cc91-4d6d-a2cb-a5bacf54748b
+name: H. Scott Landry
+email: Scott.Landry@legislature.maine.gov
+image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/ad2ddc98-f4b5-4f4f-9594-bb0a5c89fabc_landry.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '75'
+offices:
+- classification: capitol
+  address: House Majority Office Room 333, State House 2 State House Station Augusta,
+    Maine 04333-0002
+- classification: district
+  address: 137 Shepherds Lane, Farmington, ME 04938
+links:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1374
+  note: homepage
+sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1374
+extras:
+  Seat Number: '12'
+  towns represented:
+  - Chesterville
+  - Farmington
+  occupation: Retired/Farmer
+  education: University of Maine Farmington
