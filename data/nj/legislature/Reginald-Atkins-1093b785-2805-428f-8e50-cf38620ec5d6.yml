@@ -10,8 +10,14 @@ roles:
 - type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nj/government
   district: '20'
+offices:
+- classification: district
+  address: 129 E. 1st Avenue; Roselle NJ 07203
+  voice: 908-445-7154
 links:
 - url: https://www.njleg.state.nj.us/legislative-roster/448/assemblyman-atkins
+other_names:
+- name: Reginald W. Atkins
 sources:
 - url: https://www.njleg.state.nj.us/legislative-roster
 - url: https://www.njleg.state.nj.us/legislative-roster/448/assemblyman-atkins

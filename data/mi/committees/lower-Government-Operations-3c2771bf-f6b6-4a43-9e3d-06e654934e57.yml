@@ -6,12 +6,15 @@ chamber: lower
 sources:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=GOVE
 - url: https://www.house.mi.gov/Committee/GOVE
+- url: https://www.house.mi.gov/Committee/HGOVE
 links:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=GOVE
   note: homepage
 - url: http://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
 - url: https://www.house.mi.gov/PublicCommitteeSchedule
 - url: https://www.house.mi.gov/Committee/GOVE
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HGOVE
   note: homepage
 members:
 - name: Mike Mueller
@@ -29,6 +32,20 @@ members:
 - name: Yousef Rabhi
   role: member
   person_id: ocd-person/8ecb6567-6143-4ecf-8f85-dea02a60a749
+- name: Tullio Liberati
+  role: Chair
+  person_id: ocd-person/4d548157-c00e-4131-bf2b-5838ffc5281a
+- name: Laurie Pohutsky
+  role: Majority Vice Chair
+- name: Bryan Posthumus
+  role: Minority Vice Chair
+  person_id: ocd-person/c925c469-552f-448d-a89f-ef456e15da21
+- name: Mike McFall
+  role: member
+  person_id: ocd-person/b34263be-1f2e-49db-a261-b30e76ba790a
+- name: Jaime Greene
+  role: member
+  person_id: ocd-person/fe33333e-a9ff-4279-ae47-1cc27703ee5c
 extras:
   clerk: Angie Lake
   clerk phone number: '5173735795'

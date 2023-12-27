@@ -1,0 +1,17 @@
+id: ocd-person/19544661-c24a-402a-aed6-ad9a1aaacc5a
+name: Kevin Faulconer
+given_name: Kevin
+family_name: Faulconer
+email: kevinfaulconer@sandiego.gov
+roles:
+- end_date: '2020-12-10'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/place:san_diego/government
+offices:
+- classification: primary
+  address: 202 C Street, 11th Floor;San Diego, CA 92101
+  voice: 619-236-6330
+links:
+- url: https://www.sandiego.gov/mayor/contact
+sources:
+- url: https://www.sandiego.gov/mayor/contact

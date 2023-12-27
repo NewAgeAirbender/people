@@ -1,0 +1,13 @@
+id: ocd-person/ab0257e3-aaef-4c52-a4dd-da143de30ee5
+name: Steve Chirico
+given_name: Steve
+family_name: Chirico
+email: mayor@naperville.il.us
+roles:
+- end_date: '2023-04-04'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:naperville/government
+offices:
+- classification: primary
+  address: 400 S. Eagle Street;Naperville, IL 60540
+  voice: 630-420-6018

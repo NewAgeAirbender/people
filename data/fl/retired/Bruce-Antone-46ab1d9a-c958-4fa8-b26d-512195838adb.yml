@@ -10,6 +10,10 @@ roles:
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '46'
+- end_date: '2022-11-08'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '41'
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=88

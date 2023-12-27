@@ -7,9 +7,13 @@ image: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14
 party:
 - name: Democratic
 roles:
-- type: lower
+- end_date: '2022-12-05'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ca/government
   district: '14'
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ca/government
+  district: '15'
 offices:
 - classification: capitol
   address: 1021 O Street, Suite 5510 Sacramento, CA 94249-0014
@@ -22,8 +26,8 @@ offices:
   voice: 707-642-0314
 links:
 - url: https://a14.asmdc.org
-- url: https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD14&inframe=N
-  note: Contact Form
+- url: https://a15.asmdc.org
+
 other_names:
 - name: Timothy Grayson
 other_identifiers:

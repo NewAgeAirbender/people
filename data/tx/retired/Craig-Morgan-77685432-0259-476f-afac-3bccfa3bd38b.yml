@@ -1,0 +1,13 @@
+id: ocd-person/77685432-0259-476f-afac-3bccfa3bd38b
+name: Craig Morgan
+given_name: Craig
+family_name: Morgan
+email: cmorgan@roundrocktexas.gov
+roles:
+- end_date: '2023-05-06'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/place:round_rock/government
+offices:
+- classification: primary
+  address: 221 East Main Street;Round Rock, TX 78664
+  voice: 512-218-5400

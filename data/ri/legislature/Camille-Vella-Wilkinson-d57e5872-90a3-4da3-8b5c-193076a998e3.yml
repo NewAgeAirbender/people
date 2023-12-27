@@ -13,9 +13,8 @@ roles:
   district: '21'
 offices:
 - classification: district
-  address: 786 Church Ave. Warwick, RI 02889
+  address: 786 Church Avenue, Warwick, RI 02889
   voice: 401-952-7340
-  name: 'District Office #1'
 links:
 - url: http://www.rilin.state.ri.us/representatives/carson/
 - url: http://www.rilegislature.gov/representatives/carson/default.aspx
@@ -27,9 +26,6 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: RIL000178
 sources:
-- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
-- url: http://www.rilin.state.ri.us/representatives/Vella-Wilkinson/
-- url: http://www.rilegislature.gov/representatives/vella-wilkinson/default.aspx
 - url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
   note: Contact Web Page
 - url: http://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls

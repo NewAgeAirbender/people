@@ -3,24 +3,29 @@ name: Mark Cisneros
 given_name: Mark
 family_name: Cisneros
 gender: Male
-email: Mark.Cisneros@legis.iowa.gov
-image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=89&pid=30656
+email: mark.cisneros@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=90&pid=30656
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2023-01-01'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   district: '91'
+- start_date: '2023-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '96'
 offices:
-- classification: district
-  address: 2377 57th St S, Muscatine, IA 52761
-  name: 'District Office #1'
+- classification: capitol
+  voice: 515-281-3221
 links:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30656
+- url: http://https://iowahouserepublicans.nationbuilder.com/reps
+- url: http://https://gmail.us7.list-manage.com/subscribe?u=85fcfa7dcbbb7c52a233de778&id=e13efc9ee4
 sources:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30656
 - url: https://www.legis.iowa.gov/legislators/house
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30656
 extras:
-  home email: cisnerosforiowa@gmail.com
-  home address: 2377 57th St S, Muscatine, IA 52761
-  cell phone: 563.506.3673
+  occupation: Commercial Truck Driver

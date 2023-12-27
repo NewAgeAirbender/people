@@ -5,14 +5,22 @@ image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d2a83
 party:
 - name: Republican
 roles:
+<<<<<<< HEAD
 - start_date: 2020-12-02
+=======
+- start_date: 2022-12-07
+>>>>>>> main
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '106'
 offices:
 - classification: capitol
+<<<<<<< HEAD
   address: House Minority Office Room 332, State House 2 State House Station Augusta,
     Maine 04333-0002
+=======
+  address: House Minority Office Room 332, State House 2 State House Station Augusta, Maine 04333-0002
+>>>>>>> main
 - classification: district
   address: 20 Plummer Road, Windham, ME 04062
 links:

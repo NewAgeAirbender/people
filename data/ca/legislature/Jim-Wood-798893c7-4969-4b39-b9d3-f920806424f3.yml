@@ -3,7 +3,7 @@ name: Jim Wood
 given_name: Jim
 family_name: Wood
 gender: Male
-image: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm_wood_120_x_170.jpg
+image: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-02_wood_ad2_028_resized.jpg
 party:
 - name: Democratic
 roles:
@@ -12,7 +12,7 @@ roles:
   district: '2'
 offices:
 - classification: capitol
-  address: 1020 N Street, Room 390 Sacramento, CA 94249-0002
+  address: 1020 N Street, Room 390, Sacramento, CA 95814
   voice: 916-319-2002
 - classification: district
   address: 50 D Street, Suite 450, Santa Rosa, CA 95404
@@ -25,8 +25,6 @@ offices:
   voice: 707-463-5770
 links:
 - url: https://a02.asmdc.org
-- url: https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
-  note: Contact Form
 other_identifiers:
 - scheme: legacy_openstates
   identifier: CAL000443
@@ -34,4 +32,4 @@ sources:
 - url: http://assembly.ca.gov/assemblymembers
 - url: https://www.assembly.ca.gov/assemblymembers
 extras:
-  P.O. Box: P.O. Box 942849  Sacramento, CA 94249-0002
+  P.O. Box: P.O. Box 942849, Sacramento, CA 94249-0002;

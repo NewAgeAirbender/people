@@ -1,0 +1,36 @@
+id: ocd-person/bf8c0b1e-77ff-49b8-8837-a82bfec24654
+name: "Andr\xE9s Cano"
+given_name: Andres
+family_name: Cano
+gender: Male
+email: acano@azleg.gov
+image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/CANO.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2023-01-09'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '3'
+- end_date: '2023-07-04'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '20'
+links:
+- url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1892
+- url: https://www.linkedin.com/in/andrescanoaz/
+  note: linkedin
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2032
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2032
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2151
+other_names:
+- name: Andres Cano
+ids:
+  twitter: AndresCanoAZ
+  instagram: andrescanoaz
+  facebook: AndresforArizona
+sources:
+- url: http://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/memberroster/?body=H
+extras:
+  title: Minority Leader

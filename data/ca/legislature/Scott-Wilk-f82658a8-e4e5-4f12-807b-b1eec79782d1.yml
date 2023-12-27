@@ -17,7 +17,7 @@ roles:
   district: '21'
 offices:
 - classification: capitol
-  address: 1021 O Street, Suite 7640, Sacramento, CA 95814-4900
+  address: 1021 O Street, Suite 7140, Sacramento, CA 95814-4900
   voice: 916-651-4021
 - classification: district
   address: 848 W. Lancaster Blvd., Suite 101, Lancaster, CA 93534
@@ -30,8 +30,6 @@ offices:
   voice: 760-843-8414
 links:
 - url: http://senate.ca.gov/sd21
-- url: https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD21&inframe=N
-  note: Contact Form
 other_identifiers:
 - scheme: legacy_openstates
   identifier: CAL000505

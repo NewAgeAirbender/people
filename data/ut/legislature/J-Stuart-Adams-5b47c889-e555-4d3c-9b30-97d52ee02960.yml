@@ -8,12 +8,18 @@ image: https://le.utah.gov/images/legislator/ADAMSJS.jpg
 party:
 - name: Republican
 roles:
-- type: upper
+- end_date: '2023-01-01'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '22'
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '7'
 offices:
-- classification: district
-  address: 3271 E 1875 N, Layton, UT, 84040
+- classification: capitol
+  address: 350 North State St. Suite 320, Salt Lake City, UT, 84114
+  voice: 801-593-1776
 links:
 - url: https://senate.utah.gov/stuart-adams
 - url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=ADAMSJS
@@ -28,6 +34,8 @@ links:
   note: finance report
 - url: https://senate.utah.gov/sen/ADAMSJS/
   note: homepage
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist07.pdf
+  note: district demographics
 other_names:
 - name: Adams, J. S.
 - name: Adams, J. Stuart

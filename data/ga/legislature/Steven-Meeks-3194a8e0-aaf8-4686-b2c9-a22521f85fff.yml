@@ -13,14 +13,17 @@ roles:
   district: '178'
 offices:
 - classification: capitol
-  address: 109 State Capitol; Atlanta, GA 30334
-  voice: 404-651-7737
+  address: 401-H State Capitol; Atlanta, GA 30334
+  voice: 404-656-7857
 - classification: district
   address: P.O. Box 178; Screven, GA 31560
-  name: 'District Office #1'
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4961&Session=27
 - url: https://www.legis.ga.gov/members/house/4961?session=1029
+- url: https://www.legis.ga.gov/members/house/4961?session=1031
+  note: HTML member detail page
+- url: http://www.legis.ga.gov/members/house
+  note: HTML members list page
 sources:
 - url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4961&Session=27
@@ -29,6 +32,10 @@ sources:
   note: Initial list page (requires authorization token)
 - url: https://www.legis.ga.gov/api/members/detail/4961?session=1029&chamber=1
   note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4961?session=1031&chamber=1
+  note: API member detail (requires authorization token)
 extras:
   residence: Screven
   city: Screven
@@ -37,6 +44,6 @@ extras:
   occupation: COO, FMR Burch Farms
   press: https://house-press.com/representative/Steven-Meeks
   spouse: Joy
-  staff: Talmadge James - Administrative Assistant
-  staff email: talmadge.james@house.ga.gov
-  title: Governor's Floor Leader
+  staff: Lauryn Bennett-Walker - Administrative Assistant
+  staff email: lauryn.bennett-walker@house.ga.gov
+  title: Chairman, Budget & Fiscal Affairs Oversight

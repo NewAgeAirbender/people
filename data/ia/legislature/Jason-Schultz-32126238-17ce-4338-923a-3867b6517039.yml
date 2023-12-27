@@ -4,15 +4,21 @@ given_name: Jason
 family_name: Schultz
 gender: Male
 email: jason.schultz@legis.iowa.gov
-image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=89&pid=6588
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=90&pid=6588
 party:
 - name: Republican
 roles:
-- type: upper
+- end_date: '2023-01-03'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   district: '9'
+- start_date: '2023-01-03'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '6'
 offices:
 - classification: capitol
+  address: 1007 E Grand Ave, Des Moines, IA 50319
   voice: 515-281-3371
 - classification: district
   address: 611 Cedar St, PO Box 70, Schleswig, IA 51461
@@ -20,8 +26,11 @@ offices:
 links:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6588
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=6588
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=6588
 - url: http://www.iowasenaterepublicans.com/senators/jason-schultz/
 - url: http://www.iowasenaterepublicans.com/senators/jason-schultz/
+- url: http://http://www.iowasenaterepublicans.com/senators/jason-schultz/
+- url: http://http://www.iowasenaterepublicans.com/senators/jason-schultz/
 other_identifiers:
 - scheme: legacy_openstates
   identifier: IAL000125
@@ -32,10 +41,7 @@ other_identifiers:
 sources:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6588
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=6588
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=6588
 - url: https://www.legis.iowa.gov/legislators/senate
 extras:
-  home email: friendsofjschultz@yahoo.com
-  home address: 611 Cedar St, PO Box 70, Schleswig, IA 51461
-  cell phone: 712.269.2178
-  capitol phone: 515.281.3371
   occupation: Farmer

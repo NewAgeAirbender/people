@@ -13,14 +13,17 @@ roles:
   district: '15'
 offices:
 - classification: capitol
-  address: 601-E Coverdell Legislative Office Bldg.; Atlanta, GA 30334
-  voice: 404-656-0254
+  address: 109 State Capitol; Atlanta, GA 30334
+  voice: 404-651-7737
 - classification: district
   address: P.O. Box 487; Cartersville, GA 30120
-  name: 'District Office #1'
 links:
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27
 - url: https://www.legis.ga.gov/members/house/4934?session=1029
+- url: https://www.legis.ga.gov/members/house/4934?session=1031
+  note: HTML member detail page
+- url: http://www.legis.ga.gov/members/house
+  note: HTML members list page
 sources:
 - url: http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl
 - url: http://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27
@@ -29,6 +32,10 @@ sources:
   note: Initial list page (requires authorization token)
 - url: https://www.legis.ga.gov/api/members/detail/4934?session=1029&chamber=1
   note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4934?session=1031&chamber=1
+  note: API member detail (requires authorization token)
 extras:
   residence: Cartersville
   city: Cartersville
@@ -37,5 +44,6 @@ extras:
   occupation: Insurance
   press: https://house-press.com/representative/Matthew-Gambill
   spouse: Danae
-  staff: Kathy Hutcherson - Administrative Assistant
-  staff email: kathy.hutcherson@house.ga.gov
+  staff: Madison Spangler-McDonald - Administrative Assistant
+  staff email: madison.spangler-mcdonald@house.ga.gov
+  title: Governor's Floor Leader

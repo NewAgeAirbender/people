@@ -11,17 +11,23 @@ roles:
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Merrimack 9
-- type: lower
+- end_date: '2022-12-07'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Merrimack 9
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Merrimack 4
 offices:
 - classification: district
-  address: 144 Greenview Drive;Loudon, NH 03307-1145
+  address: 144 Greenview Drive Loudon, NH 03307-1145
   voice: 603-491-0553
   name: 'District Office #1'
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 - url: http://gencourt.state.nh.us/downloads/Members.txt
+other_names:
+- name: Michael I Moffett
 other_identifiers:
 - scheme: legacy_openstates
   identifier: NHL001321

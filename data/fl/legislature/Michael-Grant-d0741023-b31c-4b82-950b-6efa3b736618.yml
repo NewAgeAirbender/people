@@ -2,7 +2,7 @@ id: ocd-person/d0741023-b31c-4b82-950b-6efa3b736618
 name: Michael Grant
 given_name: Michael
 family_name: Grant
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4349.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4349.jpg
 party:
 - name: Republican
 roles:
@@ -19,6 +19,8 @@ offices:
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=90
+  note: member detail page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: FLL000641
@@ -27,3 +29,5 @@ sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 - url: https://www.myfloridahouse.gov/Representatives
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=90
+  note: member detail page

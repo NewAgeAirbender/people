@@ -9,9 +9,14 @@ party:
 - name: Republican
 roles:
 - start_date: 2021-01-01
+  end_date: '2023-01-01'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '54'
+- start_date: '2023-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '59'
 offices:
 - classification: district
   address: PO Box 467, Midway, UT, 84049
@@ -28,6 +33,8 @@ links:
   note: legislation
 - url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415490
   note: finance report
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist59.pdf
+  note: district demographics
 other_names:
 - name: Kohler, Mike L.
 - name: Kohler, M.

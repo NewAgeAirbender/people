@@ -3,11 +3,15 @@ name: Jeremy A. Cooney
 email: cooney@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd56_cooneyhs.jpg?itok=bMYwiWoQ
 party:
-- name: Democratic
+- name: Democratic/Working Families
 roles:
 - type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '56'
+offices:
+- classification: capitol
+  address: Legislative Office Building, Room 802; Albany,NY 12247
+  voice: 518-455-2909
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/jeremy-cooney/contact

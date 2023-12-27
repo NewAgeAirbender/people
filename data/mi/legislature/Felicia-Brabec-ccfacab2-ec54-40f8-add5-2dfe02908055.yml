@@ -7,15 +7,24 @@ email: FeliciaBrabec@house.mi.gov
 party:
 - name: Democratic
 roles:
-- type: lower
+- end_date: '2023-01-01'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mi/government
   district: '55'
+- start_date: '2023-01-11'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '33'
 offices:
 - classification: capitol
-  address: Room 989 House Office Building
-  voice: 1-517-373-1792
+  address: N-797 House Office Building
+  voice: 1-517-373-0820
 links:
 - url: https://housedems.com/felicia-brabec/
 sources:
 - url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
 - url: https://www.house.mi.gov/AllRepresentatives
+- url: https://housedems.com/felicia-brabec/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page

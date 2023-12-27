@@ -13,7 +13,7 @@ roles:
   district: '68'
 offices:
 - classification: capitol
-  address: 242A-W Stratton Building Springfield, IL 62706
+  address: 290-S Stratton Office Building Springfield, IL 62706
   voice: 217-782-0455
 - classification: district
   address: 4007 North Mulford Road Loves Park, IL 61111
@@ -22,8 +22,12 @@ links:
 - url: http://ilga.gov/house/Rep.asp?GA=102&MemberID=2998
 - url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2998
   note: homepage
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3186
+  note: homepage
 sources:
 - url: http://ilga.gov/house/default.asp?GA=102
 - url: http://ilga.gov/house/Rep.asp?GA=102&MemberID=2998
 - url: https://ilga.gov/house/default.asp?GA=102
 - url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=2998
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3186

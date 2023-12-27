@@ -3,7 +3,7 @@ name: Jenna Persons-Mulicka
 given_name: Jenna
 family_name: Persons-Mulicka
 gender: Female
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4785.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4785.jpg
 party:
 - name: Republican
 roles:
@@ -12,12 +12,16 @@ roles:
   district: '78'
 offices:
 - classification: capitol
-  address: 1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+  address: 209 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
   voice: 850-717-5078
 - classification: district
   address: Suite 208; 2120 Main Street; Fort Myers, FL 33901-3010
   voice: 239-338-2328
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4785&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4785&LegislativeTermId=90
+  note: member detail page
 sources:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4785&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4785&LegislativeTermId=90
+  note: member detail page

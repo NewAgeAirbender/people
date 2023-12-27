@@ -13,9 +13,8 @@ roles:
   district: '31'
 offices:
 - classification: district
-  address: 329 Wickham Road North Kingstown, RI 02852
+  address: 329 Wickham Road, North Kingstown, RI 02852
   voice: 401-474-7961
-  name: 'District Office #1'
 links:
 - url: http://www.rilin.state.ri.us/representatives/carson/
 - url: http://www.rilegislature.gov/representatives/carson/default.aspx
@@ -36,4 +35,4 @@ sources:
 - url: http://www.rilegislature.gov/representatives/casimiro/default.aspx
   note: Image Source
 extras:
-  City/Town Represented: Exeter, North Kingstown
+  City/Town Represented: 'North Kingstown, Exeter '

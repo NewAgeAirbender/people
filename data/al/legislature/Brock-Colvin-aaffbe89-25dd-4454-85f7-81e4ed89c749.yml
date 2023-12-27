@@ -1,0 +1,25 @@
+id: ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749
+name: Brock Colvin
+given_name: Brock
+family_name: Colvin
+image: https://www.legislature.state.al.us/pdf/house/members/Colvin_26.png
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '26'
+offices:
+- classification: capitol
+  address: 11 South Union Street,Suite 525-C,Montgomery, AL 36130-2950
+  voice: 334-261-0438
+- classification: district
+  address: 412-A Gunter Avenue,Guntersville, AL 35976
+links:
+- url: https://alison.legislature.state.al.us/house-leaders-members
+  note: homepage
+sources:
+- url: https://gql.api.alison.legislature.state.al.us/graphql
+  note: graphql endpoint for member information
+extras:
+  counties: Marshall County

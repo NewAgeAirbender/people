@@ -1,0 +1,36 @@
+id: ocd-person/23ffff2b-3ce6-46dc-996c-7b4fd71607bc
+name: Nabilah Islam Parkes
+given_name: Nabilah
+family_name: Islam Parkes
+email: nabilah.islam@senate.ga.gov
+image: https://www.legis.ga.gov/api/images/default-source/portraits/islam-nabilah-5015.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ga/government
+  district: '7'
+offices:
+- classification: capitol
+  address: 320-B CLOB; Atlanta, GA 30334
+  voice: 404-463-5263
+- classification: district
+  address: '3870 Peachtree Industrial Blvd S-340 #247; Duluth, GA 30096'
+links:
+- url: https://www.legis.ga.gov/members/senate/5015?session=1031
+  note: HTML member detail page
+- url: http://www.legis.ga.gov/members/senate
+  note: HTML members list page
+other_names:
+- name: Nabilah Islam
+sources:
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/5015?session=1031&chamber=2
+  note: API member detail (requires authorization token)
+extras:
+  residence: Lawrenceville
+  city: Lawrenceville
+  georgia_id: 5015
+  staff: Phyllis Williams
+  staff email: phyllis.williams@senate.ga.gov

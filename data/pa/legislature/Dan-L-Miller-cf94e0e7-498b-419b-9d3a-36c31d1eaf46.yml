@@ -3,7 +3,7 @@ name: Dan L. Miller
 given_name: Dan
 family_name: Miller
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1679.jpg
+image: https://www.legis.state.pa.us/images/members/200/1679.jpg?1684774806693
 party:
 - name: Democratic
 roles:
@@ -12,14 +12,13 @@ roles:
   district: '42'
 offices:
 - classification: capitol
-  address: 412 Main Capitol Building P.O. Box 202042 Harrisburg, PA 17120-2042
+  address: 121 Main Capitol Building P.O. Box 202042 Harrisburg, PA 17120-2042
   voice: 717-783-1850
   fax: 717-780-4756
 - classification: district
   address: 650 Washington Road Suite 102 Mt. Lebanon, PA 15228
   voice: 412-343-3870
   fax: 412-343-2050
-  name: 'District Office #1'
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1679
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

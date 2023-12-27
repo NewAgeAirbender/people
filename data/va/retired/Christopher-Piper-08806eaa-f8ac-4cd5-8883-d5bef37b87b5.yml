@@ -6,7 +6,7 @@ email: chris.piper@elections.virginia.gov
 party:
 - name: Independent
 roles:
-- end_date: '2021-12-31'
+- end_date: '2022-03-11'
   type: chief election officer
   jurisdiction: ocd-jurisdiction/country:us/state:va/government
 links:

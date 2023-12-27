@@ -3,7 +3,8 @@ name: Anita Bonds
 given_name: Anita
 family_name: Bonds
 email: abonds@dccouncil.gov
-biography: "Anita Bonds is an At-Large member of the Council of the District of Columbia\
+biography: |
+  "Anita Bonds is an At-Large member of the Council of the District of Columbia\
   \ and is currently the Chairwoman of the Committee on Housing and Neighborhood Revitalization.\n\
   Working to ensure that every District resident has a safe, sanitary, and affordable\
   \ place to call home, Councilmember Bonds pushes policies that will expand tenants\u2019\
@@ -45,7 +46,7 @@ offices:
 - classification: capitol
   address: 1350 Pennsylvania Avenue NW, Suite 404, Washington, DC 20004
   voice: 202-724-8064
-  fax: 202-724-8086
+  fax: 202-724-8099
 links:
 - url: https://dccouncil.us/council/anita-bonds/
 - url: https://dccouncil.us/council/anita-bonds/

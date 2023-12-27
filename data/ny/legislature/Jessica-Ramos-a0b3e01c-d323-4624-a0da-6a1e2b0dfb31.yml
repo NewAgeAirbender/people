@@ -5,20 +5,18 @@ family_name: Ramos
 email: ramos@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd13senator_jessica_ramos22_0.jpg?itok=WB6i4JL9
 party:
-- name: Democratic
+- name: Democratic/Working Families
 roles:
 - type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '13'
 offices:
 - classification: capitol
-  address: Legislative Office Bldg.;Albany,, NY 12247
+  address: Room 307; Albany,NY 12247
   voice: 518-455-2529
 - classification: district
-  address: 32-37 Junction Blvd.,;East Elmhurst,, NY 11369
+  address: Suite 302; Jackson Heights,NY 11372
   voice: 718-205-3881
-  fax: 718-205-4145
-  name: 'District Office #1'
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/jessica-ramos/contact

@@ -4,20 +4,24 @@ given_name: Juan
 family_name: Mendez
 gender: Male
 email: jmendez@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/MENDEZ.gif
+image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MENDEZ.gif
 party:
 - name: Democratic
 roles:
-- end_date: 2014-12-31
+- end_date: '2014-12-31'
   type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '26'
+- end_date: '2023-01-08'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:az/government
   district: '26'
 - type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:az/government
-  district: '26'
+  district: '8'
 offices:
 - classification: capitol
-  address: Senate;1700 West Washington;Room 313;Phoenix, AZ 85007
+  address: Senate;1700 West Washington;Room 213;Phoenix, AZ 85007
   voice: 602-926-4124
 links:
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1942
@@ -25,6 +29,8 @@ links:
   note: linkedin
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=123&legislator=1980
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=55&session=125&legislator=1980
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2136
+- url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2136
 ids:
   twitter: mendezforaz
   instagram: sen.mendez
@@ -39,3 +45,5 @@ other_identifiers:
 sources:
 - url: http://www.azleg.gov/MemberRoster/?body=S
 - url: https://www.azleg.gov/memberroster/?body=S
+extras:
+  title: Assistant Minority Leader

@@ -9,13 +9,19 @@ party:
 - name: Republican
 roles:
 - start_date: 2020-04-16
+  end_date: '2023-01-01'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '53'
+- start_date: '2023-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '4'
 offices:
-- classification: district
-  address: P.O. BOX 497, MORGAN, UT, 84050
+- classification: capitol
   voice: 385-266-2677
+- classification: district
+  address: P.O. BOX 892, Morgan, UT, 84050
 links:
 - url: http://house.utah.gov/rep/BIRKEK
 - url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BIRKEK
@@ -28,6 +34,8 @@ links:
   note: legislation
 - url: https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415564
   note: finance report
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist04.pdf
+  note: district demographics
 other_names:
 - name: Birkeland, Kera
 - name: Birkeland, K.

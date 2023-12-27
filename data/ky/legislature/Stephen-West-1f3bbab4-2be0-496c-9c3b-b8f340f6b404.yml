@@ -12,7 +12,6 @@ roles:
   district: '27'
 offices:
 - classification: capitol
-  address: 702 Capital Ave;Annex Room 229;Frankfort, KY 40601
   voice: 502-564-8100
 - classification: district
   address: 702 Capital Ave Annex Room 228 Frankfort, KY 40601
@@ -36,5 +35,5 @@ extras:
   counties represented:
   - Bourbon
   - Fayette
-  mailing address: 202 Vimont Ln Paris, KY 40361
+  mailing address: 702 Capital Ave Annex Room 228 Frankfort, KY 40601
   home city: Paris

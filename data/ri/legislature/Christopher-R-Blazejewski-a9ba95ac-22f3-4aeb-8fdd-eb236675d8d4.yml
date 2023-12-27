@@ -4,7 +4,7 @@ given_name: Christopher R.
 family_name: Blazejewski
 gender: Male
 email: rep-blazejewski@rilegislature.gov
-image: http://www.rilegislature.gov/representatives/pictures/blazejewski.jpg
+image: http://www.rilegislature.gov/pressrelease/Pictures/2023-2024/Blazejewski.jpg
 party:
 - name: Democratic
 roles:
@@ -15,7 +15,6 @@ offices:
 - classification: district
   address: State House, Room 323 Providence, RI 02903
   voice: 401-222-2447
-  name: 'District Office #1'
 links:
 - url: http://www.rilin.state.ri.us/representatives/carson/
 - url: http://www.rilegislature.gov/representatives/carson/default.aspx

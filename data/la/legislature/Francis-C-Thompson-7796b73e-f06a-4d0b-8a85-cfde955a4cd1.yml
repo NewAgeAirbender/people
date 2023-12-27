@@ -5,14 +5,16 @@ family_name: Thompson
 email: thompsof@legis.la.gov
 image: https://house.louisiana.gov/H_Reps/RepPics20/rep19.jpg
 party:
-- name: Democratic
+- end_date: '2023-04-18'
+  name: Democratic
+- name: Republican
 roles:
 - type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   district: '19'
 offices:
 - classification: district
-  address: P. O. Box 68;Delhi, LA 71232
+  address: P. O. Box 68 Delhi, LA 71232
   voice: 318-878-9408
   fax: 318-878-5650
 links:
@@ -33,13 +35,13 @@ sources:
 - url: https://house.louisiana.gov/H_Reps/members.aspx?ID=19
 - url: https://house.louisiana.gov/H_Reps/H_Reps_FullInfo
 extras:
-  legislative assistant: Sharon Gilmore and Josie Hoychick
+  legislative assistant: Sharon Gilmore
   representing parishes:
   - East Carroll
   - Madison
   - Morehouse
   - Ouachita
   - Richland
-  - West Carroll
+  - and West Carroll
   education: Louisiana Technical University, B.S.; Northeast Louisiana University,
-    EdD; Northeast Louisiana University, Med; Louisiana Technical University, MS
+             EdD; Northeast Louisiana University, Med; Louisiana Technical University, MS

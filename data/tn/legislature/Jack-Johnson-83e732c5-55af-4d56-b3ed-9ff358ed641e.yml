@@ -3,23 +3,28 @@ name: Jack Johnson
 given_name: Jack
 family_name: Johnson
 email: sen.jack.johnson@capitol.tn.gov
-image: https://www.capitol.tn.gov/senate/members/images/s23.jpg
+image: https://www.capitol.tn.gov/senate/members/images/s27.jpg
 party:
 - name: Republican
 roles:
-- type: upper
+- end_date: '2022-01-08'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:tn/government
   district: '23'
+- start_date: '2022-01-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '27'
 offices:
 - classification: capitol
   address: 425 Rep. John Lewis Way N. Suite 702 Cordell Hull Bldg. Nashville, TN 37243
   voice: 615-741-2495
   fax: 615-253-0321
-- classification: district
-  address: 330 Franklin Road Ste. 135-A-178 Brentwood, TN 37027
 links:
 - url: http://www.capitol.tn.gov/senate/members/s23.html
 - url: https://www.capitol.tn.gov/senate/members/s23.html
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S27
   note: homepage
 other_identifiers:
 - scheme: legacy_openstates
@@ -33,6 +38,8 @@ sources:
 - url: http://www.capitol.tn.gov/senate/members/s23.html
 - url: https://www.capitol.tn.gov/senate/members/
 - url: https://www.capitol.tn.gov/senate/members/s23.html
+- url: http://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=S
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S27
 extras:
   office: 702 CHB
   personal info:
@@ -41,9 +48,3 @@ extras:
   - Attends Grace Chapel Church in Leiper's Fork
   - B.S., Education, Texas State University
   - Small Business Owner
-  Senior Legislative Advisor email: luke.gustafson@capitol.tn.gov
-  Senior Legislative Advisor: Luke Gustafson
-  Executive Assistant for Policy and Research email: hunter.shults@capitol.tn.gov
-  Executive Assistant for Policy and Research: Hunter Shults
-  Executive Secretary email: taylor.blackwell@capitol.tn.gov
-  Executive Secretary: Taylor Blackwell

@@ -1,0 +1,25 @@
+id: ocd-person/26a0642d-d0b6-450f-9438-018a36b04cbf
+name: Gregg Johnson
+given_name: Gregg
+family_name: Johnson
+email: support@repgreggjohnson.com
+image: https://ilga.gov/images/members/{8746A238-F14D-428E-A0AD-E3D3F28F80F5}.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '72'
+offices:
+- classification: capitol
+  address: 258-W Stratton Office Building Springfield, IL 62706
+  voice: 217-782-5970
+- classification: district
+  address: 945 15th Ave. East Moline, IL 61244
+  voice: 309-203-1668
+links:
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3236
+  note: homepage
+sources:
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3236

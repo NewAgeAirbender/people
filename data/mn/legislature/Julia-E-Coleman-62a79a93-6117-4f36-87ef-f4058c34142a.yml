@@ -9,12 +9,16 @@ party:
 - name: Republican
 roles:
 - start_date: 2021-01-05
+  end_date: '2023-01-03'
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:mn/government
   district: '47'
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '48'
 offices:
 - classification: capitol
-  address: 2101 Minnesota Senate Bldg.; St. Paul, MN 55155
+  address: 2303 Minnesota Senate Bldg.; St. Paul, MN 55155
   voice: 651-296-4837
 links:
 - url: https://www.senate.mn/members/member_bio.html?member_id=1244

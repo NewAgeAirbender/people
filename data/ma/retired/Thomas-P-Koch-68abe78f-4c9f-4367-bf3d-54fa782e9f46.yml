@@ -1,0 +1,13 @@
+id: ocd-person/68abe78f-4c9f-4367-bf3d-54fa782e9f46
+name: Thomas P. Koch
+given_name: Thomas P.
+family_name: Koch
+email: mayorkoch@quincyma.gov
+roles:
+- end_date: '2023-11-07'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/place:quincy/government
+offices:
+- classification: primary
+  address: City Hall;1305 Hancock Street;Quincy, MA 02169
+  voice: 617-376-1990

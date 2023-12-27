@@ -13,11 +13,10 @@ roles:
   district: '10'
 offices:
 - classification: capitol
+  address: Pocahontas Building, Room E316; 900 East Main Street; Richmond, Virginia 23219
   voice: 804-698-1010
 - classification: district
-  address: P.O. Box 180;Boyce, Virginia 22620
-  voice: 540-300-3857
-  name: 'District Office #1'
+  address: P.O. Box 180; Boyce, Virginia 22620
 links:
 - url: http://lis.virginia.gov/cgi-bin/legp604.exe?191+mbr+H296
 - url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H296

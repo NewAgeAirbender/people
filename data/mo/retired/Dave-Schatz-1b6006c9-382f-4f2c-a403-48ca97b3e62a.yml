@@ -1,0 +1,32 @@
+id: ocd-person/1b6006c9-382f-4f2c-a403-48ca97b3e62a
+name: Dave Schatz
+given_name: Dave
+family_name: Schatz
+gender: Male
+image: https://www.senate.mo.gov/18web/wp-content/uploads/2015/11/Schatz-200x300.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '26'
+  end_date: '2023-01-04'
+offices:
+- classification: capitol
+  address: 201 W Capitol Ave, Room 326
+  voice: 573-751-3678
+links:
+- url: http://www.senate.mo.gov/mem26
+- url: https://www.senate.mo.gov/mem26
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MOL000160
+- scheme: legacy_openstates
+  identifier: MOL000343
+- scheme: legacy_openstates
+  identifier: MOL000412
+sources:
+- url: http://www.senate.mo.gov/senators-listing/
+- url: http://www.senate.mo.gov/mem26
+- url: https://www.senate.mo.gov/senators-listing/
+- url: https://www.senate.mo.gov/mem26

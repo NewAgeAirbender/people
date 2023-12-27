@@ -4,7 +4,7 @@ given_name: Jerry
 family_name: Obermueller
 email: Jerry.Obermueller@wyoleg.gov
 birth_date: 1947-10-17
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-ObermuellerJerry.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-ObermuellerJerry.jpg
 party:
 - name: Republican
 roles:
@@ -13,9 +13,8 @@ roles:
   district: '56'
 offices:
 - classification: district
-  address: 5031 S. David Street, Casper WY 82601
+  address: 5031 S. David Street, Casper, WY 82601
   voice: 307-262-7297
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2019/R/2045
 - url: http://wyoleg.gov/Legislators/2021/R/2045
@@ -29,6 +28,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/2045
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/H
 - url: https://wyoleg.gov/LsoService/api/legislator/2045
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
 extras:
   county: Natrona County
   religion: Christian

@@ -1,0 +1,26 @@
+id: ocd-person/4dadb374-d534-4ba0-8323-6e41a19933f5
+name: Erica Harriss
+given_name: Erica
+family_name: Harriss
+image: https://ilga.gov/images/members/{7762DCAD-269B-472B-BDD4-5F5A28D47817}.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '56'
+offices:
+- classification: capitol
+  address: Stratton Office Building Section B, Office C
+  voice: 217-782-5247
+- classification: district
+  address: Springfield, IL 62706 120 North Main Street Suite 1B
+  voice: 618-307-5789
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3216
+  note: homepage
+other_names:
+- name: Erica Conway Harriss
+sources:
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3216

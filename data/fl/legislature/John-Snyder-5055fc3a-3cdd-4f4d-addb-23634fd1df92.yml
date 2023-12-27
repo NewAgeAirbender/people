@@ -3,21 +3,29 @@ name: John Snyder
 given_name: John
 family_name: Snyder
 gender: Male
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4787.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4787.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2022-11-08'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '82'
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '86'
 offices:
 - classification: capitol
-  address: 1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
-  voice: 850-717-5082
+  address: 322 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+  voice: 850-717-5086
 - classification: district
   address: '#201; 4239 Southwest High Meadows Avenue; Palm City, FL 34990-3728'
-  voice: 772-210-5626
+  voice: 772-403-1064
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90
+  note: member detail page
 sources:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90
+  note: member detail page

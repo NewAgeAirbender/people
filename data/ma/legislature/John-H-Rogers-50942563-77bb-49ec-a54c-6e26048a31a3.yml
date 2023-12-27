@@ -14,8 +14,8 @@ roles:
   district: 12th Norfolk
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 162; Boston, MA 02133
-  voice: 617-722-2092
+  address: 24 Beacon St., Room 155; Boston, MA 02133
+  voice: 617-722-2450
   fax: 617-722-2347
 links:
 - url: https://malegislature.gov/Legislators/Profile/JHR1
@@ -30,5 +30,7 @@ sources:
 - url: https://malegislature.gov/Legislators/Profile/JHR1
 - url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JHR1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JHR1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   member code: JHR1

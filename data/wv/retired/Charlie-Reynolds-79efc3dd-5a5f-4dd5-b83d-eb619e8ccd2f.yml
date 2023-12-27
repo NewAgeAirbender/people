@@ -1,0 +1,26 @@
+id: ocd-person/79efc3dd-5a5f-4dd5-b83d-eb619e8ccd2f
+name: Charlie Reynolds
+given_name: Charlie
+family_name: Reynolds
+gender: Male
+email: charlie.reynolds@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/reynolds_charlie.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2022-12-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '4'
+- end_date: '2022-12-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '6'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Reynolds
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Reynolds
+  note: homepage
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Reynolds
+- url: http://www.wvlegislature.gov/House/roster.cfm
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Reynolds

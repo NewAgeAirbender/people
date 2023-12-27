@@ -1,0 +1,22 @@
+id: ocd-person/e79608fa-7921-49f2-ba2e-d10f70008a5b
+name: Melony G. Griffith
+given_name: Melony
+family_name: Griffith
+gender: Female
+email: melony.griffith@senate.state.md.us
+image: http://mgaleg.maryland.gov/2023RS/images/griffith01.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2023-10-31'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '25'
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=griffith01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith01
+other_names:
+- name: Melony Griffith
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=griffith01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith01

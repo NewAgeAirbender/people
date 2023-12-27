@@ -1,0 +1,24 @@
+id: ocd-person/34274113-7ea1-4e6e-aa7a-da2c9d1037b4
+name: Willie Preston
+given_name: Willie
+family_name: Preston
+image: https://ilga.gov/images/members/{CFF4C1DD-FC97-428B-9D19-A520A543F4AC}.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:il/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Stratton Office Building Section C, Office N
+  voice: 217-782-1607
+- classification: district
+  address: Springfield, IL 62706 8500 South Pulaski Road Chicago, IL 60652
+  voice: 773-912-6255
+links:
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3209
+  note: homepage
+sources:
+- url: https://ilga.gov/senate/default.asp?GA=103
+- url: https://ilga.gov/senate/Senator.asp?GA=103&MemberID=3209

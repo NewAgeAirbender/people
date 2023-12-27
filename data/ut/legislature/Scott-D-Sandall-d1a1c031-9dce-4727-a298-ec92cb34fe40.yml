@@ -8,14 +8,18 @@ image: https://le.utah.gov/images/legislator/SANDASD.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2018-12-31'
+- end_date: '2019-01-01'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '1'
 - start_date: '2019-01-01'
+  end_date: '2023-01-01'
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '17'
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '1'
 offices:
 - classification: district
   address: 635 Hillcrest Circle, Tremonton, UT, 84337
@@ -44,6 +48,8 @@ links:
   note: finance report
 - url: https://senate.utah.gov/sen/SANDASD/
   note: homepage
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/Senate_Dist01.pdf
+  note: district demographics
 other_names:
 - name: Sandall, Scott D.
 - name: Sandall, S.

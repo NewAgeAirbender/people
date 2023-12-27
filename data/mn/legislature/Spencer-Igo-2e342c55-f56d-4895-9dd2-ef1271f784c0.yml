@@ -3,15 +3,19 @@ name: Spencer Igo
 given_name: Spencer
 family_name: Igo
 gender: Male
-email: rep.spencer.igo@house.mn
-image: https://www.house.leg.state.mn.us/hinfo/memberimgls92/05B.gif?v=112221
+email: rep.spencer.igo@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls93/07A.gif?v=032323
 party:
 - name: Republican
 roles:
 - start_date: 2021-01-05
+  end_date: '2023-01-03'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mn/government
   district: 5B
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 7A
 offices:
 - classification: capitol
   address: 233 State Office Building;St. Paul, MN 55155

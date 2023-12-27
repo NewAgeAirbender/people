@@ -6,18 +6,26 @@ email: Jim.Qualey@leg.state.nh.us
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2022-12-07'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Cheshire 11
+- start_date: '2022-12-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 18
 offices:
 - classification: district
-  address: Rindge, NH 03461
-  name: 'District Office #1'
+  address: "State House\x96House Member Mail 107 North Main Street Concord, NH 03301"
 links:
 - url: http://gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9875
+  note: member detail page
 sources:
 - url: http://gencourt.state.nh.us/downloads/Members.txt
 - url: http://gencourt.state.nh.us/downloads/members.txt
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9875
 extras:
   county: Cheshire
-  elected status: new
+  elected status: Incumbent
+  gender code: M

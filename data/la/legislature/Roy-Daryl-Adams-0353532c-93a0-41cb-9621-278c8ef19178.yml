@@ -5,14 +5,16 @@ family_name: Adams
 email: hse062@legis.la.gov
 image: https://house.louisiana.gov/H_Reps/RepPics20/rep62.jpg
 party:
-- name: Independent
+- end_date: '2023-05-19'
+  name: Independent
+- name: Democratic
 roles:
 - type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:la/government
   district: '62'
 offices:
 - classification: district
-  address: P. O. Box 217;Jackson, LA 70748
+  address: P. O. Box 217 Jackson, LA 70748
   voice: 225-634-7470
   fax: 225-634-7477
 links:
@@ -28,6 +30,6 @@ extras:
   representing parishes:
   - East Baton Rouge
   - East Feliciana
-  - West Feliciana
+  - and West Feliciana
   education: "Jackson High School; \r\nSouthwest Mississippi College;\r\nNortheastern\
     \ University in Monroe, LA"

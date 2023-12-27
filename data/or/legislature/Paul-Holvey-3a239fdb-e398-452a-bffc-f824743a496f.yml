@@ -4,7 +4,7 @@ given_name: Paul
 family_name: Holvey
 gender: Male
 email: Rep.PaulHolvey@oregonlegislature.gov
-image: https://www.oregonlegislature.gov/holvey/PublishingImages/PaulHolveyHeadshot.jpg
+image: https://www.oregonlegislature.gov/holvey/PublishingImages/member_photo.jpg
 party:
 - name: Democratic
 roles:
@@ -33,3 +33,4 @@ other_identifiers:
 sources:
 - url: https://www.oregonlegislature.gov/holvey
 - url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2022R1')/Legislators
+- url: https://api.oregonlegislature.gov/odata/odataservice.svc/LegislativeSessions('2023R1')/Legislators

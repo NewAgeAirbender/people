@@ -3,7 +3,7 @@ name: Steve Gooch
 given_name: Steve
 family_name: Gooch
 gender: Male
-email: steve.gooch@senate.ga.gov
+email: missing@invalid.no
 image: https://www.legis.ga.gov/api/images/default-source/portraits/gooch-steve-752.jpg
 party:
 - name: Republican
@@ -13,15 +13,18 @@ roles:
   district: '51'
 offices:
 - classification: capitol
-  address: 421-F State Capitol; Atlanta, GA 30334
+  address: 236 State Capitol; Atlanta, GA 30334
   voice: 404-656-9221
   fax: 404-651-6768
 - classification: district
   address: P.O. Box 600; Dahlonega, GA 30533
-  name: 'District Office #1'
 links:
 - url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=752&Session=27
 - url: https://www.legis.ga.gov/members/senate/752?session=1029
+- url: https://www.legis.ga.gov/members/senate/752?session=1031
+  note: HTML member detail page
+- url: http://www.legis.ga.gov/members/senate
+  note: HTML members list page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: GAL000017
@@ -33,6 +36,10 @@ sources:
   note: Initial list page (requires authorization token)
 - url: https://www.legis.ga.gov/api/members/detail/752?session=1029&chamber=2
   note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/752?session=1031&chamber=2
+  note: API member detail (requires authorization token)
 extras:
   residence: Dahlonega
   city: Dahlonega
@@ -40,6 +47,6 @@ extras:
   birthday: February 25
   press: https://senatepress.net/category/senate-press/steve-gooch
   spouse: Shannon
-  staff: Erin Alford
-  staff email: erin.alford@senate.ga.gov
-  title: Majority Whip
+  staff: Chloe Satterfield
+  staff email: chloe.satterfield@senate.ga.gov
+  title: Majority Leader

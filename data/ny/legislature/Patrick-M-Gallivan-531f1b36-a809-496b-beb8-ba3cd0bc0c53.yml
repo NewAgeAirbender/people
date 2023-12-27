@@ -5,11 +5,24 @@ family_name: Gallivan
 email: gallivan@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/09-15-16_gallivan-hs-012a.jpg?itok=6Ayxm7iL
 party:
-- name: Republican
+- end_date: '2023-03-03'
+  name: Republican
+- name: Republican/Conservative
 roles:
-- type: upper
+- end_date: '2023-01-01'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '59'
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '60'
+offices:
+- classification: capitol
+  address: Room 311; Albany,NY 12247
+  voice: 518-455-3471
+- classification: district
+  address: Suite 116; Elma,NY 14059
+  voice: 716-656-8544
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/patrick-m-gallivan/contact
@@ -26,12 +39,3 @@ other_identifiers:
   identifier: NYL000376
 sources:
 - url: http://www.nysenate.gov/senators/patrick-m-gallivan/contact
-offices:
-- address: Legislative Office Building;Albany,, NY 12247
-  voice: 518-455-3471
-  classification: capitol
-- address: 2721 Transit Road;Elma,, NY 14059
-  voice: 716-656-8544
-  fax: 518-426-6949
-  classification: district
-  name: 'District Office #1'

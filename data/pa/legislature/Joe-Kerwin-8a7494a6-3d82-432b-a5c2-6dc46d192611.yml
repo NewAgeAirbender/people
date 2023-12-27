@@ -3,7 +3,7 @@ name: Joe Kerwin
 given_name: Joe
 family_name: Kerwin
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1907.jpg
+image: https://www.legis.state.pa.us/images/members/200/1907.jpg?1684774806693
 party:
 - name: Republican
 roles:
@@ -16,10 +16,9 @@ offices:
   voice: 717-260-6148
   fax: 717-782-2899
 - classification: district
-  address: 15 E Main Street Schuylkill Haven, PA 17972
-  voice: 570-385-8235
-  fax: 570-385-8238
-  name: 'District Office #1'
+  address: 5821 Linglestown Road Suite 204 Harrisburg, PA 17112
+  voice: 717-652-6820
+  fax: 717-652-3721
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1907

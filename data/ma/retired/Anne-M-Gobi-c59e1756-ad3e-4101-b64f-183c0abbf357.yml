@@ -1,0 +1,42 @@
+id: ocd-person/c59e1756-ad3e-4101-b64f-183c0abbf357
+name: Anne M. Gobi
+given_name: Anne
+family_name: Gobi
+gender: Female
+email: anne.gobi@masenate.gov
+image: https://malegislature.gov/Legislators/Profile/170/AMG0.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2023-01-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester, Hampden, Hampshire and Middlesex
+- end_date: '2023-06-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: Worcester and Hampshire
+offices:
+- classification: capitol
+  address: 24 Beacon St., Room 413-A; Boston, MA 02133
+  voice: 617-722-1540
+  fax: 617-722-1078
+links:
+- url: https://malegislature.gov/Legislators/Profile/AMG0
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000104
+- scheme: legacy_openstates
+  identifier: MAL000368
+- scheme: legacy_openstates
+  identifier: MAL000336
+- scheme: legacy_openstates
+  identifier: MAL000366
+sources:
+- url: https://malegislature.gov/Legislators/Profile/AMG0
+- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/AMG0
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/AMG0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+extras:
+  member code: AMG0

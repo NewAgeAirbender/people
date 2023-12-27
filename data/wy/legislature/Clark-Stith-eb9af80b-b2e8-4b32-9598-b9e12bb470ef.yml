@@ -4,7 +4,7 @@ given_name: Clark
 family_name: Stith
 email: Clark.Stith@wyoleg.gov
 birth_date: 1961-05-19
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-StithClark.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-StithClark.jpg
 party:
 - name: Republican
 roles:
@@ -13,9 +13,8 @@ roles:
   district: '48'
 offices:
 - classification: district
-  address: 212 College Court, Rock Springs WY 82901
+  address: 212 College Court, Rock Springs, WY 82901
   voice: 307-389-7735
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2019/R/2049
 - url: http://wyoleg.gov/Legislators/2021/R/2049
@@ -29,6 +28,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/2049
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/H
 - url: https://wyoleg.gov/LsoService/api/legislator/2049
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
 extras:
   county: Sweetwater County
   education:
@@ -41,10 +41,16 @@ extras:
   - schoolName: University of Kansas
     gradYear: '1985'
     degree: BA/BS
+  title: Speaker Pro Tempore
   religion: Methodist
   number of children: '2'
   birth place: Atchison, Kansas
   occupation: Attorney
+  leadership:
+  - startYear: '2023'
+    endYear: '2024'
+    position: 'House Speaker Pro Tempore                         '
+    currentLeader: true
   house years: 'House:  2017-Present'
   prior service:
   - chamber: House

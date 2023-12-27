@@ -1,7 +1,7 @@
 id: ocd-person/042b27f1-ec82-497e-958c-ebe5da28b706
 name: William Cloud "Will" Robinson , Jr.
 gender: Male
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4733.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4733.jpg
 party:
 - name: Republican
 roles:
@@ -10,14 +10,16 @@ roles:
   district: '71'
 offices:
 - classification: capitol
-  address: 214 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
+  address: 417 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
   voice: 850-717-5071
 - classification: district
-  address: Suite 746; 1112 Manatee Avenue West; Bradenton, FL 34205-7804
-  voice: 941-708-4968
+  address: '#305; 1051 Manatee Avenue West; Bradenton, FL 34205-7801'
+  voice: 941-744-5097
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=90
+  note: member detail page
 other_names:
 - name: Robinson, W.
 sources:
@@ -25,3 +27,5 @@ sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 - url: https://www.myfloridahouse.gov/Representatives
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=90
+  note: member detail page

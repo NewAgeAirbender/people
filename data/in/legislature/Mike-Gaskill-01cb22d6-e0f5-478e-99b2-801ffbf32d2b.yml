@@ -8,9 +8,14 @@ party:
 - name: Republican
 roles:
 - start_date: '2018-11-07'
+  end_date: '2022-11-09'
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:in/government
   district: '26'
+- start_date: '2022-11-09'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '25'
 offices:
 - classification: capitol
   address: 200 W. Washington St.Indianapolis, IN 46204
@@ -25,6 +30,7 @@ sources:
 - url: https://www.indianasenaterepublicans.com/senators
 - url: https://www.indianasenaterepublicans.com/gaskill
 extras:
+  title: Assistant Majority Floor Leader for Parliamentary Affairs
   second phone: 317-232-9400
   legislative assistant name: Cassie Tripp
   legislative assistant phone: 317-234-9443

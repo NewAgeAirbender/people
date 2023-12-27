@@ -17,7 +17,7 @@ roles:
   district: Georgia
 offices:
 - classification: capitol
-  address: 455 Russell Senate Office Building Washington DC 20510
+  address: 303 Hart Senate Office Building Washington DC 20510
   voice: 202-224-3521
 links:
 - url: https://www.ossoff.senate.gov
@@ -45,5 +45,9 @@ other_identifiers:
   identifier: Q28839536
 - scheme: ballotpedia
   identifier: Jon Ossoff
+- scheme: votesmart
+  identifier: '176134'
+- scheme: google_entity_id
+  identifier: kg:/g/11g6njlbw2
 sources:
 - url: https://theunitedstates.io/

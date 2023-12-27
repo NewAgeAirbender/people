@@ -5,11 +5,15 @@ family_name: Brisport
 email: brisport@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd25jabar_brisport.jpg?itok=NzoQxMPy
 party:
-- name: Democratic
+- name: Democratic/Working Families
 roles:
 - type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '25'
+offices:
+- classification: capitol
+  address: 805 Legislative Office Building; Albany,NY 12247
+  voice: 518-455-3451
 links:
 - url: http://www.nysenate.gov/senators-committees
 - url: http://www.nysenate.gov/senators/jabari-brisport/contact

@@ -1,0 +1,23 @@
+id: ocd-person/a148ff77-2e73-4e42-a525-20e8d1ed569a
+name: Priscila S. Sousa
+given_name: Priscila
+family_name: Sousa
+email: Priscila.Sousa@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/PSS1.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 6th Middlesex
+offices:
+- classification: capitol
+  address: 24 Beacon St., Room 443; Boston, MA 02133
+  voice: 617-722-2460
+links:
+- url: https://malegislature.gov/Legislators/Profile/PSS1
+sources:
+- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/PSS1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+extras:
+  member code: PSS1

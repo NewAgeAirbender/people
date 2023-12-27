@@ -12,7 +12,11 @@ roles:
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '49'
+<<<<<<< HEAD:data/me/retired/Jeffrey-Evangelos-c78368af-d3a2-4ee5-9d0f-61428e5ae5df.yml
 - start_date: 2015-01-01
+=======
+- start_date: 2018-12-05
+>>>>>>> main:data/me/legislature/Jeffrey-Evangelos-c78368af-d3a2-4ee5-9d0f-61428e5ae5df.yml
   end_date: '2022-12-07'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government

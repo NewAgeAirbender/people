@@ -1,0 +1,24 @@
+id: ocd-person/ff433cf6-2895-4e01-b143-26747500f8a4
+name: Shirley B. Arriaga
+given_name: Shirley
+family_name: Arriaga
+email: Shirley.Arriaga@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/SBA1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 8th Hampden
+offices:
+- classification: capitol
+  address: 24 Beacon St., Room 448; Boston, MA 02133
+  voice: 617-722-2582
+links:
+- url: https://malegislature.gov/Legislators/Profile/SBA1
+sources:
+- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/SBA1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+extras:
+  member code: SBA1

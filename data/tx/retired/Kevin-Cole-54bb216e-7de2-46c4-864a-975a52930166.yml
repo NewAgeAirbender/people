@@ -1,0 +1,13 @@
+id: ocd-person/54bb216e-7de2-46c4-864a-975a52930166
+name: Kevin Cole
+given_name: Kevin
+family_name: Cole
+email: kcole@pearlandtx.gov
+roles:
+- end_date: '2023-05-16'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:tx/place:pearland/government
+offices:
+- classification: primary
+  address: 3519 Liberty Dr.;Pearland, TX 77581
+  voice: 281-652-1780

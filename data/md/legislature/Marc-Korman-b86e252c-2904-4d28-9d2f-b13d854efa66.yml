@@ -4,11 +4,12 @@ given_name: Marc
 family_name: Korman
 gender: Male
 email: Marc.Korman@house.state.md.us
-image: http://mgaleg.maryland.gov/2022RS/images/korman01.jpg
+image: http://mgaleg.maryland.gov/2024RS/images/korman01.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: '2015-01-14'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   district: '16'
 offices:

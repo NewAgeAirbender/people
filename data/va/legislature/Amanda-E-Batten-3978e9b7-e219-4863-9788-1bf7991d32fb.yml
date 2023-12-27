@@ -12,10 +12,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:va/government
   district: '96'
 offices:
+- classification: capitol
+  address: Pocahontas Building, Room W432; 900 East Main Street; Richmond, Virginia 23219
 - classification: district
-  address: P.O. Box 194;Norge, Virginia 23127
+  address: P.O. Box 194; Norge, Virginia 23127
   voice: 804-698-1096
-  name: 'District Office #1'
 links:
 - url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+H313
 - url: http://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+H313

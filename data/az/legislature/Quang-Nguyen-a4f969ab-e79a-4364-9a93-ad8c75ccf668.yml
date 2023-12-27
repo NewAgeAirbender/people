@@ -4,7 +4,7 @@ given_name: Quang
 family_name: Nguyen
 gender: Male
 email: qnguyen@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg
+image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/NGUYEN.jpg
 party:
 - name: Republican
 roles:
@@ -18,8 +18,10 @@ offices:
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2063
 - url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2063
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2184
 other_names:
 - name: Quang Nguyen
+- name: Quang H Nguyen
 sources:
 - url: http://www.azleg.gov/MemberRoster/?body=H
 - url: https://www.azleg.gov/memberroster/?body=H

@@ -4,7 +4,7 @@ given_name: Liz
 family_name: Lovelett
 gender: Female
 email: liz.lovelett@leg.wa.gov
-image: https://app.leg.wa.gov/ContentParts/MemberDirectory/LargePhoto?a=Senate&m=29548
+image: https://app.leg.wa.gov/ContentParts/MemberDirectory/LargePhoto?m=29548
 party:
 - name: Democratic
 roles:
@@ -14,8 +14,10 @@ roles:
   district: '40'
 offices:
 - classification: capitol
-  address: 213 John A. Cherberg Building; PO Box 40440; Olympia, WA 98504
+  address: 233 John A. Cherberg Building; PO Box 40440; Olympia, WA 98504
   voice: 360-786-7678
+- classification: district
+  address: 1601 R Avenue; Anacortes, WA; 98221
 links:
 - url: http://sdc.wastateleg.org/Lovelett/
 - url: http://www.leg.wa.gov/senate/senators/Pages/default.aspx

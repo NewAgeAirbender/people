@@ -1,0 +1,13 @@
+id: ocd-person/d46afc55-70bc-40ed-9261-f9dab6673a2d
+name: David Kaptain
+given_name: David
+family_name: Kaptain
+email: mayor@cityofelgin.org
+roles:
+- end_date: '2023-04-04'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:elgin/government
+offices:
+- classification: primary
+  address: 150 Dexter Court;Elgin, IL 60120
+  voice: 847-931-6100

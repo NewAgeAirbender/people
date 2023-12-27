@@ -4,22 +4,34 @@ given_name: Mallory
 family_name: McMorrow
 gender: Female
 email: senmmcmorrow@senate.michigan.gov
-image: https://senate.michigan.gov/_images/13th.jpg
+image: https://senatedems.com/mcmorrow/wp-content/uploads/sites/14/2023/02/MDS_McMorrow_DSC5342_dec20.jpg
 party:
 - name: Democratic
 roles:
-- type: upper
+- end_date: '2023-01-01'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:mi/government
   district: '13'
+- start_date: 2023-01-11
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '8'
+offices:
+- classification: capitol
+  address: 6100 Binsfeld Building, 201 Townsend St, Lansing, MI 48933
+  voice: 517-373-2523
 links:
 - url: https://senatedems.com/mcmorrow/
 - url: https://senatedems.com/mcmorrow/contact
   note: Contact
+- url: https://senatedems.com/mcmorrow
+  note: Member Page
+- url: http://senatedems.com/mcmorrow/contact
+  note: Member Contact Page
 sources:
 - url: https://senatedems.com/mcmorrow/
 - url: https://senate.michigan.gov/senatorinfo_list.html
-offices:
-- address: 6200 Binsfeld Bldg
-  voice: 517-373-2523
-  fax: 517-373-5669
-  classification: capitol
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page

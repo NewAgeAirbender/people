@@ -1,0 +1,24 @@
+id: ocd-person/ea190b03-d1ca-4d75-89c7-dca745386db7
+name: Annette Taddeo
+given_name: Annette
+family_name: Taddeo
+gender: Female
+email: taddeo.annette.web@flsenate.gov
+image: https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s40_5331.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-11-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '40'
+links:
+- url: http://www.flsenate.gov/Senators/s40
+- url: http://www.flsenate.gov/Senators/2018-2020/S40
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: FLL000542
+sources:
+- url: http://www.flsenate.gov/Senators/
+- url: http://www.flsenate.gov/Senators/s40
+- url: http://www.flsenate.gov/Senators/2018-2020/S40

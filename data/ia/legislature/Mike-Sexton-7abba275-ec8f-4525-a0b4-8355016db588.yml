@@ -1,16 +1,21 @@
 id: ocd-person/7abba275-ec8f-4525-a0b4-8355016db588
-name: Mike Sexton
+name: Michael V. Sexton
 given_name: Mike
 family_name: Sexton
 gender: Male
-email: Mike.Sexton@legis.iowa.gov
-image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=89&pid=1153
+email: mike.sexton@legis.iowa.gov
+image: https://www.legis.iowa.gov/photo?action=getPhoto&ga=90&pid=1153
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2023-01-01'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ia/government
   district: '10'
+- start_date: '2023-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ia/government
+  district: '7'
 offices:
 - classification: capitol
   voice: 515-281-3221
@@ -21,18 +26,21 @@ offices:
 links:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=1153
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=1153
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=1153
 - url: http://https://www.legis.iowa.gov/legislators/legislator/newsletter?id=1153&ga=89
+- url: http://https://www.legis.iowa.gov/legislators/legislator/newsletter?id=1153&ga=90
+- url: http://https://iowahouserepublicans.nationbuilder.com/reps
+- url: http://https://lp.constantcontactpages.com/su/99oa5DS
+other_names:
+- name: Mike Sexton
 other_identifiers:
 - scheme: legacy_openstates
   identifier: IAL000502
 sources:
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=1153
 - url: https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=1153
+- url: https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=1153
 - url: https://www.legis.iowa.gov/legislators/house
 extras:
-  home phone: 712.297.8720
   home email: mike@twinlakesenviro.com
-  home address: 2202 Ogden Ave, Rockwell City, IA 50579
-  cell phone: 712.830.3960
-  capitol phone: 515.281.3221
-  occupation: Farmer/Entrepreneur
+  occupation: Farmer

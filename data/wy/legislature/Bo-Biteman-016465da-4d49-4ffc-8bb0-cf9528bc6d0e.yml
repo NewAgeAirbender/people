@@ -4,7 +4,7 @@ given_name: Bo
 family_name: Biteman
 email: Bo.Biteman@wyoleg.gov
 birth_date: 1978-10-23
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-BitemanBo.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-BitemanBo.jpg
 party:
 - name: Republican
 roles:
@@ -18,9 +18,8 @@ roles:
   district: '21'
 offices:
 - classification: district
-  address: P.O. Box 283, Ranchester WY 82839
+  address: P.O. Box 283, Ranchester, WY 82839
   voice: 307-751-6178
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2019/R/2044
 - url: http://wyoleg.gov/Legislators/2021/R/2044
@@ -34,6 +33,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/2044
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/S
 - url: https://wyoleg.gov/LsoService/api/legislator/2044
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
 extras:
   county: Sheridan County
   education:

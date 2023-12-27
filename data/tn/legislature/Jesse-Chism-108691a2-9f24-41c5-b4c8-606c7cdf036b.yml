@@ -3,7 +3,7 @@ name: Jesse Chism
 given_name: Jesse
 family_name: Chism
 email: rep.jesse.chism@capitol.tn.gov
-image: https://www.capitol.tn.gov/house/members/images/H85.jpg
+image: https://www.capitol.tn.gov/house/members/images/h85.jpg
 party:
 - name: Democratic
 roles:
@@ -22,11 +22,15 @@ links:
 - url: http://www.capitol.tn.gov/house/members/h85.html
 - url: https://www.capitol.tn.gov/house/members/h85.html
   note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H85
+  note: homepage
 sources:
 - url: http://www.capitol.tn.gov/house/members/
 - url: http://www.capitol.tn.gov/house/members/h85.html
 - url: https://www.capitol.tn.gov/house/members/
 - url: https://www.capitol.tn.gov/house/members/h85.html
+- url: http://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H85
 extras:
   office: 504 CHB
   personal info:
@@ -36,4 +40,3 @@ extras:
   - Overton High School
   - B.A. Business Administration, Morehouse College
   - M. Ed, Union University
-  staff: Monica Burks

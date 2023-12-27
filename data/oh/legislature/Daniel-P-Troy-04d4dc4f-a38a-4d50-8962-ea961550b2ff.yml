@@ -1,15 +1,19 @@
 id: ocd-person/04d4dc4f-a38a-4d50-8962-ea961550b2ff
 name: Daniel P. Troy
-image: https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2948.jpg
+image: https://www.legislature.ohio.gov/assets/people/daniel-p-troy/headshots/thumbnails/medium/daniel-p-troy-january-2021-headshot_medium.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- end_date: '2023-01-01'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:oh/government
   district: '60'
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:oh/government
+  district: '23'
 offices:
 - classification: capitol
-  address: 77 South High Street; 10th Floor; Columbus, OH 43215
+  address: 77 South High Street; Floor 10; Columbus, OH 43215
   voice: 614-466-7251
   fax: 614-719-3962
 links:
@@ -18,3 +22,7 @@ other_names:
 - name: Daniel Troy
 sources:
 - url: http://ohiohouse.gov/daniel-p-troy
+- url: https://ohiohouse.gov/members/daniel-p-troy
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page

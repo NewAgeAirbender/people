@@ -3,7 +3,7 @@ name: Perry S. Warren
 given_name: Perry
 family_name: Warren
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1743.jpg
+image: https://www.legis.state.pa.us/images/members/200/1743.jpg?1684774806693
 party:
 - name: Democratic
 roles:
@@ -12,13 +12,12 @@ roles:
   district: '31'
 offices:
 - classification: capitol
-  address: G-01 Irvis Office Building P.O. Box 202031 Harrisburg, PA 17120-2031
+  address: G01 Irvis Office Building P.O. Box 202031 Harrisburg, PA 17120-2031
   voice: 717-787-5475
 - classification: district
-  address: Senior Servicenter 31 E. Cleveland Ave. Morrisville, PA 19067
+  address: 509 Floral Vale Boulevard Yardley, PA 19067-5512
   voice: 215-493-5420
   fax: 215-493-5424
-  name: 'District Office #1'
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1743
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

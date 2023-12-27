@@ -4,7 +4,7 @@ given_name: Larry
 family_name: Walker
 suffix: III
 gender: Male
-email: larry.walker@senate.ga.gov
+email: missing@invalid.no
 image: https://www.legis.ga.gov/api/images/default-source/portraits/walker--iii-larry-4878.jpg
 party:
 - name: Republican
@@ -21,6 +21,10 @@ offices:
 links:
 - url: http://www.senate.ga.gov/SENATORS/en-US/member.aspx?Member=4878&Session=27
 - url: https://www.legis.ga.gov/members/senate/4878?session=1029
+- url: https://www.legis.ga.gov/members/senate/4878?session=1031
+  note: HTML member detail page
+- url: http://www.legis.ga.gov/members/senate
+  note: HTML members list page
 other_names:
 - name: Larry Walker III
 - name: WALKER, III
@@ -35,6 +39,10 @@ sources:
   note: Initial list page (requires authorization token)
 - url: https://www.legis.ga.gov/api/members/detail/4878?session=1029&chamber=2
   note: Detail page (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/list/1031
+  note: API members list (requires authorization token)
+- url: https://www.legis.ga.gov/api/members/detail/4878?session=1031&chamber=2
+  note: API member detail (requires authorization token)
 extras:
   residence: Perry
   city: Perry
@@ -44,6 +52,6 @@ extras:
   press: 'https://senatepress.net/category/senate-press/larry-walker '
   religion: Methodist
   spouse: Adrienne
-  staff: Kylynn Gallagher
-  staff email: kylynn.gallagher@senate.ga.gov
-  title: Majority Caucus Vice Chairman
+  staff: McKenzie Rhoades
+  staff email: mckenzie.rhoades@senate.ga.gov
+  title: Majority Caucus Secretary

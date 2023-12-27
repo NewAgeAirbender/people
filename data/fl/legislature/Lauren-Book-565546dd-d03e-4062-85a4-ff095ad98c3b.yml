@@ -4,23 +4,30 @@ given_name: Lauren
 family_name: Book
 gender: Female
 email: book.lauren.web@flsenate.gov
-image: https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s32_5189.jpg
+image: https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s35_5189.jpg
 party:
 - name: Democratic
 roles:
-- type: upper
+- end_date: '2022-11-08'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '32'
+- start_date: '2022-11-08'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '35'
 offices:
 - classification: capitol
   address: 228 Senate Building; 404 South Monroe Street; Tallahassee, FL 32399-1100
-  voice: 850-487-5032
+  voice: 850-487-5035
 - classification: district
-  address: 967 Nob Hill Road; Plantation, FL 33324
+  address: 12401 Orange Drive; Suite 125; Davie, FL 33330
   voice: 954-424-6674
 links:
 - url: http://www.flsenate.gov/Senators/s32
 - url: http://www.flsenate.gov/Senators/2018-2020/S32
+- url: https://flsenate.gov/Senators/2022-2024/S35
+  note: member detail page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: FLL000532
@@ -28,3 +35,5 @@ sources:
 - url: http://www.flsenate.gov/Senators/
 - url: http://www.flsenate.gov/Senators/s32
 - url: http://www.flsenate.gov/Senators/2018-2020/S32
+- url: https://flsenate.gov/Senators/2022-2024/S35
+  note: member detail page

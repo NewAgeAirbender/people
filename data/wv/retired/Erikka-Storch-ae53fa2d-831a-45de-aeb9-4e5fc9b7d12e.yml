@@ -1,0 +1,31 @@
+id: ocd-person/ae53fa2d-831a-45de-aeb9-4e5fc9b7d12e
+name: Erikka Storch
+given_name: Erikka
+family_name: Storch
+gender: Female
+email: erikka.storch@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/storch_erikka.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2022-12-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '3'
+- end_date: '2022-12-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '4'
+links:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Storch
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Storch
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: WVL000040
+sources:
+- url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Storch
+- url: http://www.wvlegislature.gov/House/roster.cfm
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Storch
+extras:
+  title: Deputy Majority Whip

@@ -3,8 +3,7 @@ name: Lynn V. Schneider
 given_name: Lynn
 family_name: Schneider
 email: Lynn.Schneider@sdlegislature.gov
-image: https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/schneider, lynn
-  rep-2458 full rt.jpg
+image: https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/schneider, lynn rep-2458 full rt.jpg
 party:
 - name: Republican
 roles:
@@ -16,6 +15,9 @@ offices:
   address: 900 Beach Ave. N.E.; Huron, SD 57350
 links:
 - url: https://sdlegislature.gov/Legislators/Profile/1883/Detail
+other_names:
+- name: Lynn Schneider
+- name: Lynn V Schneider
 sources:
 - url: https://sdlegislature.gov/Legislators/Profile/1883/Detail
 extras:

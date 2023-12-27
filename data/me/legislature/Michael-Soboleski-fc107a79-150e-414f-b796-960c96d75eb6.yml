@@ -12,8 +12,12 @@ roles:
   district: '73'
 offices:
 - classification: capitol
+<<<<<<< HEAD
   address: House Minority Office Room 332, State House 2 State House Station Augusta,
     Maine 04333-0002
+=======
+  address: House Minority Office Room 332, State House 2 State House Station Augusta, Maine 04333-0002
+>>>>>>> main
 - classification: district
   address: 11 Snowy Ridge Road, Phillips, ME 04966
 links:

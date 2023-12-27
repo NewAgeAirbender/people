@@ -6,12 +6,15 @@ chamber: lower
 sources:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=JUDI
 - url: https://www.house.mi.gov/Committee/JUDI
+- url: https://www.house.mi.gov/Committee/HJUDI
 links:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=JUDI
   note: homepage
 - url: http://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
 - url: https://www.house.mi.gov/PublicCommitteeSchedule
 - url: https://www.house.mi.gov/Committee/JUDI
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HJUDI
   note: homepage
 members:
 - name: Graham Filler
@@ -51,11 +54,41 @@ members:
   role: member
   person_id: ocd-person/f5c9b37d-39a5-4c63-a526-6f35f45cf5cf
 - name: Kelly Breen
-  role: member
+  role: Chair
   person_id: ocd-person/6f366c7a-8dab-4d39-90b0-3a25760d2234
 - name: Beth Griffin
   role: member
   person_id: ocd-person/a3960f99-eaf7-4bb4-b943-05763d4ca449
+- name: Kimberly Edwards
+  role: Majority Vice Chair
+  person_id: ocd-person/e1d87954-4ee4-4668-9075-c6240dbe8c9b
+- name: Andrew Fink
+  role: Minority Vice Chair
+  person_id: ocd-person/154e0e09-4da4-449d-9ebe-58c0b720e513
+- name: Tyrone Carter
+  role: member
+  person_id: ocd-person/38d2f8c4-f40c-44b7-a2dd-57a4d5375572
+- name: Noah Arbit
+  role: member
+  person_id: ocd-person/3b59f672-58f4-4d87-8b6e-6f9cc63a4d4c
+- name: Emily Dievendorf
+  role: member
+  person_id: ocd-person/10e1b0b6-8c1d-4f2b-b29a-08770991b1d4
+- name: Jason Hoskins
+  role: member
+  person_id: ocd-person/d6da4c9b-26ef-4fa9-a1c6-a79d843abe09
+- name: Penelope Tsernoglou
+  role: member
+  person_id: ocd-person/026c8d4d-bdd5-4b1f-838e-12c191323540
+- name: Pauline Wendzel
+  role: member
+  person_id: ocd-person/f749bf7e-46bc-482d-ac6e-60288f3b722e
+- name: Pat Outman
+  role: member
+  person_id: ocd-person/1a809c60-e0a4-4b43-bdba-43f097021b1f
+- name: Gina Johnsen
+  role: member
+  person_id: ocd-person/37cbe31c-4d9d-4f77-847f-ce463e1bec58
 extras:
   clerk: Melissa Sweet
   clerk phone number: '5173735176'

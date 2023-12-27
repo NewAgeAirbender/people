@@ -4,7 +4,7 @@ given_name: Dan
 family_name: Zwonitzer
 email: dan.zwonitzer@wyoleg.gov
 birth_date: 1979-10-30
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-ZwonitzerDan.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-ZwonitzerDan.jpg
 party:
 - name: Republican
 roles:
@@ -13,9 +13,8 @@ roles:
   district: '43'
 offices:
 - classification: district
-  address: 521 Cottonwood Drive, Cheyenne WY 82001
+  address: P.O. Box 207, Cheyenne, WY 82003
   voice: 307-214-7826
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2019/R/1141
 - url: http://wyoleg.gov/Legislators/2021/R/1141
@@ -29,6 +28,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/1141
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/H
 - url: https://wyoleg.gov/LsoService/api/legislator/1141
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
 extras:
   county: Laramie County
   education:

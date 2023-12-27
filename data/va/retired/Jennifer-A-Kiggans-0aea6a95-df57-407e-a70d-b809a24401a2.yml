@@ -1,0 +1,34 @@
+id: ocd-person/0aea6a95-df57-407e-a70d-b809a24401a2
+name: Jennifer A. Kiggans
+given_name: Jennifer A.
+family_name: Kiggans
+gender: Female
+email: district07@senate.virginia.gov
+image: https://apps.lis.virginia.gov/senatepics/newbiopics/Kiggans7.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2023-01-02'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '7'
+offices:
+- classification: capitol
+  address: Pocahontas Building, Room E518; 900 East Main Street; Richmond, Virginia
+    23219
+  voice: 804-698-7507
+- classification: district
+  address: P.O. Box 5453; Virginia Beach, Virginia 23471
+  voice: 757-990-3080
+links:
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S109
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S109
+other_names:
+- name: Kiggans, Jennifer A.
+ids:
+  twitter: JenKiggans
+  facebook: Jen4VA
+sources:
+- url: http://lis.virginia.gov/201/mbr/MBR.HTM
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?201+mbr+S109
+- url: http://lis.virginia.gov/cgi-bin/legp604.exe?221+mbr+S109

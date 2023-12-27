@@ -3,23 +3,29 @@ name: Bob Rommel
 given_name: Bob
 family_name: Rommel
 gender: Male
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4634.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4634.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2023-02-10'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '106'
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '81'
 offices:
 - classification: capitol
   address: 303 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
-  voice: 850-717-5106
+  voice: 850-717-5081
 - classification: district
   address: Suite 304; 3299 Tamiami Trail East; Naples, FL 34112-5746
   voice: 239-417-6200
 links:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=90
+  note: member detail page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: FLL000646
@@ -28,3 +34,5 @@ sources:
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 - url: https://www.myfloridahouse.gov/Representatives
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=88
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=90
+  note: member detail page

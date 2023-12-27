@@ -1,6 +1,6 @@
 id: ocd-person/5b3a7d10-e745-4985-ade9-d7fff6ae6af4
 name: Sarah Fowler Arthur
-image: https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2959.jpg
+image: https://www.legislature.ohio.gov/assets/people/sarah-fowler-arthur/headshots/thumbnails/medium/sarah-fowler-arthur-february-2023-headshot_medium.jpg
 party:
 - name: Republican
 roles:
@@ -9,10 +9,14 @@ roles:
   district: '99'
 offices:
 - classification: capitol
-  address: 77 South High Street; 12th Floor; Columbus, OH 43215
+  address: 77 South High Street; Floor 12; Columbus, OH 43215
   voice: 614-466-1405
   fax: 614-719-6999
 links:
 - url: http://ohiohouse.gov/sarah-fowler-arthur
 sources:
 - url: http://ohiohouse.gov/sarah-fowler-arthur
+- url: https://ohiohouse.gov/members/sarah-fowler-arthur
+  note: member details page
+- url: https://www.legislature.ohio.gov/legislators/house-directory
+  note: member list page

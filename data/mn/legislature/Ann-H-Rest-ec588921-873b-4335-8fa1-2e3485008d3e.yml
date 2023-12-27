@@ -4,16 +4,20 @@ given_name: Ann
 family_name: Rest
 gender: Female
 email: sen.ann.rest@senate.mn
-image: https://www.senate.mn/img/member_thumbnails/45Rest.jpg
+image: https://www.senate.mn/img/member_thumbnails/43Rest.jpg
 party:
 - name: Democratic-Farmer-Labor
 roles:
-- type: upper
+- end_date: '2023-01-03'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:mn/government
   district: '45'
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: '43'
 offices:
 - classification: capitol
-  address: 2217 Minnesota Senate Bldg.; St. Paul, MN 55155
+  address: 328 Capitol; St. Paul, MN 55155-1606
   voice: 651-296-2889
 links:
 - url: https://www.senate.mn/members/member_bio.html?mem_id=1051

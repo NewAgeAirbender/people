@@ -4,7 +4,7 @@ given_name: Travis
 family_name: Hutson
 gender: Male
 email: hutson.travis.web@flsenate.gov
-image: https://www.flsenate.gov/PublishedContent/Senators/2020-2022/Photos/s07_5186.jpg
+image: https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s07_5186.jpg
 party:
 - name: Republican
 roles:
@@ -32,6 +32,8 @@ offices:
 links:
 - url: http://www.flsenate.gov/Senators/s7
 - url: http://www.flsenate.gov/Senators/2018-2020/S7
+- url: https://flsenate.gov/Senators/2022-2024/S7
+  note: member detail page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: FLL000590
@@ -45,3 +47,5 @@ sources:
 - url: http://www.flsenate.gov/Senators/
 - url: http://www.flsenate.gov/Senators/s7
 - url: http://www.flsenate.gov/Senators/2018-2020/S7
+- url: https://flsenate.gov/Senators/2022-2024/S7
+  note: member detail page

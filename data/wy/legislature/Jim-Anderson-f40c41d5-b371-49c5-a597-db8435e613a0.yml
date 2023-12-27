@@ -4,7 +4,7 @@ given_name: Jim
 family_name: Anderson
 email: jim.anderson@wyoleg.gov
 birth_date: 1948-07-24
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-AndersonJim.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-AndersonJim.jpg
 party:
 - name: Republican
 roles:
@@ -18,9 +18,8 @@ roles:
   district: '28'
 offices:
 - classification: district
-  address: 5941 South Cedar Street, Casper WY 82601
+  address: 5941 South Cedar Street, Casper, WY 82601
   voice: 307-267-5775
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2019/R/1985
 - url: http://wyoleg.gov/Legislators/2021/R/1985
@@ -44,6 +43,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/1985
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/S
 - url: https://wyoleg.gov/LsoService/api/legislator/1985
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/S
 extras:
   county: Natrona County
   education:

@@ -15,7 +15,6 @@ offices:
 - classification: district
   address: 27 Shippee Avenue, Warwick, RI 02886
   voice: 401-480-4647
-  name: 'District Office #1'
 links:
 - url: http://www.rilin.state.ri.us/representatives/carson/
 - url: http://www.rilegislature.gov/representatives/carson/default.aspx
@@ -34,4 +33,4 @@ sources:
 - url: http://www.rilegislature.gov/representatives/bennett/default.aspx
   note: Image Source
 extras:
-  City/Town Represented: Warwick
+  City/Town Represented: Warwick, Cranston

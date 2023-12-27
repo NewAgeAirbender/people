@@ -3,20 +3,28 @@ name: Roger Hauck
 given_name: Roger
 family_name: Hauck
 gender: Male
-email: RogerHauck@house.mi.gov
-image: http://gophouse.org/wp-content/uploads/2017/01/Roger-Hauck-214x300.jpg
+email: senrhauck@senate.michigan.gov
+image: https://www.misenategop.com/wp-content/uploads/2023/01/Hauck-580x770.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2023-01-01'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mi/government
   district: '99'
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '34'
 offices:
 - classification: capitol
-  address: Room 1288 House Office Building
-  voice: 1-517-373-1789
+  address: 3300 Binsfeld Building, 201 Townsend St, Lansing, MI 48933
+  voice: 517-373-1760
 links:
 - url: http://gophouse.org/representatives/central/hauck/
+- url: https://www.senatorrogerhauck.com
+  note: Member Page
+- url: https://www.senatorrogerhauck.com/contact
+  note: Member Contact Page
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MIL000352
@@ -24,3 +32,7 @@ sources:
 - url: http://gophouse.org/representatives/central/hauck/
 - url: https://www.house.mi.gov/MHRPublic/frmRepListMilenia.aspx?all=true
 - url: https://www.house.mi.gov/AllRepresentatives
+- url: https://senate.michigan.gov/senators/SenatorData.json
+  note: Members List JSON Data Page
+- url: https://senate.michigan.gov/senators/senatorinfo_list.html
+  note: Members List HTML page

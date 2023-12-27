@@ -1,0 +1,36 @@
+id: ocd-organization/8c4ed834-550c-4988-8c9b-37b3bf8a06d1
+jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+classification: committee
+name: Natural Resources, Environment, Tourism and Outdoor Recreation
+chamber: lower
+sources:
+- url: https://www.house.mi.gov/Committee/HNATU
+links:
+- url: https://www.house.mi.gov/Committee/HNATU
+  note: homepage
+members:
+- name: Laurie Pohutsky
+  role: Chair
+- name: Jenn Hill
+  role: Majority Vice Chair
+  person_id: ocd-person/4f4e9d3d-0e2f-4c10-abcb-8308f0cb33e2
+- name: David W. Martin
+  role: Minority Vice Chair
+- name: Nate Shannon
+  role: member
+  person_id: ocd-person/af52f259-fe60-4903-98b8-739a114a8deb
+- name: Noah Arbit
+  role: member
+  person_id: ocd-person/3b59f672-58f4-4d87-8b6e-6f9cc63a4d4c
+- name: Mike McFall
+  role: member
+  person_id: ocd-person/b34263be-1f2e-49db-a261-b30e76ba790a
+- name: Veronica Paiz
+  role: member
+  person_id: ocd-person/8c335851-e7f6-40d6-b83c-fe413f21934e
+- name: Mark Tisdel
+  role: member
+  person_id: ocd-person/a5bb89cb-ac42-47c0-bcc8-96bf18e4d865
+- name: Josh Schriver
+  role: member
+  person_id: ocd-person/f6df9fad-c6ec-4abf-b175-ac1e9d672759

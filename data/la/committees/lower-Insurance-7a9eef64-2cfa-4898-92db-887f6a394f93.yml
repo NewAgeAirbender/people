@@ -1,0 +1,65 @@
+id: ocd-organization/7a9eef64-2cfa-4898-92db-887f6a394f93
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Insurance
+chamber: lower
+sources:
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=H
+  note: Committees List Page
+- url: https://house.louisiana.gov/H_Cmtes/Insurance.aspx
+  note: Committee Detail Page
+links:
+- url: https://house.louisiana.gov/H_Cmtes/Insurance.aspx
+  note: homepage
+members:
+- name: Mike Huval
+  role: Chairman
+  person_id: ocd-person/cdbdd188-93b6-4fd6-95c8-fee4fe753c94
+- name: Mary DuBuisson
+  role: Member
+  person_id: ocd-person/e30b4dd6-751c-4820-a4e4-4fd06cbd1c9f
+- name: Kathy Edmonston
+  role: Member
+  person_id: ocd-person/92f7834e-8ce3-437f-bdbf-8dad3528ae3b
+- name: Michael "Gabe" Firment
+  role: Member
+  person_id: ocd-person/50b42a20-9d29-4388-b06f-b4511eda2131
+- name: Lawrence "Larry" Frieman
+  role: Member
+  person_id: ocd-person/1f3f3a55-09b8-43e6-a4f6-3abd4d353f51
+- name: Paul Hollis
+  role: Member
+  person_id: ocd-person/a78e621d-059e-4359-8de6-add1ea897274
+- name: John R. Illg, Jr.
+  role: Member
+  person_id: ocd-person/3c0eeaa2-cf62-4b17-9b62-2531c078dd42
+- name: Sherman Q. Mack
+  role: Member
+  person_id: ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f
+- name: Tanner Magee
+  role: Ex Officio
+  person_id: ocd-person/408ba872-1304-41aa-8a1c-a26f159ca0a0
+- name: Clay Schexnayder
+  role: Ex Officio
+  person_id: ocd-person/69eb0893-93d4-4155-91e8-cc991956b80c
+- name: Edmond Jordan
+  role: Vice Chair
+  person_id: ocd-person/efdf7ee4-4d37-4e57-8f0c-e0db52ee7f70
+- name: Delisha Boyd
+  role: Member
+  person_id: ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033
+- name: Chad Brown
+  role: Member
+  person_id: ocd-person/6c1520bb-eebb-41ec-8d67-4f6e936f60b9
+- name: Cedric Glover
+  role: Member
+  person_id: ocd-person/9b53270a-813b-476c-b1b3-331ecedcca60
+- name: Kyle M. Green, Jr.
+  role: Member
+  person_id: ocd-person/8ffaa2bd-ff67-464a-b639-19a6069e28a2
+- name: Danny McCormick
+  role: Member
+  person_id: ocd-person/dc59ede6-164c-4fd4-adc1-7e080309776b
+- name: Matthew Willard
+  role: Member
+  person_id: ocd-person/834e887f-c79d-44ed-be47-74571a792249

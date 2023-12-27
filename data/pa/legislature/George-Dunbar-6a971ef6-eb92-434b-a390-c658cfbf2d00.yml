@@ -3,7 +3,7 @@ name: George Dunbar
 given_name: George
 family_name: Dunbar
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1206.jpg
+image: https://www.legis.state.pa.us/images/members/200/1206.jpg?1684774806693
 party:
 - name: Republican
 roles:
@@ -12,14 +12,13 @@ roles:
   district: '56'
 offices:
 - classification: capitol
-  address: 116 Main Capitol P.O. Box 202056 Harrisburg, PA 17120-2056
+  address: 412 Main Capitol Building P.O. Box 202056 Harrisburg, PA 17120-2056
   voice: 717-260-6132
   fax: 717-782-2880
 - classification: district
   address: 156C Clay Pike North Huntingdon, PA 15642
   voice: 724-863-1585
   fax: 724-744-0380
-  name: 'District Office #1'
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1206
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

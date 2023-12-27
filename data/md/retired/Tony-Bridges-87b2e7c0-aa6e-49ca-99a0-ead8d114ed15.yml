@@ -1,0 +1,20 @@
+id: ocd-person/87b2e7c0-aa6e-49ca-99a0-ead8d114ed15
+name: Tony Bridges
+given_name: Tony
+family_name: Bridges
+gender: Male
+email: tony.bridges@house.state.md.us
+image: http://mgaleg.maryland.gov/2023RS/images/bridges01.jpg
+party:
+- name: Democratic
+roles:
+- end_date: 2023-05-15
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '41'
+links:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bridges01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bridges01
+sources:
+- url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bridges01&stab=01
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/bridges01

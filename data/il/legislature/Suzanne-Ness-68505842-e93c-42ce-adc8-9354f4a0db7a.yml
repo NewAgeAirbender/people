@@ -1,5 +1,5 @@
 id: ocd-person/68505842-e93c-42ce-adc8-9354f4a0db7a
-name: Suzanne Ness
+name: Suzanne M. Ness
 given_name: Suzanne
 family_name: Ness
 gender: Female
@@ -13,7 +13,7 @@ roles:
   district: '66'
 offices:
 - classification: capitol
-  address: 282-S Stratton Building Springfield, IL 62706
+  address: 272-S Stratton Office Building Springfield, IL 62706
   voice: 217-782-0432
 - classification: district
   address: 20 S. Grove St. Carpentersville, IL 60110
@@ -22,8 +22,14 @@ links:
 - url: http://ilga.gov/house/Rep.asp?GA=102&MemberID=3005
 - url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=3005
   note: homepage
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3193
+  note: homepage
+other_names:
+- name: Suzanne Ness
 sources:
 - url: http://ilga.gov/house/default.asp?GA=102
 - url: http://ilga.gov/house/Rep.asp?GA=102&MemberID=3005
 - url: https://ilga.gov/house/default.asp?GA=102
 - url: https://ilga.gov/house/Rep.asp?GA=102&MemberID=3005
+- url: https://ilga.gov/house/default.asp?GA=103
+- url: https://ilga.gov/house/Rep.asp?GA=103&MemberID=3193

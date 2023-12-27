@@ -3,7 +3,7 @@ name: Jason Dawkins
 given_name: Jason
 family_name: Dawkins
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1685.jpg
+image: https://www.legis.state.pa.us/images/members/200/1685.jpg?1684774806693
 party:
 - name: Democratic
 roles:
@@ -12,14 +12,13 @@ roles:
   district: '179'
 offices:
 - classification: capitol
-  address: 32B East Wing P.O. Box 202179 Harrisburg, PA 17120-2179
+  address: 150 Main Capitol Building P.O. Box 202179 Harrisburg, PA 17120-2179
   voice: 717-787-1354
   fax: 717-780-4789
 - classification: district
   address: 4667 Paul Street Philadelphia, PA 19124
   voice: 215-744-7901
   fax: 215-744-7906
-  name: 'District Office #1'
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1685
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

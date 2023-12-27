@@ -3,8 +3,12 @@ name: Mia S. McLeod
 given_name: Mia
 family_name: McLeod
 gender: Female
-image: https://www.scstatehouse.gov/images/members/0279545421.jpg
+image: https://scstatehouse.gov/images/members/0279545421.jpg
 party:
+- end_date: '2023-01-23'
+  name: Democratic
+- end_date: '2023-05-23'
+  name: Independent
 - name: Democratic
 roles:
 - end_date: 2016-12-31
@@ -16,13 +20,15 @@ roles:
   district: '22'
 offices:
 - classification: capitol
-  address: 604 Gressette Bldg., Columbia, SC 29201
+  address: 604 Gressette Bldg. Columbia, SC 29201
   voice: 803-212-6016
 - classification: district
-  address: P. O. Box 290692, Columbia, SC 29229
+  address: P. O. Box 290692 Columbia, SC 29229
 links:
 - url: http://www.scstatehouse.gov/member.php?code=0279545421
 - url: https://www.scstatehouse.gov/member.php?code=0279545421
+  note: homepage
+- url: https://scstatehouse.gov/member.php?code=0279545421
   note: homepage
 other_names:
 - name: McLeod, Mia S.
@@ -38,5 +44,7 @@ sources:
 - url: http://www.scstatehouse.gov/member.php?code=0279545421
 - url: https://www.scstatehouse.gov/member.php?chamber=S
 - url: https://www.scstatehouse.gov/member.php?code=0279545421
+- url: https://scstatehouse.gov/member.php?chamber=S
+- url: https://scstatehouse.gov/member.php?code=0279545421
 extras:
   counties represented: Kershaw & Richland Counties

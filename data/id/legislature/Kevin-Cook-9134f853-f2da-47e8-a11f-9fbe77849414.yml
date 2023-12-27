@@ -3,14 +3,19 @@ name: Kevin Cook
 given_name: Kevin
 family_name: Cook
 email: KCook@senate.idaho.gov
-image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2022/directory/Cook6686.jpg
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Cook6686.jpg
 party:
 - name: Republican
 roles:
 - start_date: 2020-12-01
+  end_date: '2022-12-01'
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:id/government
   district: '30'
+- start_date: '2022-12-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: '32'
 offices:
 - classification: capitol
   voice: 208-332-1358
@@ -20,6 +25,8 @@ offices:
 links:
 - url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=30
 - url: https://legislature.idaho.gov/legislators/membership/?yr=2022&district=30
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=32
   note: homepage
 sources:
 - url: https://legislature.idaho.gov/senate/membership/

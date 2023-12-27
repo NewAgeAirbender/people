@@ -3,21 +3,30 @@ name: Fred Hawkins
 given_name: Fred
 family_name: Hawkins
 gender: Male
-image: https://www.myfloridahouse.gov//FileStores/Web/Imaging/Member/4773.jpg
+image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4773.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2022-11-08'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '42'
+- start_date: '2022-11-08'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '35'
 offices:
 - classification: capitol
-  address: 1401 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
-  voice: 850-717-5042
+  address: 315 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
+  voice: 850-717-5035
 - classification: district
-  address: Suite 2; 1211 12th Street; St. Cloud, FL 34769-3713
-  voice: 407-892-0409
+  address: Suite 308; 13000 Avalon Lake Drive; Orlando, FL 32828-6448
+  voice: 407-249-4204
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4773&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4773&LegislativeTermId=90
+  note: member detail page
 sources:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4773&LegislativeTermId=89
+- url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4773&LegislativeTermId=90
+  note: member detail page

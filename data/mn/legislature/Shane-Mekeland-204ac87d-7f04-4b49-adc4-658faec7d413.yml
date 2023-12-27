@@ -3,15 +3,19 @@ name: Shane Mekeland
 given_name: Shane
 family_name: Mekeland
 gender: Male
-email: rep.shane.mekeland@house.mn
-image: https://www.house.leg.state.mn.us/hinfo/memberimgls92/15B.gif?v=112221
+email: rep.shane.mekeland@house.mn.gov
+image: https://www.house.mn.gov/hinfo/memberimgls93/27A.gif?v=032323
 party:
 - name: Republican
 roles:
 - start_date: '2019-01-08'
+  end_date: '2023-01-03'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mn/government
   district: 15B
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mn/government
+  district: 27A
 offices:
 - classification: capitol
   address: 215 State Office Building;St. Paul, MN 55155

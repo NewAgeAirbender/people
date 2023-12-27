@@ -3,7 +3,7 @@ name: Anita Astorino Kulik
 given_name: Anita
 family_name: Kulik
 gender: Female
-image: https://www.legis.state.pa.us/images/members/200/1744.jpg
+image: https://www.legis.state.pa.us/images/members/200/1744.jpg?1684774806693
 party:
 - name: Democratic
 roles:
@@ -12,14 +12,13 @@ roles:
   district: '45'
 offices:
 - classification: capitol
-  address: 323 Irvis Office Building P.O. Box 202045 Harrisburg, PA 17120-2045
+  address: 101 Irvis Office Building P.O. Box 202045 Harrisburg, PA 17120-2045
   voice: 717-783-3780
   fax: 717-780-4773
 - classification: district
   address: 2 East Main Street Carnegie, PA 15106
   voice: 412-429-6310
   fax: 412-269-2767
-  name: 'District Office #1'
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1744
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

@@ -17,7 +17,7 @@ roles:
   district: '19'
 offices:
 - classification: capitol
-  address: 1021 O Street, Suite 7330, Sacramento, CA 95814-4900
+  address: 1021 O Street, Suite 6510, Sacramento, CA 95814-4900
   voice: 916-651-4019
 - classification: district
   address: 222 E. Carrillo Street, Suite 309, Santa Barbara, CA 93101
@@ -27,8 +27,6 @@ offices:
   voice: 805-988-1940
 links:
 - url: https://senate.ca.gov/sd19
-- url: https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD19&inframe=N
-  note: Contact Form
 other_names:
 - name: "Monique Lim\xF3n"
 - name: "S. Monique Lim\xF3n"

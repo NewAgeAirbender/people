@@ -3,14 +3,19 @@ name: Richard Womack
 given_name: Richard
 family_name: Womack
 email: richard@richardwomack.com
-image: https://www.arkleg.state.ar.us/Content/photos/2021/House/436_sm.jpg
+image: https://www.arkleg.state.ar.us/Content/photos/2023/House/436_sm.jpg
 party:
 - name: Republican
 roles:
 - start_date: 2013-01-01
+  end_date: '2023-01-09'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   district: '18'
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '90'
 offices:
 - classification: district
   address: 866 North 12th Street, Arkadelphia, AR 71923
@@ -43,8 +48,10 @@ sources:
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Womack&ddBienniumSession=2021%2F2021R
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Womack&ddBienniumSession=2021%2F2021S1
 - url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Womack&ddBienniumSession=2023%2F2023R
+- url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
 extras:
-  seniority: '16'
+  seniority: '9'
   occupation: Contractor
   church affiliation: Southern Baptist
   veteran: 'No'

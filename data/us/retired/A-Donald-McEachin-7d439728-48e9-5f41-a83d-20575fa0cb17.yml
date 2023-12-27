@@ -1,0 +1,61 @@
+id: ocd-person/7d439728-48e9-5f41-a83d-20575fa0cb17
+name: A. Donald McEachin
+given_name: A.
+family_name: McEachin
+middle_name: Donald
+gender: M
+birth_date: 1961-10-10
+image: https://theunitedstates.io/images/congress/450x550/M001200.jpg
+party:
+- start_date: '2017-01-03'
+  name: Democratic
+roles:
+- start_date: '2017-01-03'
+  end_date: '2019-01-03'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-4
+- start_date: '2019-01-03'
+  end_date: '2021-01-03'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-4
+- start_date: '2021-01-03'
+  end_date: '2022-11-28'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/government
+  district: VA-4
+links:
+- url: https://mceachin.house.gov
+  note: website
+ids:
+  twitter: RepMcEachin
+  youtube: UCMoPYHuZ3fZho0ZixZCfiFg
+  facebook: RepMcEachin
+other_identifiers:
+- scheme: bioguide
+  identifier: M001200
+- scheme: govtrack
+  identifier: '412728'
+- scheme: wikipedia
+  identifier: Donald McEachin
+- scheme: wikidata
+  identifier: Q4647699
+- scheme: google_entity_id
+  identifier: kg:/m/0979v6
+- scheme: votesmart
+  identifier: '8230'
+- scheme: fec
+  identifier: H6VA04061
+- scheme: opensecrets
+  identifier: N00039327
+- scheme: maplight
+  identifier: '2240'
+- scheme: cspan
+  identifier: '103621'
+- scheme: icpsr
+  identifier: '21736'
+- scheme: ballotpedia
+  identifier: Donald McEachin
+sources:
+- url: https://theunitedstates.io/

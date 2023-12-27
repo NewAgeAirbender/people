@@ -8,12 +8,17 @@ image: https://www.ncleg.gov/Members/MemberImage/S/402/Low
 party:
 - name: Republican
 roles:
-- type: upper
+- end_date: '2023-01-01'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:nc/government
   district: '36'
+- start_date: '2023-01-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nc/government
+  district: '34'
 offices:
 - classification: capitol
-  address: 300 N. Salisbury Street, Rm. 300-C; Raleigh, NC 27603
+  address: 300 N. Salisbury Street, Rm. 300-B; Raleigh, NC 27603
   voice: 919-733-7223
 links:
 - url: https://www.ncleg.gov/Members/Biography/S/402
@@ -27,7 +32,7 @@ sources:
 - url: https://www.ncleg.gov/Members/Biography/S/402
 - url: https://www.ncleg.gov/Members/MemberTable/S
 extras:
-  terms in senate: 3 (0 in House)
-  represented counties: Cabarrus, Union
-  legislative assistant: Andrew Stiffel
-  legislative assistant email: Andrew.Stiffel@ncleg.gov
+  terms in senate: 4 (0 in House)
+  represented counties: Cabarrus
+  legislative assistant: Lorie Byrd
+  legislative assistant email: Lorie.Byrd@ncleg.gov

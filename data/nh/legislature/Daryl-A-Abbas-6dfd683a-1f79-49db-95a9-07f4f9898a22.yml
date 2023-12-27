@@ -6,17 +6,22 @@ email: Daryl.Abbas@leg.state.nh.us
 party:
 - name: Republican
 roles:
-- type: lower
+- end_date: '2022-12-07'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Rockingham 8
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '22'
 offices:
-- classification: district
-  address: 34 South Shore Road;Salem, NH 03079
-  voice: 603-560-1929
-  name: 'District Office #1'
+- classification: capitol
+  address: State House, Room 105-A 107 North Main Street Concord, NH 03301
+  voice: 603-271-4151
 links:
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt
 - url: http://gencourt.state.nh.us/downloads/Members.txt
+other_names:
+- name: Daryl Abbas
 sources:
 - url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408908
 - url: http://www.gencourt.state.nh.us/downloads/Members.txt

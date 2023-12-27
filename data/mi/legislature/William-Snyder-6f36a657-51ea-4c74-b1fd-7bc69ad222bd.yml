@@ -1,0 +1,22 @@
+id: ocd-person/6f36a657-51ea-4c74-b1fd-7bc69ad222bd
+name: Will Snyder
+given_name: Will
+family_name: Snyder
+email: WillSnyder@house.mi.gov
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mi/government
+  district: '87'
+offices:
+- classification: capitol
+  address: N-1191 House Office Building
+  voice: 1-517-373-0842
+other_names:
+- name: William Snyder
+sources:
+- url: https://housedems.com/Will-Snyder/
+  note: Member Details Page
+- url: https://www.house.mi.gov/AllRepresentatives
+  note: Members List Page

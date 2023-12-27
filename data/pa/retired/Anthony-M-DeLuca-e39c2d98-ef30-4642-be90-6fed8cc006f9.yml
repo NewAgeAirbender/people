@@ -1,0 +1,35 @@
+id: ocd-person/e39c2d98-ef30-4642-be90-6fed8cc006f9
+name: Anthony M. DeLuca
+given_name: Anthony
+family_name: DeLuca
+gender: Male
+image: https://www.legis.state.pa.us/images/members/200/47.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2022-10-09'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '32'
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=47
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=47
+  note: homepage
+ids:
+  youtube: playlist?list=PL7DD9E32CC64A3D8F
+  facebook: RepTonyDeLuca
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000087
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=47
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=47
+extras:
+  website: http://www.pahouse.com/deluca
+  Education:
+  - Westinghouse High School, 1955
+  - Allegheny Community College, Real Estate and Political Science
+  - ''

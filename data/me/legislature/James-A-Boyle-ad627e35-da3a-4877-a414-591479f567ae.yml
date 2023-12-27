@@ -14,6 +14,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '6'
 - start_date: 2022-01-18
+  end_date: 2022-12-06
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '27'
@@ -22,8 +23,7 @@ roles:
   district: '109'
 offices:
 - classification: capitol
-  address: House Majority Office Room 333, State House 2 State House Station Augusta,
-    Maine 04333-0002
+  address: House Majority Office Room 333, State House 2 State House Station Augusta, Maine 04333-0002
 - classification: district
   address: 25 Dundee Road, Gorham, ME 04038
 links:

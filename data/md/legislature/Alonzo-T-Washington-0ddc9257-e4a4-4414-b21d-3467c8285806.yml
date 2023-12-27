@@ -3,12 +3,17 @@ name: Alonzo T. Washington
 given_name: Alonzo
 family_name: Washington
 gender: Male
-email: alonzo.washington@house.state.md.us
-image: http://mgaleg.maryland.gov/2022RS/images/washington a.jpg
+email: alonzo.washington@senate.state.md.us
+image: http://mgaleg.maryland.gov/2024RS/images/washington02.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- end_date: '2023-01-30'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:md/government
+  district: '22'
+- start_date: '2023-01-30'
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:md/government
   district: '22'
 offices:
@@ -19,9 +24,11 @@ offices:
 links:
 - url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington%20a&stab=01
 - url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/washington%20a
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/washington02
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MDL000605
 sources:
 - url: http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington%20a&stab=01
 - url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/washington%20a
+- url: http://mgaleg.maryland.gov/mgawebsite/Members/Details/washington02

@@ -1,0 +1,35 @@
+id: ocd-organization/1e0aea3c-7169-4d61-a883-2ca135447f3c
+jurisdiction: ocd-jurisdiction/country:us/state:la/government
+classification: committee
+name: Labor and Industrial Relations
+chamber: upper
+sources:
+- url: https://www.legis.la.gov/legis/Committees.aspx?c=S
+  note: Committees List Page
+- url: https://senate.la.gov/Sen_Committees/LaborIndustrial
+  note: Committee Detail Page
+links:
+- url: https://senate.la.gov/Sen_Committees/LaborIndustrial
+  note: homepage
+members:
+- name: John C. "Jay" Morris
+  role: Vice Chair
+  person_id: ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645
+- name: Jeremy Stine
+  role: Member
+  person_id: ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c
+- name: Glen Womack
+  role: Member
+  person_id: ocd-person/25923053-3679-443e-bbb1-e2f63a50585c
+- name: Jay Luneau
+  role: Chairman
+  person_id: ocd-person/b4a4657a-e588-4036-9a0f-48847e22a140
+- name: Regina Barrow
+  role: Member
+  person_id: ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7
+- name: Royce Duplessis
+  role: Member
+  person_id: ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db
+- name: Stewart Cathey, Jr.
+  role: Member
+  person_id: ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15

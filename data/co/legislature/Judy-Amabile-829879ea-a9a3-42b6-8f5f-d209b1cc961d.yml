@@ -3,14 +3,19 @@ name: Judy Amabile
 given_name: Judy
 family_name: Amabile
 gender: Female
-email: judy.amabile.house@state.co.us
-image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2022a_amabile%2C%20judy.jpg?itok=wqyv1CkW
+email: judy.amabile.house@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023b_amabile%2Cjudy.jpg?itok=7ZbVKo7E
 party:
 - name: Democratic
 roles:
-- type: lower
+- end_date: '2023-01-09'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:co/government
   district: '13'
+- start_date: '2023-01-09'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '49'
 offices:
 - classification: capitol
   address: 200 E Colfax RM 307 Denver, CO 80203
@@ -19,6 +24,8 @@ links:
 - url: http://leg.colorado.gov/legislators/judy-amabile
 - url: http://leg.colorado.gov/legislators/judy-amabile
   note: homepage
+other_names:
+- name: Judith Amabile
 sources:
 - url: http://leg.colorado.gov/legislators/judy-amabile
 - url: http://leg.colorado.gov/legislators
@@ -27,5 +34,4 @@ extras:
   - Boulder
   - Clear Creek
   - Gilpin
-  - Grand
-  - Jackson
+  - Larimer

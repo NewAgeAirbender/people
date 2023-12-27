@@ -3,7 +3,7 @@ name: Brad Roae
 given_name: Brad
 family_name: Roae
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1083.jpg
+image: https://www.legis.state.pa.us/images/members/200/1083.jpg?1684774806693
 party:
 - name: Republican
 roles:
@@ -16,10 +16,9 @@ offices:
   voice: 717-787-2353
   fax: 717-260-6505
 - classification: district
-  address: 900 Water Street Downtown Mall Meadville, PA 16335
-  voice: 814-336-1136
-  fax: 814-337-7680
-  name: 'District Office #1'
+  address: 145 W. Erie Street Linesville, PA 16424
+  voice: 814-683-6031
+  fax: 814-683-6032
 links:
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1083
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm

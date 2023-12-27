@@ -3,7 +3,7 @@ name: Christopher Knapp
 given_name: Christopher
 family_name: Knapp
 email: Chris.Knapp@wyoleg.gov
-image: https://wyoleg.gov/LegislatorSummary/Photos/66th-KnappChristopher.jpg
+image: https://wyoleg.gov/LegislatorSummary/Photos/67th-KnappChristopher.jpg
 party:
 - name: Republican
 roles:
@@ -12,9 +12,8 @@ roles:
   district: '53'
 offices:
 - classification: district
-  address: 1134 E. 12th Street, Gillette WY 82716
+  address: 1134 E. 12th Street, Gillette, WY 82716
   voice: 307-660-4566
-  name: 'District Office #1'
 links:
 - url: http://wyoleg.gov/Legislators/2021/R/2086
 - url: http://wyoleg.gov/Legislators/2021/R/2086
@@ -23,6 +22,7 @@ sources:
 - url: http://wyoleg.gov/Legislators/2021/R/2086
 - url: https://wyoleg.gov/LsoService/api/legislator/2021/H
 - url: https://wyoleg.gov/LsoService/api/legislator/2086
+- url: https://wyoleg.gov/LsoService/api/legislator/2023/H
 extras:
   county: Campbell County
   house years: 'House:  2020-Present'

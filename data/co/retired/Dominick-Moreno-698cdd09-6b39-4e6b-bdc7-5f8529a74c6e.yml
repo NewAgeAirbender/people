@@ -1,0 +1,37 @@
+id: ocd-person/698cdd09-6b39-4e6b-bdc7-5f8529a74c6e
+name: Dominick Moreno
+given_name: Dominick
+family_name: Moreno
+gender: Male
+email: dominick.moreno.senate@coleg.gov
+image: http://leg.colorado.gov/sites/default/files/styles/width_300/public/2023a_moreno-co-17.jpg?itok=kHUWfoRt
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-01
+  end_date: 2016-12-31
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '32'
+- end_date: '2023-09-01'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:co/government
+  district: '21'
+links:
+- url: http://leg.colorado.gov/legislators/dominick-moreno
+- url: http://leg.colorado.gov/legislators/dominick-moreno
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: COL000232
+- scheme: legacy_openstates
+  identifier: COL000120
+- scheme: openstates
+  identifier: ocd-person/9d62c91a-3ec3-463d-90cf-b6d3cc892483
+sources:
+- url: http://leg.colorado.gov/legislators/dominick-moreno
+- url: http://leg.colorado.gov/legislators
+extras:
+  counties represented:
+  - Adams
+  - Arapahoe

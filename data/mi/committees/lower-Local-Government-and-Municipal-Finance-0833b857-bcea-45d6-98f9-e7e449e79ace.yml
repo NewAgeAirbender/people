@@ -6,12 +6,15 @@ chamber: lower
 sources:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=LOCA
 - url: https://www.house.mi.gov/Committee/LOCA
+- url: https://www.house.mi.gov/Committee/HLOCA
 links:
 - url: https://www.house.mi.gov/MHRPublic/CommitteeInfo.aspx?comcode=LOCA
   note: homepage
 - url: http://www.legislature.mi.gov/mileg.aspx?page=listserverSignup
 - url: https://www.house.mi.gov/PublicCommitteeSchedule
 - url: https://www.house.mi.gov/Committee/LOCA
+  note: homepage
+- url: https://www.house.mi.gov/Committee/HLOCA
   note: homepage
 members:
 - name: Julie Calley
@@ -26,9 +29,9 @@ members:
 - name: Julie Alexander
   role: member
   person_id: ocd-person/230c7ca1-e89c-4b28-9614-7f78337b2cc2
-- name: Joe Bellino
+- name: Joseph Bellino
   role: member
-  person_id: ocd-person/a685452c-e105-44a2-803b-740b0e88ebbf
+  person_id: ocd-person/e394293d-abd7-46a9-a60f-6c75e369468e
 - name: Ryan Berman
   role: member
   person_id: ocd-person/919ebf39-334b-4f98-b1ff-ee6c7378a1bc
@@ -53,6 +56,40 @@ members:
 - name: Bradley Slagh
   role: member
   person_id: ocd-person/38c62407-9471-40de-8a1c-44142573c79a
+- name: John Fitzgerald
+  role: Chair
+  person_id: ocd-person/9f4f8b82-e4ee-4e50-a2ea-d46bbf264d34
+- name: Erin Byrnes
+  role: Majority Vice Chair
+  person_id: ocd-person/3d6727ea-1a91-414d-aac4-ba312cbfaabc
+- name: Dale Zorn
+  role: Minority Vice Chair
+  person_id: ocd-person/f87c906f-bf6e-41db-8ab6-cf736ba589d4
+- name: Nate Shannon
+  role: member
+  person_id: ocd-person/af52f259-fe60-4903-98b8-739a114a8deb
+- name: Kelly Breen
+  role: member
+  person_id: ocd-person/6f366c7a-8dab-4d39-90b0-3a25760d2234
+- name: Julie M. Rogers
+  role: member
+- name: Jenn Hill
+  role: member
+  person_id: ocd-person/4f4e9d3d-0e2f-4c10-abcb-8308f0cb33e2
+- name: Jason Hoskins
+  role: member
+  person_id: ocd-person/d6da4c9b-26ef-4fa9-a1c6-a79d843abe09
+- name: Veronica Paiz
+  role: member
+  person_id: ocd-person/8c335851-e7f6-40d6-b83c-fe413f21934e
+- name: Robert J. Bezotte
+  role: member
+- name: Mike Harris
+  role: member
+  person_id: ocd-person/a93eaebe-bdac-4292-a28f-6a3b04efd191
+- name: David Prestin
+  role: member
+  person_id: ocd-person/addfe9a4-4b73-4dec-95a9-4bb7cd0d6bd2
 extras:
   clerk: Molly Wingrove
   clerk phone number: '5173735024'

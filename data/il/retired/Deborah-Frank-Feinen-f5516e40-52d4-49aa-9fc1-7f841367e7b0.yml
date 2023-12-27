@@ -1,0 +1,17 @@
+id: ocd-person/f5516e40-52d4-49aa-9fc1-7f841367e7b0
+name: Deborah Frank Feinen
+given_name: Deborah Frank
+family_name: Feinen
+email: deb.feinen@champaignil.gov
+roles:
+- end_date: '2023-04-04'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:il/place:champaign/government
+offices:
+- classification: primary
+  address: 102 N. Neil St.;Champaign, IL 61820
+  voice: 217-403-8720
+links:
+- url: https://champaignil.gov/council/about-the-council/mayor-request-form/
+sources:
+- url: https://champaignil.gov/council/about-the-council/mayor-request-form/

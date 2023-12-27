@@ -18,7 +18,7 @@ roles:
   district: Tennessee
 offices:
 - classification: capitol
-  address: 248 Russell Senate Office Building Washington DC 20510
+  address: 251 Russell Senate Office Building Washington DC 20510
   voice: 202-224-4944
 links:
 - url: https://www.hagerty.senate.gov
@@ -41,7 +41,7 @@ other_identifiers:
 - scheme: wikidata
   identifier: Q27734214
 - scheme: wikipedia
-  identifier: Bill Hagerty (politician)
+  identifier: Bill Hagerty
 - scheme: google_entity_id
   identifier: kg:/g/11c1xp6h9v
 - scheme: votesmart

@@ -1,0 +1,48 @@
+id: ocd-person/f2616284-aa01-4673-b782-e5dc8da11c80
+name: Scotty Campbell
+given_name: Scotty
+family_name: Campbell
+email: rep.scotty.campbell@capitol.tn.gov
+image: https://www.capitol.tn.gov/house/members/images/h3.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2011-01-01'
+  end_date: '2012-12-31'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '3'
+- start_date: 2020-11-03
+  end_date: '2023-04-20'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '3'
+links:
+- url: http://www.capitol.tn.gov/house/members/h3.html
+- url: https://www.capitol.tn.gov/house/members/h3.html
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H3
+  note: homepage
+other_names:
+- name: Campbell S
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000041
+sources:
+- url: http://www.capitol.tn.gov/house/members/
+- url: http://www.capitol.tn.gov/house/members/h3.html
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h3.html
+- url: http://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H3
+extras:
+  office: 582 CHB
+  personal info:
+  - Born February 21st
+  - Businessman
+  - Broadcaster
+  - Christian
+  - Cumberland University
+  - Northeast State Community College
+  - Vol State Community College
+  staff: Abby Fulton

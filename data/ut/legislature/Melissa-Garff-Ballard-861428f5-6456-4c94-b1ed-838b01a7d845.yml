@@ -13,9 +13,10 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '20'
 offices:
-- classification: district
-  address: 407 ELK HOLLOW CIRCLE, NORTH SALT LAKE, UT, 84054
+- classification: capitol
   voice: 801-633-6561
+- classification: district
+  address: 350 N State Suite 350, Salt Lake City, UT, 84114
 links:
 - url: http://house.utah.gov/rep/BALLAMG
 - url: https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BALLAMG
@@ -32,6 +33,8 @@ links:
   note: homepage
 - url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=BALLAMG
   note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist20.pdf
+  note: district demographics
 other_names:
 - name: Melissa Garff Ballard
 - name: Ballard, Melissa G.
@@ -42,11 +45,8 @@ sources:
 - url: http://house.utah.gov/rep/BALLAMG/
 extras:
   service start: January 1, 2019
-  profession: Homemaker; Pianist and Teacher; Business Investor; Former adjunct faculty,
-    University of Utah
-  education: B.S., University of Utah; Masters of Music '94 Piano Performance and
-    Accompanying, and Bachelor of Music '92 Piano Performance, University of Utah;
-    Nationally Certified Teacher of Music
+  profession: Homemaker; Pianist and Teacher; Business Investor; Former adjunct faculty, University of Utah
+  education: B.S., University of Utah; Masters of Music '94 Piano Performance and Accompanying, and Bachelor of Music '92 Piano Performance, University of Utah; Nationally Certified Teacher of Music
   counties represented:
   - Davis
   cell phone: 801-633-6561

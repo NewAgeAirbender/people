@@ -9,10 +9,17 @@ party:
 - name: Republican
 roles:
 - start_date: 2011-01-01
+  end_date: '2023-01-01'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ut/government
   district: '69'
+- start_date: '2023-01-01'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ut/government
+  district: '67'
 offices:
+- classification: capitol
+  address: 350 N State Street, Suite 350, Salt Lake City, UT, 84114
 - classification: district
   address: 1548 E 5700 S, PRICE, UT, 84501
   voice: 435-650-1969
@@ -36,6 +43,8 @@ links:
   note: homepage
 - url: https://le.utah.gov/asp/billsintro/RepResults.asp?Listbox3=WATKICF
   note: legislation
+- url: https://le.utah.gov/Documents/demographic/profiles/2022/House_Dist67.pdf
+  note: district demographics
 other_names:
 - name: Watkins, C.
 - name: Watkins, Christine F.
@@ -54,8 +63,7 @@ sources:
 extras:
   service start: January 1, 2017
   profession: Retired Educator, Charter School Administrator, Labor Relations
-  education: B.S. Utah State University, Master of Educational Administration - University
-    of Utah
+  education: B.S. Utah State University, Master of Educational Administration - University of Utah
   counties represented:
   - Carbon
   - Duchesne

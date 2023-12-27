@@ -33,12 +33,12 @@ members:
 - name: Catherine Cortez Masto
   role: Member
   person_id: ocd-person/00bdfb60-1b6f-5a4a-9157-b7cafc399c46
-- name: Mark Kelly
-  role: Member
-  person_id: ocd-person/30665d55-5695-5ede-930d-c92e63e4ee65
 - name: John W. Hickenlooper
   role: Member
   person_id: ocd-person/e4ea61a6-63ea-53e6-b61e-4c735a0b7818
+- name: Alex Padilla
+  role: Member
+  person_id: ocd-person/fadd82ac-5031-5efd-ae39-1afc3f3cd6fb
 - name: John Barrasso
   role: Ranking Member
   person_id: ocd-person/80f88c07-5f6d-5ca3-8121-9202259a50f2
@@ -57,17 +57,14 @@ members:
 - name: John Hoeven
   role: Member
   person_id: ocd-person/18c027d3-52ca-5a48-a4d2-73167e382096
-- name: James Lankford
-  role: Member
-  person_id: ocd-person/62a44404-9be2-5bbc-b672-0ed5f1aba53d
 - name: Bill Cassidy
   role: Member
   person_id: ocd-person/851546e4-4af0-5505-8a1c-4f2a83813589
 - name: Cindy Hyde-Smith
   role: Member
   person_id: ocd-person/3827ab20-4901-56bc-a6ea-e7c275da9eb9
-- name: Roger Marshall
+- name: Josh Hawley
   role: Member
-  person_id: ocd-person/09a67947-f66a-55ac-b4ba-5c656ad7f67d
+  person_id: ocd-person/0a7d370e-88bd-5b83-9b93-c8607c036d7a
 extras:
   type: senate
