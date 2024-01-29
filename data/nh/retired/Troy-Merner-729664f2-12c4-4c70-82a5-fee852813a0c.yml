@@ -1,0 +1,37 @@
+id: ocd-person/729664f2-12c4-4c70-82a5-fee852813a0c
+name: Troy E. Merner
+given_name: Troy
+family_name: Merner
+email: merner08@aol.com
+image: http://www.gencourt.state.nh.us/house/images/memberpics/408060.jpg
+party:
+- name: Republican
+roles:
+- end_date: '2022-12-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Coos 7
+- start_date: '2022-12-07'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Coos 1
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://gencourt.state.nh.us/downloads/Members.txt
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=8060
+  note: member detail page
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL001474
+sources:
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408060
+- url: http://www.gencourt.state.nh.us/downloads/Members.txt
+- url: http://gencourt.state.nh.us/downloads/Members.txt
+- url: http://gencourt.state.nh.us/downloads/members.txt
+- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=8060
+extras:
+  county: Coos
+  elected status: Incumbent
+  gender code: M

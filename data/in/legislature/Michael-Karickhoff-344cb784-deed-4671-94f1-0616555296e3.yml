@@ -2,11 +2,14 @@ id: ocd-person/344cb784-deed-4671-94f1-0616555296e3
 name: Mike Karickhoff
 given_name: Michael
 family_name: Karickhoff
+gender: Male
+email: h30@iga.in.gov
 image: https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Karickhoff_Main_List_2.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2010-11-02
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:in/government
   district: '30'
 offices:
@@ -14,9 +17,11 @@ offices:
   address: 200 W. Washington Street;Indianapolis, IN 46204
   voice: 800-382-9841
 links:
-- url: http://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027
 - url: https://www.indianahouserepublicans.com/members/leadership/mike-karickhoff/?back=members
   note: homepage
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027/
+- url: https://www.indianahouserepublicans.com/members/leadership/mike-karickhoff/
 other_names:
 - name: Michael Karickhoff
 other_identifiers:
@@ -25,15 +30,16 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: INL000237
 sources:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027
 - url: http://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027
 - url: https://api.iga.in.gov/2021/legislators/michael_karickhoff_1027
 - url: https://www.indianahouserepublicans.com/members/leadership/mike-karickhoff/?back=members
 - url: https://www.indianahouserepublicans.com/members/
 extras:
   title: Speaker Pro Tempore
-  assistant name: Caleb Jackson
+  assistant name: Blaine Wentzell
   assistant email: h30@iga.in.gov
-  assistant phone1: 317-232-9816
+  assistant phone1: 317-232-9648
   assistant phone2: 1-800-382-9841
   press contact name: Abrahm Hurt
   press contact phone: 317-234-9024

@@ -1,0 +1,41 @@
+id: ocd-person/722a4f1a-1019-44ad-955e-eb25c96d219c
+name: Bill Beck
+given_name: Carson
+family_name: Beck
+email: rep.bill.beck@capitol.tn.gov
+image: https://www.capitol.tn.gov/house/members/images/h51.jpg
+party:
+- name: Democratic
+roles:
+- end_date: '2023-06-04'
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:tn/government
+  district: '51'
+links:
+- url: http://www.capitol.tn.gov/house/members/h51.html
+- url: https://www.capitol.tn.gov/house/members/h51.html
+  note: homepage
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H51
+  note: homepage
+other_names:
+- name: Carson W. (Bill) Beck
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: TNL000470
+sources:
+- url: http://www.capitol.tn.gov/house/members/
+- url: http://www.capitol.tn.gov/house/members/h51.html
+- url: https://www.capitol.tn.gov/house/members/
+- url: https://www.capitol.tn.gov/house/members/h51.html
+- url: http://wapp.capitol.tn.gov/apps/LegislatorInfo/directory.aspx?chamber=H
+- url: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H51
+extras:
+  office: 574 CHB
+  personal info:
+  - Born March 21, 1962
+  - Married, 1 child
+  - Attorney
+  - Baptist
+  - University School of Nashville
+  - B.S. Business Administration, Belmont University
+  - J.D., Nashville School of Law

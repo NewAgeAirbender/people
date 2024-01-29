@@ -1,30 +1,43 @@
 id: ocd-person/caf95c6f-3143-433e-8654-c17d39b94f88
-name: Robert Charles "Chuck" Brannan III
+name: Chuck Brannan
+given_name: Robert Charles
+family_name: Brannan
+birth_date: '1962-02-01'
 gender: Male
+email: chuck.brannan@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4708.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2018-11-06
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '10'
 offices:
-- classification: capitol
-  address: 222 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: 1262 SE Baya Drive, Lake City, FL 32025
+  voice: 386-758-0405
+- classification: district
+  address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5010
 - classification: district
-  address: 1262 Southeast Baya Drive; Lake City, FL 32025-5555
-  voice: 386-758-0405
+  address: Baker County Courthouse 339 E. Macclenny Ave., Suite 117, Macclenny, FL
+    32063
+  voice: 904-259-0995
 links:
-- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708
 other_names:
+- name: Robert Charles "Chuck" Brannan III
 - name: Brannan
 - name: Brannan III
 sources:
-- url: http://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708
+- url: https://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88
 - url: http://www.myfloridahouse.gov/Sections/Representatives/representatives.aspx
 - url: https://www.myfloridahouse.gov/Representatives
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=88

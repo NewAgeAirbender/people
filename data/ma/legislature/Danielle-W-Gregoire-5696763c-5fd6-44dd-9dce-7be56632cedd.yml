@@ -1,24 +1,26 @@
 id: ocd-person/5696763c-5fd6-44dd-9dce-7be56632cedd
-name: Danielle W. Gregoire
-given_name: Danielle
+name: Danielle Gregoire
+given_name: Danielle W.
 family_name: Gregoire
 gender: Female
-email: Danielle.Gregoire@mahouse.gov
+email: danielle.gregoire@mahouse.gov
 image: https://malegislature.gov/Legislators/Profile/170/DWG1.jpg
 party:
 - name: Democratic
 roles:
-- start_date: 2013-01-01
-  type: lower
+- type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 4th Middlesex
+  start_date: 2013-01-01
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 21; Boston, MA 02133
+  address: Room 21, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2140
   fax: 617-626-0323
 links:
 - url: https://malegislature.gov/Legislators/Profile/DWG1
+other_names:
+- name: Danielle W. Gregoire
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MAL000438
@@ -30,9 +32,9 @@ other_identifiers:
   identifier: ocd-person/c7884df3-74e9-4ef1-8d23-a1bbb646b7b7
 sources:
 - url: https://malegislature.gov/Legislators/Profile/DWG1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/DWG1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/DWG1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/DWG1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/DWG1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   leadership position: First Division Chair

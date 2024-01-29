@@ -1,20 +1,34 @@
-hi:
+ma:
   vacancies:
   - chamber: lower
-    district: '10'
-    vacant_until: 2025-01-10
-in:
+    district: '6th Worcester'
+    vacant_until: 2024-04-01
+mo:
   vacancies:
   - chamber: lower
-    district: '31'
-    vacant_until: 2025-01-10
-me:
+    district: 78
+    vacant_until: 2025-01-01
+nh:
   vacancies:
   - chamber: lower
-    district: '45'
-    vacant_until: 2025-01-10
-wi:
+    district: Coos 1
+    vacant_until: 2024-01-26
+  - chamber: lower
+    district: Coos 6
+    vacant_until: 2024-01-26
+  - chamber: lower
+    district: Rockingham 21
+    vacant_until: 2024-03-13
+  - chamber: lower
+    district: Strafford 11
+    vacant_until: 2024-03-13
+ny:
   vacancies:
   - chamber: lower
-    district: '24'
+    district: '77'
+    vacant_until: 2024-02-14
+sc:
+  vacancies:
+  - chamber: lower
+    district: '109'
     vacant_until: 2025-01-01

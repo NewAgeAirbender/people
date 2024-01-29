@@ -1,22 +1,26 @@
 id: ocd-person/20439d4f-c097-48b8-82c0-256b411b3b10
-name: Jennifer Morton
+name: Jenn Morton
 given_name: Jennifer
 family_name: Morton
-email: Jennifer.Morton@leg.state.nh.us
+gender: Female
+email: jennifer.morton@leg.state.nh.us
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2022-12-07
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Hillsborough 34
 offices:
-- classification: district
-  address: 485 Boston Post Road Amherst, NH 03031
+- classification: home
+  address: 485 Boston Post Road, Amherst, NH 3031
 links:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=10815
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10815
   note: member detail page
+other_names:
+- name: Jennifer Morton
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=10815
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10815
 extras:
   county: Hillsborough
   elected status: new

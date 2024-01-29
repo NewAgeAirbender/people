@@ -1,30 +1,36 @@
 id: ocd-person/76b07f35-1876-4259-9c0a-bdf595541c39
-name: Susannah M. Whipps
-given_name: Susannah
+name: Susannah Whipps
+given_name: Susannah M.
 family_name: Whipps
 gender: Female
-email: Susannah.Whipps@mahouse.gov
+email: susannah.whipps@mahouse.gov
 image: https://malegislature.gov/Legislators/Profile/170/SLG1.jpg
 party:
 - name: Independent
 roles:
-- type: lower
+- start_date: 2017-08-22
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 2nd Franklin
 offices:
+- classification: district
+  address: 352 Main St., Athol, MA 1331
+  voice: 978-895-9606
 - classification: capitol
-  address: 24 Beacon St., Room 540; Boston, MA 02133
+  address: Room 540, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2090
 links:
 - url: https://malegislature.gov/Legislators/Profile/SLG1
+other_names:
+- name: Susannah M. Whipps
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MAL000426
 sources:
 - url: https://malegislature.gov/Legislators/Profile/SLG1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/SLG1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/SLG1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/SLG1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/SLG1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   member code: SLG1

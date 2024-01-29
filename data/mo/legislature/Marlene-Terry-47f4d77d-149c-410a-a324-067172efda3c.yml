@@ -3,22 +3,23 @@ name: Marlene Terry
 given_name: Marlene
 family_name: Terry
 gender: Female
-email: Marlene.Terry@house.mo.gov
+email: marlene.terry@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2247
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2021-01-06
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '66'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 105-I; Jefferson
-    City MO 65101
+  address: Room 105-I, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-6845
 links:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=066
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=066
+- url: https://house.mo.gov/MemberDetails.aspx?district=066
 other_names:
 - name: Terry, Marlene
 sources:

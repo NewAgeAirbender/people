@@ -1,49 +1,51 @@
 id: ocd-person/3d835c85-50e3-4a02-8891-baa377f63fa5
-name: Mary E. Howard
+name: Mary Howard
 given_name: Mary E.
 family_name: Howard
-email: MHoward@leg.state.vt.us
+gender: Female
+email: mhoward@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/Howard,Mary.jpg
 party:
 - name: Democratic
 roles:
-- start_date: '2023-01-04'
+- start_date: 2023-01-04
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Rutland-6
-- end_date: '2023-01-04'
+- end_date: 2023-01-04
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Rutland-5-3
 offices:
+- classification: home
+  address: P.O. Box 6295, Rutland, VT 5702
 - classification: capitol
-  address: Vermont State House;115 State Street;Montpelier, VT 05633-5301
+  address: Vermont State House 115 State St., Montpelier, VT 5633
   voice: 802-828-2228
-- classification: district
-  address: P.O. Box 6592 Rutland, VT 05702
 links:
-- url: http://legislature.vermont.gov/people/single/2020/27177
-- url: http://legislature.vermont.gov/people/single/2022/27177
+- url: https://legislature.vermont.gov/people/single/2020/27177
+- url: https://legislature.vermont.gov/people/single/2022/27177
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/RUT-5-3.pdf
   note: district map
-- url: http://legislature.vermont.gov/people/single/2024/27177
-  note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-6.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/27177
+  note: homepage
 other_names:
+- name: Mary E. Howard
 - name: Mary Howard
 other_identifiers:
 - scheme: legacy_openstates
   identifier: VTL000821
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2020
-- url: http://legislature.vermont.gov/people/single/2020/27177
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/27177
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/single/2020/27177
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/27177
 - url: https://legislature.vermont.gov/people/loadAll/2022
 - url: https://legislature.vermont.gov/people/loadAll/2024
-- url: http://legislature.vermont.gov/people/single/2024/27177
+- url: https://legislature.vermont.gov/people/single/2024/27177
 extras:
   home address: Rutland City, VT 05701
   home phone: (802) 775-1125

@@ -1,26 +1,34 @@
 id: ocd-person/6872ad9e-fcba-426f-a9ef-b4495dba17f5
-name: Jamaal T. Bailey
+name: Jamaal Bailey
 given_name: Jamaal T.
 family_name: Bailey
-email: bailey@nysenate.gov
+birth_date: '1982-08-26'
+gender: Male
+email: senatorjbailey@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/bailey-hs-020_2.jpg?itok=LKcRq5kH
 party:
-- name: Democratic
+- name: Democratic/Working Families
 roles:
-- type: upper
+- start_date: 2017-01-04
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '36'
 offices:
-- classification: capitol
-  address: Room 609; Albany ,NY 12247
-  voice: 518-455-2061
 - classification: district
-  address: 959 East 233rd St.; Bronx,NY 10466-3207
+  address: 959 E. 233rd St., Bronx, NY 10466
   voice: 718-547-8854
+- classification: district
+  address: 250 S. 6th Ave., Mount Vernon, NY 10550
+  voice: 914-699-1895
+- classification: district
+  address: Room 609, Legislative Office Building, Albany, NY 12247
+  voice: 518-455-2061
 links:
-- url: http://www.nysenate.gov/senators-committees
-- url: http://www.nysenate.gov/senators/jamaal-t-bailey/contact
+- url: https://www.nysenate.gov/senators-committees
+- url: https://www.nysenate.gov/senators/jamaal-t-bailey/contact
+- url: https://www.nysenate.gov/senators/jamaal-t-bailey
 other_names:
+- name: Jamaal T. Bailey
 - name: Jamaal Bailey
 ids:
   twitter: jamaaltbailey
@@ -28,4 +36,4 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000473
 sources:
-- url: http://www.nysenate.gov/senators/jamaal-t-bailey/contact
+- url: https://www.nysenate.gov/senators/jamaal-t-bailey/contact

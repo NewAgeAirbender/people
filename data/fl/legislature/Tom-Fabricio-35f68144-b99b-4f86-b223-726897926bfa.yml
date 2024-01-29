@@ -1,31 +1,35 @@
 id: ocd-person/35f68144-b99b-4f86-b223-726897926bfa
 name: Tom Fabricio
-given_name: Tom
+given_name: Thomas Paul
 family_name: Fabricio
 gender: Male
+email: tom.fabricio@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4792.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2022-11-08'
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '110'
+- end_date: 2022-11-08
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '103'
-- type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
-  district: '110'
 offices:
-- classification: capitol
-  address: 209 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: Room 209, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5110
 - classification: district
-  address: Suite 206; 7480 Fairway Drive; Miami Lakes, FL 33014-6879
+  address: 7480 Fairway Drive Suite 206, Miami Lakes, FL 33014
   voice: 305-364-3064
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=90
   note: member detail page

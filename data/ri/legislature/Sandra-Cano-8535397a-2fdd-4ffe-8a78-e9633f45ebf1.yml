@@ -1,6 +1,6 @@
 id: ocd-person/8535397a-2fdd-4ffe-8a78-e9633f45ebf1
 name: Sandra Cano
-given_name: Sandra
+given_name: Sandra C.
 family_name: Cano
 gender: Female
 email: sen-cano@rilegislature.gov
@@ -8,29 +8,33 @@ image: http://www.rilegislature.gov/senators/Pictures/cano.jpg
 party:
 - name: Democratic
 roles:
-- type: upper
+- start_date: 2018-04-12
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ri/government
   district: '8'
 offices:
-- classification: district
-  address: 302 Pullen Avenue, Pawtucket, RI 02861
+- classification: capitol
+  address: 82 Smith St., Providence, RI 2903
   voice: 401-276-5561
 links:
-- url: http://www.rilin.state.ri.us/senators/Algiere/
-- url: http://www.rilegislature.gov/senators/algiere/default.aspx
-- url: http://www.rilegislature.gov/senators/cano/Pages/Biography.aspx
+- url: https://www.rilin.state.ri.us/senators/Algiere/
+- url: https://www.rilegislature.gov/senators/algiere/default.aspx
+- url: https://www.rilegislature.gov/senators/cano/Pages/Biography.aspx
+- url: https://www.rilegislature.gov/senators/cano/default.aspx
+other_names:
+- name: Sandra C. Cano
 other_identifiers:
 - scheme: legacy_openstates
   identifier: RIL000183
 sources:
-- url: http://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
-- url: http://www.rilin.state.ri.us/senators/cano/
-- url: http://www.rilegislature.gov/senators/cano/default.aspx
-- url: http://webserver.rilegislature.gov/Email/SenEmailListDistrict.asp
-  note: Contact Web Page
-- url: http://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
-  note: Detail Excel Source
-- url: http://www.rilegislature.gov/senators/cano/Pages/Biography.aspx
+- url: https://webserver.rilin.state.ri.us/Email/SenEmailListDistrict.asp
+- url: https://www.rilin.state.ri.us/senators/cano/
+- url: https://www.rilegislature.gov/senators/cano/default.aspx
+- url: https://webserver.rilegislature.gov/Email/SenEmailListDistrict.asp
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/senators/cano/Pages/Biography.aspx
   note: Image Source
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
+  note: Detail Excel Source
 extras:
-  City/Town Represented: Pawtucket
+  City/Town Represented: Providence

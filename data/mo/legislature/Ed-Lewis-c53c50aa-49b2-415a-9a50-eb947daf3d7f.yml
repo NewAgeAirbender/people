@@ -1,24 +1,27 @@
 id: ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f
 name: Ed Lewis
-given_name: Ed
+given_name: Edwin
 family_name: Lewis
 gender: Male
+email: ed.lewis@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2244
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2021-01-06
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '6'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 312; Jefferson
-    City MO 65101
+  address: Room 409-B, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-6566
 links:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=006
+- url: https://house.mo.gov/MemberDetails.aspx?district=006
 other_names:
+- name: Edwin Lewis
 - name: Lewis, Ed
 sources:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006

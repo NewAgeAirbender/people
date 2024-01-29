@@ -1,36 +1,37 @@
 id: ocd-person/74b2c980-7fce-46b9-98dc-356240e18c2e
 name: Maria Perez
-given_name: Maria
+given_name: Maria Elizabeth
 family_name: Perez
-email: Maria.Perez@leg.state.nh.us
+gender: Female
+email: maria.perez@leg.state.nh.us
 party:
-- end_date: '2023-12-26'
-  name: Democratic
 - name: Independent
 roles:
-- end_date: '2022-12-07'
+- end_date: 2022-12-07
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Hillsborough 23
-- start_date: '2022-12-07'
+- start_date: 2022-12-07
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Hillsborough 43
 offices:
-- classification: district
-  address: "State House\x96House Member Mail 107 North Main Street Concord, NH 03301"
+- classification: home
+  address: NH
   voice: 603-801-7867
-- classification: district
-  address: Milford, NH 03055
-  name: 'District Office #1'
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 3301
 links:
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9908
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9908
   note: member detail page
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9908
+other_names:
+- name: Maria Elizabeth Perez
 sources:
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9908
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9908
 extras:
   county: Hillsborough
   elected status: Incumbent

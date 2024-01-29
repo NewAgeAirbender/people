@@ -1,33 +1,34 @@
 id: ocd-person/c40abbd9-220c-4081-9ad8-9559c10f9aae
 name: Ted Gorski
-given_name: Ted
+given_name: Theodore
 family_name: Gorski
+gender: Male
 email: ted.gorski@leg.state.nh.us
 party:
 - name: Republican
 roles:
-- end_date: '2022-12-07'
-  type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
-  district: Hillsborough 7
-- start_date: '2022-12-07'
+- start_date: 2022-12-07
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Hillsborough 2
+- end_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Hillsborough 7
 offices:
-- classification: district
-  address: State House-House Member Mail 107 North Main Street Concord, NH 03301
-- classification: district
-  address: Bedford, NH 03110
-  name: 'District Office #1'
+- classification: capitol
+  address: State House 107 N. Main St., Concord, NH 3301
 links:
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
   note: member detail page
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9898
+other_names:
+- name: Theodore Gorski
 sources:
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9898
 extras:
   county: Hillsborough
   elected status: Incumbent

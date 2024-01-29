@@ -1,22 +1,31 @@
 id: ocd-person/04066eef-919c-4dc9-a655-ebc5e185f0c7
-name: Thomas J. "Tom" Leek
+name: Tom Leek
+given_name: Thomas J.
+family_name: Leek
+gender: Male
+email: tom.leek@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4662.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2022-11-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '28'
 offices:
-- classification: capitol
-  address: 418 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5028
 - classification: district
-  address: Suite 240; 1540 Cornerstone Boulevard; Daytona Beach, FL 32117-7144
+  address: 1540 Cornerstone Blvd. Suite 240, Daytona Beach, FL 32117
   voice: 386-238-4865
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662
+other_names:
+- name: Thomas J. "Tom" Leek
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90
   note: member detail page

@@ -1,8 +1,9 @@
 id: ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47
 name: Scott Baldwin
-given_name: Scott
+given_name: Scott A.
 family_name: Baldwin
-email: S20@iga.in.gov
+gender: Male
+email: s20@iga.in.gov
 image: https://cdn.zephyrcms.com/2a259e46-1091-4af6-8894-cd56343d3aa1/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/baldwin-2.jpg
 party:
 - name: Republican
@@ -16,19 +17,21 @@ offices:
   address: 200 W. Washington St.Indianapolis, IN 46204
   voice: 800-382-9467
 links:
-- url: http://iga.in.gov/legislative/2021/legislators/legislator_scott_baldwin_1
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_scott_baldwin_1
 - url: https://www.indianasenaterepublicans.com/baldwin
   note: homepage
+- url: https://iga.in.gov/legislative/2022/legislators/legislator_scott_baldwin_1/
 sources:
+- url: https://iga.in.gov/legislative/2021/legislators/legislator_scott_baldwin_1
 - url: http://iga.in.gov/legislative/2021/legislators/legislator_scott_baldwin_1
 - url: https://api.iga.in.gov/2021/legislators/scott_baldwin_1
 - url: https://www.indianasenaterepublicans.com/senators
 - url: https://www.indianasenaterepublicans.com/baldwin
 extras:
   second phone: 317-232-9400
-  legislative assistant name: Camden Murrell
-  legislative assistant phone: 317-232-9490
-  legislative assistant email: Camden.Murrell@iga.in.gov
-  media contact name: Charlie Tinkle
+  legislative assistant name: Connor Wong
+  legislative assistant phone: 317-232-9541
+  legislative assistant email: Connor.Wong@iga.in.gov
+  media contact name: Abbey Webb
   media contact phone: 317-234-3560
-  media contact email: Charlie.Tinkle@iga.in.gov
+  media contact email: Abbey.Webb@iga.in.gov

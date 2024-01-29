@@ -1,21 +1,26 @@
 id: ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56
 name: Bennie Cook
-given_name: Bennie
+given_name: Bennie Lee
 family_name: Cook
+gender: Male
+email: bennie.cook@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2235
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2023-01-04
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '143'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 203-B; Jefferson
-    City MO 65101
+  address: Room 203-B, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-2264
 links:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=143
+- url: https://house.mo.gov/MemberDetails.aspx?district=143
+other_names:
+- name: Bennie Lee Cook
 sources:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=143
 extras:

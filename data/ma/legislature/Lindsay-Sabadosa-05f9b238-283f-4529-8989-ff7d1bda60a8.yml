@@ -1,6 +1,6 @@
 id: ocd-person/05f9b238-283f-4529-8989-ff7d1bda60a8
-name: Lindsay N. Sabadosa
-given_name: Lindsay
+name: Lindsay Sabadosa
+given_name: Lindsay N.
 family_name: Sabadosa
 gender: Female
 email: lindsay.sabadosa@mahouse.gov
@@ -8,20 +8,26 @@ image: https://malegislature.gov/Legislators/Profile/170/L_S1.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2019-01-02
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 1st Hampshire
 offices:
+- classification: district
+  address: 76 Gothic St., Northampton, MA 1060
+  voice: 413-270-1166
 - classification: capitol
-  address: 24 Beacon St., Room 160; Boston, MA 02133
+  address: Room 160, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2304
 links:
 - url: https://malegislature.gov/Legislators/Profile/L_S1
+other_names:
+- name: Lindsay N. Sabadosa
 sources:
 - url: https://malegislature.gov/Legislators/Profile/L_S1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/L_S1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/L_S1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/L_S1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/L_S1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   member code: L_S1

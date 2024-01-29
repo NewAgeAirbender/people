@@ -1,31 +1,42 @@
 id: ocd-person/be85e7a9-0455-4e02-92f7-834710d0e401
-name: Jose F. Batista
+name: Jose Batista
+given_name: Jose F.
+family_name: Batista
+gender: Male
 email: rep-batista@rilegislature.gov
-image: http://www.rilegislature.gov/representatives/Pictures/batista.jpg
+image: http://www.rilegislature.gov/representatives/Pictures/Batista.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2021-01-05
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ri/government
   district: '12'
 offices:
-- classification: district
-  address: 205 Massachusetts Avenue, Providence, RI 02905
+- classification: home
+  address: 205 Massachusetts Ave., Providence, RI 2905
   voice: 401-533-2226
+- classification: capitol
+  address: 82 Smith St., Providence, RI 2903
+  voice: 401-222-6655
 links:
-- url: http://www.rilegislature.gov/representatives/carson/default.aspx
-- url: http://www.rilegislature.gov/representatives/batista/default.aspx
+- url: https://www.rilegislature.gov/representatives/carson/default.aspx
+- url: https://www.rilegislature.gov/representatives/batista/Pages/Biography.aspx
+- url: https://www.rilegislature.gov/representatives/batista/default.aspx
 other_names:
+- name: Jose F. Batista
 - name: Batista
 - name: Jose Batista
 sources:
+- url: https://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.rilegislature.gov/representatives/batista/default.aspx
+  note: Image Source
 - url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
+- url: https://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
 - url: http://www.rilegislature.gov/representatives/batista/default.aspx
-- url: http://webserver.rilin.state.ri.us/Email/RepEmailListDistrict.asp
-  note: Contact Web Page
-- url: http://www.rilegislature.gov/SiteAssets/MailingLists/Representatives.xls
+- url: https://www.rilegislature.gov/SiteAssets/Representatives.xls
   note: Detail Excel Source
-- url: http://www.rilegislature.gov/representatives/batista/default.aspx
+- url: https://www.rilegislature.gov/representatives/batista/Pages/Biography.aspx
   note: Image Source
 extras:
   City/Town Represented: Providence

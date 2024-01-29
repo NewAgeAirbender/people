@@ -1,24 +1,28 @@
 id: ocd-person/c1f83f4d-e410-4642-b973-0ec4cd924ab4
-name: Lorrie J. Carey
-given_name: Lorrie
+name: Lorrie Carey
+given_name: Lorrie J.
 family_name: Carey
-email: Lorrie.Carey@leg.state.nh.us
+gender: Female
+email: lorrie.carey@leg.state.nh.us
 image: http://www.gencourt.state.nh.us/house/images/memberpics/377080.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2022-12-07
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Merrimack 1
 offices:
-- classification: district
-  address: 151 King Street Boscawen, NH 03303-2107
+- classification: home
+  address: 151 King St., Boscawen, NH 3303
   voice: 603-796-2272
 links:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=688
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=688
   note: member detail page
+other_names:
+- name: Lorrie J. Carey
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=688
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=688
 extras:
   county: Merrimack
   elected status: Former

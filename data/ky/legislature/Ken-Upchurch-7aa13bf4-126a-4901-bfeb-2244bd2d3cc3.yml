@@ -1,26 +1,30 @@
 id: ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3
 name: Ken Upchurch
-given_name: Ken
+given_name: Kenneth H.
 family_name: Upchurch
-email: Ken.Upchurch@lrc.ky.gov
+birth_date: '1969-06-04'
+gender: Male
+email: kenupchurch@windstream.net
 image: https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house52.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2013-02-25
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ky/government
   district: '52'
 offices:
-- classification: capitol
+- classification: capitol-mail
+  address: Room Annex 303, 702 Capital Ave., Frankfort KY, 40601
   voice: 502-564-8100
 - classification: district
-  address: 702 Capital Ave Annex Room 303 Frankfort, KY 40601
+  address: P.O. Box 969, Monticello KY, 42633
   voice: 606-340-8490
 links:
 - url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52
-- url: https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52
   note: homepage
 other_names:
+- name: Kenneth H. Upchurch
 - name: K. Upchurch
 ids:
   twitter: KenUpchurch

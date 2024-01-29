@@ -1,24 +1,31 @@
 id: ocd-person/469b8c3d-5133-43c1-8598-b63ea936f135
-name: Kimberly Daniels
-given_name: Kimberly
+name: Kim Daniels
+given_name: Kimberly Maria
 family_name: Daniels
+gender: Female
+email: kimberly.daniels@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4652.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2022-11-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '14'
 offices:
-- classification: capitol
-  address: 201 House Office Building; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: Room 201, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5014
 - classification: district
-  address: Suite 104; 1225 Beaver Street West; Jacksonville, FL 32204-1415
+  address: 1225 Beaver St. West Suite 104, Jacksonville, FL 32204
   voice: 904-359-2533
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652
+other_names:
+- name: Kimberly Daniels
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652&LegislativeTermId=90
   note: member detail page

@@ -1,32 +1,38 @@
 id: ocd-person/5eb39c7e-3582-4269-a012-7a88c54623c9
-name: Marie Paule Woodson
+name: Marie Woodson
+given_name: Marie Paule
+family_name: Woodson
 gender: Female
+email: marie.woodson@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4789.jpg
 party:
 - name: Democratic
 roles:
-- end_date: '2022-11-08'
-  type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
-  district: '101'
-- start_date: '2022-11-08'
+- start_date: 2022-11-08
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '105'
+- end_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '101'
 offices:
-- classification: capitol
-  address: 1001 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: Room 1001, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5105
 - classification: district
-  address: 'Building #73, Suite 120; 7200 Pines Boulevard; Pembroke Pines, FL 33024-7225'
+  address: '7200 Pines Blvd. Building #73, Suite 120, Pembroke Pines, FL 33024'
   voice: 954-965-3700
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789
 other_names:
+- name: Marie Paule Woodson
 - name: Woodson
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789&LegislativeTermId=90
   note: member detail page

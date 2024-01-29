@@ -1,8 +1,10 @@
 id: ocd-person/68d53f5e-f99c-4167-9dff-3c802fc6e857
-name: Thomas Burditt
+name: Tom Burditt
 given_name: Thomas
 family_name: Burditt
-email: thomasburditt@yahoo.com
+birth_date: '1956-08-18'
+gender: Male
+email: tburditt@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/TBurditt.jpg
 party:
 - name: Republican
@@ -11,18 +13,22 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Rutland-2
 offices:
-- classification: capitol
-  address: Vermont State House;115 State Street;Montpelier, VT 05633-5301
+- classification: home
+  address: 1118 Clarendon Ave., West Rutland, VT 5777
   voice: 802-828-2228
-- classification: district
-  voice: 802-438-0031
-  address: 1118 Clarendon Ave. West Rutland, VT 05777
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 5633
+  voice: 800-322-5616
 links:
-- url: http://legislature.vermont.gov/people/single/2020/15771
-- url: http://legislature.vermont.gov/people/single/2022/15771
+- url: https://legislature.vermont.gov/people/single/2020/15771
+- url: https://legislature.vermont.gov/people/single/2022/15771
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/RUT-2.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/15771
+other_names:
+- name: Thomas Burditt
+- name: Thomas B. Burditt
 other_identifiers:
 - scheme: legacy_openstates
   identifier: VTL000189
@@ -34,13 +40,11 @@ other_identifiers:
   identifier: VTL000600
 - scheme: legacy_openstates
   identifier: VTL000786
-other_names:
-  - name: Thomas B. Burditt
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2020
-- url: http://legislature.vermont.gov/people/single/2020/15771
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/15771
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/single/2020/15771
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/15771
 extras:
   home address: West Rutland, VT 05777
   state email: tburditt@leg.state.vt.us

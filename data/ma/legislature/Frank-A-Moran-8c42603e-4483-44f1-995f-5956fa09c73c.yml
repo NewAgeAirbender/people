@@ -1,24 +1,26 @@
 id: ocd-person/8c42603e-4483-44f1-995f-5956fa09c73c
-name: Frank A. Moran
-given_name: Frank
+name: Frank Moran
+given_name: Frank A.
 family_name: Moran
 gender: Male
-email: Frank.Moran@mahouse.gov
+email: frank.moran@mahouse.gov
 image: https://malegislature.gov/Legislators/Profile/170/FAM1.jpg
 party:
 - name: Democratic
 roles:
-- start_date: 2013-01-01
-  type: lower
+- type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 17th Essex
+  start_date: 2013-01-01
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 481; Boston, MA 02133
+  address: Room 481, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2180
   fax: 617-626-0288
 links:
 - url: https://malegislature.gov/Legislators/Profile/FAM1
+other_names:
+- name: Frank A. Moran
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MAL000556
@@ -30,9 +32,9 @@ other_identifiers:
   identifier: ocd-person/352e6ddf-aaae-4557-88db-24bb799ea59d
 sources:
 - url: https://malegislature.gov/Legislators/Profile/FAM1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/FAM1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/FAM1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/FAM1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/FAM1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   leadership position: Second Assistant Majority Leader

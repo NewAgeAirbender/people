@@ -1,21 +1,26 @@
 id: ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034
 name: Kathy Steinhoff
-given_name: Kathy
+given_name: Mary Kathy
 family_name: Steinhoff
+gender: Female
+email: kathy.steinhoff@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2361
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2023-01-04
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '45'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 135-BA; Jefferson
-    City MO 65101
+  address: Room 135-BA, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-4189
 links:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=045
+- url: https://house.mo.gov/MemberDetails.aspx?district=045
+other_names:
+- name: Mary Kathy Steinhoff
 sources:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=045
 extras:

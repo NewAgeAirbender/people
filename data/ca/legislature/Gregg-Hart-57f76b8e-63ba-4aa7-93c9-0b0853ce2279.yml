@@ -2,6 +2,8 @@ id: ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279
 name: Gregg Hart
 given_name: Gregg
 family_name: Hart
+gender: Male
+email: assemblymember.hart@assembly.ca.gov
 image: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/hart_027_11-30-22_resized.jpg
 party:
 - name: Democratic
@@ -11,12 +13,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ca/government
   district: '37'
 offices:
-- classification: capitol
-  address: 1021 O Street, Suite 6230, Sacramento, CA 95814
-  voice: 916-319-2037
 - classification: district
-  address: 101 West Anapamu Street, Suite A, Santa Barbara, CA 93101
+  address: 1111 S. Broadway, Suite 101, Santa Maria, CA 93454
+  voice: 805-346-1237
+- classification: district
+  address: 101 W. Anapamu St. Suite A, Santa Barbara, CA 93101
   voice: 805-564-1649
+- classification: capitol
+  address: 1021 O St., Suite 6230 P.O. Box 942849, Sacramento, CA 94249
+  voice: 916-319-2037
 links:
 - url: https://a37.asmdc.org/
 sources:

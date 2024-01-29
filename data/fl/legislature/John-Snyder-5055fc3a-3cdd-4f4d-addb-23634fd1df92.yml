@@ -2,30 +2,38 @@ id: ocd-person/5055fc3a-3cdd-4f4d-addb-23634fd1df92
 name: John Snyder
 given_name: John
 family_name: Snyder
+birth_date: '1987-04-13'
 gender: Male
+email: john.snyder@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4787.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2022-11-08'
+- start_date: 2022-11-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
+  district: '86'
+- end_date: 2022-11-08
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '82'
-- type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:fl/government
-  district: '86'
 offices:
-- classification: capitol
-  address: 322 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: '4239 SW High Meadows Ave., #201, Palm City, FL 34990'
+  voice: 772-403-1064
+- classification: district
+  address: Room 322, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5086
 - classification: district
-  address: '#201; 4239 Southwest High Meadows Avenue; Palm City, FL 34990-3728'
+  address: 210 Military Trail, Jupiter, FL 33458
   voice: 772-403-1064
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90
   note: member detail page

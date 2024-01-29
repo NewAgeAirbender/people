@@ -3,6 +3,7 @@ name: Brandy Donaghy
 given_name: Brandy
 family_name: Donaghy
 gender: Female
+email: brandy.donaghy@leg.wa.gov
 image: https://app.leg.wa.gov/ContentParts/MemberDirectory/LargePhoto?m=33818
 party:
 - name: Democratic
@@ -13,9 +14,10 @@ roles:
   district: '44'
 offices:
 - classification: capitol
-  address: 326 John L. O'Brien Building; PO Box 40600; Olympia, WA 98504
+  address: 417 John L. O'Brien Building; PO Box 40600; Olympia, WA 98504
   voice: 360-786-7804
 links:
 - url: https://housedemocrats.wa.gov/Donaghy/
+- url: https://housedemocrats.wa.gov/donaghy/
 sources:
 - url: https://app.leg.wa.gov/ContentParts/MemberDirectory/?a=House

@@ -1,19 +1,21 @@
 id: ocd-person/30414bf4-13ad-4bd5-a1d9-3cf11be6464d
-name: David Woodsome
-given_name: David
+name: Woody Woodsome
+given_name: Woody
 family_name: Woodsome
-email: David.Woodsome@legislature.maine.gov
+gender: Male
+email: david.woodsome@legislature.maine.gov
 image: https://legislature.maine.gov/uploads/visual_edit/woodsome-5x7-2.jpg
 party:
 - name: Republican
 roles:
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:me/government
+  district: '139'
 - end_date: 2022-12-07
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '33'
-- type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:me/government
-  district: '139'
 offices:
 - classification: capitol
   voice: 207-287-1505
@@ -26,7 +28,11 @@ links:
   note: homepage
 - url: https://mesenategop.com/your-senators/senator-david-woodsome/
   note: website
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1480
+  note: homepage
+- url: https://mainehousegop.org/members/woodsome-david/
 other_names:
+- name: David Woodsome
 - name: David C. Woodsome
 - name: WOODSOME of York
 other_identifiers:
@@ -38,4 +44,9 @@ sources:
 - url: https://legislature.maine.gov/District-33
 - url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
 extras:
-  county represented: York
+  Seat Number: '37'
+  towns represented:
+  - Limerick
+  - Parsonsfield
+  - Waterboro (Part)
+  occupation: Retired Teacher

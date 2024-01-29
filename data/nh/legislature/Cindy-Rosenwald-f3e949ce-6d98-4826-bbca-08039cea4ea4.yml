@@ -1,35 +1,36 @@
 id: ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4
 name: Cindy Rosenwald
-given_name: Cindy
+given_name: Lucinda
 family_name: Rosenwald
-email: Cindy.Rosenwald@leg.state.nh.us
+birth_date: '1954-04-23'
+gender: Female
+email: cindy.rosenwald@leg.state.nh.us
 image: http://www.gencourt.state.nh.us/Senate/images/senators/13.jpg
 party:
 - name: Democratic
 roles:
+- start_date: 2018-12-05
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: '13'
 - end_date: 2018-12-31
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Hillsborough 30
-- end_date: '2022-12-07'
-  type: upper
-  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
-  district: '13'
-- start_date: '2022-12-07'
-  type: upper
-  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
-  district: '13'
 offices:
 - classification: capitol
-  address: State House, Room 120 107 North Main Street Concord, NH 03301
-  voice: 603-271-3207
+  address: Room 120, State House 107 N. Main St., Concord, NH 3301
+  voice: 603-271-7587
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
   note: homepage
-- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
   note: member detail page
+- url: https://gencourt.state.nh.us/senate/members/webpages/district13.aspx
+other_names:
+- name: Lucinda Rosenwald
 other_identifiers:
 - scheme: legacy_openstates
   identifier: NHL000326
@@ -38,10 +39,10 @@ other_identifiers:
 - scheme: openstates
   identifier: ocd-person/3ca76f7b-e7c4-40c0-ab15-fe06d6b1cafd
 sources:
-- url: http://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/Senate/members/webpages/district13.aspx
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
 extras:
   county: Hillsborough
   elected status: Incumbent

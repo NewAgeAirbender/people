@@ -1,23 +1,26 @@
 id: ocd-person/04997a33-67a9-4535-95d2-c9a4c260519d
-name: William C. Galvin
-given_name: William
+name: Bill Galvin
+given_name: William C.
 family_name: Galvin
+birth_date: '1956-10-18'
 gender: Male
-email: William.Galvin@mahouse.gov
+email: william.galvin@mahouse.gov
 image: https://malegislature.gov/Legislators/Profile/170/WCG1.jpg
 party:
 - name: Democratic
 roles:
-- start_date: 2011-01-01
-  type: lower
+- type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 6th Norfolk
+  start_date: 2011-01-01
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 166; Boston, MA 02133
+  address: Room 166, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2692
 links:
 - url: https://malegislature.gov/Legislators/Profile/WCG1
+other_names:
+- name: William C. Galvin
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MAL000425
@@ -27,9 +30,9 @@ other_identifiers:
   identifier: ocd-person/d2414296-b7f7-471c-b31a-64a09b0de846
 sources:
 - url: https://malegislature.gov/Legislators/Profile/WCG1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/WCG1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/WCG1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/WCG1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/WCG1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   member code: WCG1

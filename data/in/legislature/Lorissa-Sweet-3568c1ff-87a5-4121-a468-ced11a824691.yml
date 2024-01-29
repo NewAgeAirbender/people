@@ -1,24 +1,29 @@
 id: ocd-person/3568c1ff-87a5-4121-a468-ced11a824691
 name: Lorissa Sweet
-given_name: Lorissa
+given_name: Lorissa Hays
 family_name: Sweet
-image: https://www.indianahouserepublicans.com/clientuploads/directory/members/Sweet_Accrisoft.jpg
+gender: Female
+email: h50@iga.in.gov
+image: https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Sweet_mainlist2023.png
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2022-11-09
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:in/government
   district: '50'
+offices: []
 links:
 - url: https://www.indianahouserepublicans.com/members/general/lorissa-sweet/?back=members
   note: homepage
+- url: https://www.indianahouserepublicans.com/members/general/lorissa-sweet
 sources:
 - url: https://www.indianahouserepublicans.com/members/general/lorissa-sweet/?back=members
 - url: https://www.indianahouserepublicans.com/members/
 extras:
-  assistant name: Connor McCarthy
+  assistant name: Jacob Allen
   assistant email: h50@iga.in.gov
-  assistant phone1: 317-234-9447
+  assistant phone1: 317-232-9627
   assistant phone2: 1-800-382-9841
   press contact name: Matthew Gocken
   press contact phone: 317-233-9604

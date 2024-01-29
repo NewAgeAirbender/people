@@ -3,21 +3,23 @@ name: Kimberly-Ann Collins
 given_name: Kimberly-Ann
 family_name: Collins
 gender: Female
+email: kimberlyann.collins@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2277
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2021-01-06
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '77'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 135-AA; Jefferson
-    City MO 65101
+  address: Room 135-AA, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-1400
 links:
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=077
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=077
+- url: https://house.mo.gov/MemberDetails.aspx?district=077
 other_names:
 - name: Collins, Kimberly-Ann
 - name: KimberlyAnn Collins

@@ -2,25 +2,27 @@ id: ocd-person/99c9c9e7-f0e3-480b-ad38-de297e6c635a
 name: Brandy Fluker Oakley
 given_name: Brandy
 family_name: Fluker Oakley
-email: Brandy.FlukerOakley@mahouse.gov
+gender: Female
+email: brandy.flukeroakley@mahouse.gov
 image: https://malegislature.gov/Legislators/Profile/170/BFO1.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2021-01-06
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: 12th Suffolk
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 236; Boston, MA 02133
+  address: Room 236, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-2430
 links:
 - url: https://malegislature.gov/Legislators/Profile/BFO1
 sources:
 - url: https://malegislature.gov/Legislators/Profile/BFO1
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BFO1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/BFO1
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BFO1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/BFO1
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   member code: BFO1

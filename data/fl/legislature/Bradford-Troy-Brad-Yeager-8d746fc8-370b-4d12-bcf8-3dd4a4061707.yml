@@ -1,22 +1,31 @@
 id: ocd-person/8d746fc8-370b-4d12-bcf8-3dd4a4061707
-name: Bradford Troy "Brad" Yeager
+name: Brad Yeager
+given_name: Bradford Troy
+family_name: Yeager
+gender: Male
+email: brad.yeager@myfloridahouse.gov
 image: https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4882.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2022-11-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '56'
 offices:
-- classification: capitol
-  address: 1101 The Capitol; 402 South Monroe Street; Tallahassee, FL 32399-1300
+- classification: district
+  address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5056
 - classification: district
-  address: Suite 200; 5509 Grand Boulevard; New Port Richey, FL 34652-3836
+  address: 5509 Grand Blvd. Suite 200, New Port Richey, FL 34652
   voice: 727-841-6977
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882&LegislativeTermId=90
   note: member detail page
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882
+other_names:
+- name: Bradford Troy "Brad" Yeager
 sources:
+- url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882&LegislativeTermId=90
   note: member detail page

@@ -1,29 +1,34 @@
 id: ocd-person/a22a36bb-3514-4d76-a39e-791902f41d6c
-name: John T. MacDonald
-given_name: John
+name: John MacDonald
+given_name: John T.
 family_name: MacDonald
-email: John.MacDonald@leg.state.nh.us
+gender: Male
+email: john.macdonald@leg.state.nh.us
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2018-12-05
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Carroll 6
 offices:
-- classification: district
-  address: PO Box 968 Wolfeboro Falls, NH 03894
+- classification: home
+  address: P.O. Box 968, Wolfeboro Falls, NH 3894
   voice: 603-387-5255
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9411
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9411
   note: member detail page
+- url: https://gencourt.state.nh.us/house/members/member.aspx?pid=9411
+other_names:
+- name: John T. MacDonald
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=408825
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=9411
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=408825
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=9411
 extras:
   county: Carroll
   elected status: Incumbent

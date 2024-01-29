@@ -1,31 +1,41 @@
 id: ocd-person/2a38ba4b-176e-479f-8083-2ff50aef693e
-name: Nathalia Fernandez
+name: "Nathalia Ferna\u0301ndez"
 given_name: Nathalia
-family_name: Fernandez
-email: fernandezn@nyassembly.gov
+family_name: "Ferna\u0301ndez"
+gender: Female
+email: fernandez@nysenate.gov
 image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/12-27-22_fernandez-hs.jpg?itok=0m96AhyY
 party:
 - name: Democratic
 roles:
-- end_date: '2023-01-01'
+- start_date: 2023-01-01
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
+  district: '34'
+- end_date: 2023-01-01
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '80'
-- type: upper
-  jurisdiction: ocd-jurisdiction/country:us/state:ny/government
-  district: '34'
 offices:
-- classification: capitol
-  address: Legislative Office Building, Room 905; Albany,NY 12247
+- classification: district
+  address: 3853 E. Tremont Ave., Bronx, NY 10465
+  voice: 718-822-2049
+  fax: 718-581-0310
+- classification: district
+  address: Room 814, Legislative Office Building 188 State St., Albany, NY 12247
   voice: 518-455-3595
+  fax: 518-426-6887
 links:
-- url: http://assembly.state.ny.us/mem/?sh=email
+- url: https://assembly.state.ny.us/mem/?sh=email
 - url: https://assembly.state.ny.us/mem/Nathalia-Fernandez
+- url: https://www.nysenate.gov/senators/nathalia-fernandez
+other_names:
+- name: Nathalia Fernandez
 ids:
   twitter: Fernandez4NY
 other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000466
 sources:
-- url: http://assembly.state.ny.us/mem/Nathalia-Fernandez
+- url: https://assembly.state.ny.us/mem/Nathalia-Fernandez
 - url: https://assembly.state.ny.us/mem/Nathalia-Fernandez

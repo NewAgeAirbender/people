@@ -1,33 +1,37 @@
 id: ocd-person/36bd1884-fd78-46b4-9ac3-318ca6358a67
-name: Emily J. Long
-given_name: Emily
+name: Emily Long
+given_name: Emily J.
 family_name: Long
+birth_date: '1959-06-30'
+gender: Female
 email: elong@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/Long,%20Emily.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2015-01-07
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Windham-5
 offices:
+- classification: home
+  address: 239 Wiswall Hill Road, Newfane, VT 5345
 - classification: capitol
-  address: Vermont State House;115 State Street;Montpelier, VT 05633-5301
+  address: Vermont State House 115 State St., Montpelier, VT 5633
   voice: 802-828-2228
-- classification: district
-  address: 239 Wiswall Hill Rd. Newfane, VT 05345
 links:
-- url: http://legislature.vermont.gov/people/single/2020/24012
-- url: http://legislature.vermont.gov/people/single/2022/24012
-- url: http://legislature.vermont.gov/people/single/2022/24012
+- url: https://legislature.vermont.gov/people/single/2020/24012
+- url: https://legislature.vermont.gov/people/single/2022/24012
+- url: https://legislature.vermont.gov/people/single/2022/24012
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/WDH-5.pdf
   note: district map
-- url: http://legislature.vermont.gov/people/single/2024/24012
-  note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-5.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/24012
+  note: homepage
 other_names:
+- name: Emily J. Long
 - name: Emily Long
 other_identifiers:
 - scheme: legacy_openstates
@@ -35,13 +39,13 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: VTL000584
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2020
-- url: http://legislature.vermont.gov/people/single/2020/24012
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/24012
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/single/2020/24012
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/24012
 - url: https://legislature.vermont.gov/people/loadAll/2022
 - url: https://legislature.vermont.gov/people/loadAll/2024
-- url: http://legislature.vermont.gov/people/single/2024/24012
+- url: https://legislature.vermont.gov/people/single/2024/24012
 extras:
   home address: Newfane, VT 05345
   home phone: (802) 365-7360

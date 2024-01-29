@@ -1,8 +1,10 @@
 id: ocd-person/d12670e1-fd0b-4e78-a471-ec5d4ddfafb8
-name: John L. Bartholomew
+name: John Bartholomew
 given_name: John L.
 family_name: Bartholomew
-email: barthoj@vermontel.net
+birth_date: '1955-02-14'
+gender: Male
+email: jbartholomew@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/Bartholomew.John.jpg
 party:
 - name: Democratic
@@ -12,20 +14,19 @@ roles:
   district: Windsor-1
 offices:
 - classification: capitol
-  address: Vermont State House;115 State Street;Montpelier, VT 05633-5301
+  address: Vermont State House 115 State St., Montpelier, VT 5633
   voice: 802-828-2228
-- classification: district
-  address: 115 State St. Montpelier, VT 05633
 links:
-- url: http://legislature.vermont.gov/people/single/2022/15769
+- url: https://legislature.vermont.gov/people/single/2022/15769
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/WDR-1.pdf
   note: district map
-- url: http://legislature.vermont.gov/people/single/2024/15769
-  note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-1.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/15769
+  note: homepage
 other_names:
+- name: John L. Bartholomew
 - name: John Bartholomew
 other_identifiers:
 - scheme: legacy_openstates
@@ -37,12 +38,12 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: VTL000659
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2020
-- url: http://legislature.vermont.gov/people/single/2020/15769
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/15769
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/single/2020/15769
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/15769
 - url: https://legislature.vermont.gov/people/loadAll/2024
-- url: http://legislature.vermont.gov/people/single/2024/15769
+- url: https://legislature.vermont.gov/people/single/2024/15769
 extras:
   home address: Hartland, VT 05048
   home phone: (802) 436-2151

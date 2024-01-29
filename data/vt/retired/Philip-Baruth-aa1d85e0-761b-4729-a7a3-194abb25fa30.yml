@@ -1,0 +1,46 @@
+id: ocd-person/aa1d85e0-761b-4729-a7a3-194abb25fa30
+name: Philip Baruth
+given_name: Philip
+family_name: Baruth
+email: philip@baruth2010.com
+image: https://legislature.vermont.gov/Documents/Legislators/PBaruth.jpg
+party:
+- name: Democratic/Progressive
+roles:
+- end_date: '2023-01-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden
+- start_date: '2023-01-04'
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Chittenden Central
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: http://legislature.vermont.gov/people/single/2020/15791
+- url: http://legislature.vermont.gov/people/single/2022/15791
+  note: homepage
+- url: https://legislature.vermont.gov/Documents/SmallMaps/CHIDIST.pdf
+  note: district map
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: VTL000180
+- scheme: legacy_openstates
+  identifier: VTL000455
+- scheme: legacy_openstates
+  identifier: VTL000513
+- scheme: legacy_openstates
+  identifier: VTL000594
+other_names:
+- name: Philip E. Baruth
+sources:
+- url: http://legislature.vermont.gov/people/loadAll/2020
+- url: http://legislature.vermont.gov/people/single/2020/15791
+- url: http://legislature.vermont.gov/people/loadAll/2022
+- url: http://legislature.vermont.gov/people/single/2022/15791
+extras:
+  work address: Burlington, VT 05405
+  home address: Burlington, VT 05408-2483
+  home phone: (802) 503-5266
+  state email: pbaruth@leg.state.vt.us

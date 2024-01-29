@@ -3,28 +3,29 @@ name: Mike Haffner
 given_name: Mike
 family_name: Haffner
 gender: Male
-email: Mike.Haffner@house.mo.gov
+email: mike.haffner@house.mo.gov
 image: https://house.mo.gov/MemberPhoto.aspx?id=2111
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2019-01-09
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '55'
 offices:
 - classification: capitol
-  address: MO House of Representatives; 201 West Capitol Avenue; Room 233-B; Jefferson
-    City MO 65101
+  address: Room 233-B, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-3783
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=55
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=55
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=055
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=055
+- url: https://house.mo.gov/MemberDetails.aspx?district=055
 other_names:
 - name: Haffner, Mike
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=55
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=55
 - url: https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=055
 - url: https://house.mo.gov/MemberDetails.aspx?year=2023&code=R&district=055
 extras:

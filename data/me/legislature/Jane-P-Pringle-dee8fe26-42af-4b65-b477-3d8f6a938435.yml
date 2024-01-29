@@ -1,36 +1,32 @@
 id: ocd-person/dee8fe26-42af-4b65-b477-3d8f6a938435
-name: Jane P. Pringle
+name: Jane Pringle
+given_name: Jane
+family_name: Pringle
+gender: Female
 email: jane.pringle@legislature.maine.gov
 image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/8b09b373-e03d-47e1-8972-a5af150db655_JPRINGLE.jpg
 party:
 - name: Democratic
 roles:
-<<<<<<< HEAD
-- start_date: 2020-12-02
-=======
 - start_date: 2022-12-07
->>>>>>> main
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '107'
 offices:
 - classification: capitol
-<<<<<<< HEAD
-  address: House Majority Office Room 333, State House 2 State House Station Augusta,
-    Maine 04333-0002
-=======
   address: House Majority Office Room 333, State House 2 State House Station Augusta, Maine 04333-0002
->>>>>>> main
 - classification: district
   address: 3 Great Falls Road, Windham, ME 04062
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/287
   note: homepage
+- url: https://legislature.maine.gov/housedems/pringle/index.html
+other_names:
+- name: Jane P. Pringle
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/287
 extras:
-  Cell Phone: (207) 712-2419
   Seat Number: '121'
   towns represented:
   - Windham (Part)

@@ -1,32 +1,36 @@
 id: ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f
-name: Lester Carpenter
-given_name: Lester
+name: Bubba Carpenter
+given_name: Lester E.
 family_name: Carpenter
+birth_date: '1970-09-01'
+gender: Male
 email: lcarpenter@house.ms.gov
 image: http://billstatus.ls.state.ms.us/members/house/carpenter.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2008-01-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ms/government
   district: '1'
 offices:
 - classification: capitol
-  address: Room BSMNT P. O. Box 1018;Jackson, MS 39215
+  address: State Capitol Room Basement, 400 High St., Jackson MS, 39201
   voice: 601-359-4073
-- classification: district
-  address: 128 Jefferson Street Burnsville, Mississippi 38833
-  voice: 662-424-2306
+- classification: capitol-mail
+  address: P.O. Box 1018, Jackson MS, 39215
 links:
-- url: http://billstatus.ls.state.ms.us/members/house/carpenter.xml
-- url: http://billstatus.ls.state.ms.us/members/house/carpenter.xml
+- url: https://billstatus.ls.state.ms.us/members/house/carpenter.xml
   note: homepage
+other_names:
+- name: Lester E. Carpenter
+- name: Lester Carpenter
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MSL000162
 sources:
-- url: http://billstatus.ls.state.ms.us/members/house/carpenter.xml
-- url: http://billstatus.ls.state.ms.us/members/hr_membs.xml
+- url: https://billstatus.ls.state.ms.us/members/house/carpenter.xml
+- url: https://billstatus.ls.state.ms.us/members/hr_membs.xml
 extras:
   occupation: Paramedic
   education:

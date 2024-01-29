@@ -3,35 +3,36 @@ name: Doug Beck
 given_name: Doug
 family_name: Beck
 gender: Male
-email: '!'
+email: doug.beck@senate.mo.gov
 image: https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Beck2021-683x1024.jpg
 party:
 - name: Democratic
 roles:
-- start_date: 2017-01-04
-  end_date: '2021-01-06'
-  type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
-  district: '92'
-- start_date: '2021-01-06'
+- start_date: 2021-01-06
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:mo/government
   district: '1'
+- start_date: 2017-01-04
+  end_date: 2021-01-06
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:mo/government
+  district: '92'
 offices:
 - classification: capitol
-  address: 201 W Capitol Ave, Room 328
+  address: Room 328, 201 W. Capitol Ave., Jefferson City, MO 65101
   voice: 573-751-0220
 links:
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=92
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=92
 - url: https://www.senate.mo.gov/mem01/
+- url: https://www.senate.mo.gov/Senators/Member/01
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MOL000456
 - scheme: openstates
   identifier: ocd-person/1ec6a491-f3c0-4d80-b9c0-fb4eb89b6465
 sources:
-- url: http://house.mo.gov/MemberGridCluster.aspx
-- url: http://www.house.mo.gov/MemberDetails.aspx?district=92
+- url: https://house.mo.gov/MemberGridCluster.aspx
+- url: https://www.house.mo.gov/MemberDetails.aspx?district=92
 - url: https://www.senate.mo.gov/senators-listing/
 - url: https://www.senate.mo.gov/mem01/
 extras:

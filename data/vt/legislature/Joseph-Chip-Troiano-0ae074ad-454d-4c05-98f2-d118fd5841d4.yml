@@ -1,24 +1,32 @@
 id: ocd-person/0ae074ad-454d-4c05-98f2-d118fd5841d4
-name: Joseph "Chip" J. Troiano
+name: Chip Troiano
 given_name: Joseph
 family_name: Troiano
-email: chiptroiano@gmail.com
+gender: Male
+email: ctroiano@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/Troiano.Chip.jpg
 party:
 - name: Democratic
 roles:
-- start_date: '2015-01-07'
+- start_date: 2015-01-07
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Caledonia-2
+offices:
+- classification: capitol
+  address: Vermont State House 115 State St., Montpelier, VT 5633
+  voice: 802-828-2228
 links:
-- url: http://legislature.vermont.gov/people/single/2020/24026
-- url: http://legislature.vermont.gov/people/single/2022/24026
-- url: http://legislature.vermont.gov/people/single/2022/24026
+- url: https://legislature.vermont.gov/people/single/2020/24026
+- url: https://legislature.vermont.gov/people/single/2022/24026
+- url: https://legislature.vermont.gov/people/single/2022/24026
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/CAL-2.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/24026
 other_names:
+- name: Joseph Troiano
+- name: Joseph "Chip" J. Troiano
 - name: Joseph "Chip" Troiano
 other_identifiers:
 - scheme: legacy_openstates
@@ -32,10 +40,10 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: VTL000868
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2020
-- url: http://legislature.vermont.gov/people/single/2020/24026
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/24026
+- url: https://legislature.vermont.gov/people/loadAll/2020
+- url: https://legislature.vermont.gov/people/single/2020/24026
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/24026
 - url: https://legislature.vermont.gov/people/loadAll/2022
 extras:
   work address: St. Johnsbury, VT 05819

@@ -1,40 +1,40 @@
 id: ocd-person/2f1d3491-871e-4eb6-988b-57d3c9ea7a19
-name: Robert Norris
-given_name: Robert
+name: Bob Norris
+given_name: Robert W.
 family_name: Norris
+gender: Male
+email: rnorris@leg.state.vt.us
 image: https://legislature.vermont.gov/Documents/Legislators/Norris.Robert.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2023-01-04'
-  type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
-  district: Franklin-4
-- start_date: '2023-01-04'
+- start_date: 2023-01-04
   type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:vt/government
   district: Franklin
+- end_date: 2023-01-04
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+  district: Franklin-4
 offices:
+- classification: home
+  address: 162 Vermont Route 105, Sheldon, VT 5483
 - classification: capitol
-  address: Vermont State House;115 State Street;Montpelier, VT 05633-5301
+  address: Vermont State House 115 State St., Montpelier, VT 5633
   voice: 802-828-2228
-- classification: district
-  address: 115 State St. Montpelier, VT 05633
-- classification: district
-  address: 115 State St.;Montpelier, VT 05633
-  voice: 802-309-9262
-  name: 'District Office #1'
 links:
-- url: http://legislature.vermont.gov/people/single/2022/34702
-- url: http://legislature.vermont.gov/people/single/2022/34702
+- url: https://legislature.vermont.gov/people/single/2022/34702
+- url: https://legislature.vermont.gov/people/single/2022/34702
   note: homepage
 - url: https://legislature.vermont.gov/Documents/SmallMaps/FRA-4.pdf
   note: district map
+- url: https://legislature.vermont.gov/people/single/2024/37409
 other_names:
 - name: Robert W. Norris
+- name: Robert Norris
 sources:
-- url: http://legislature.vermont.gov/people/loadAll/2022
-- url: http://legislature.vermont.gov/people/single/2022/34702
+- url: https://legislature.vermont.gov/people/loadAll/2022
+- url: https://legislature.vermont.gov/people/single/2022/34702
 - url: https://legislature.vermont.gov/people/loadAll/2022
 extras:
   home address: 162 VT RT 105 Sheldon, VT 05483

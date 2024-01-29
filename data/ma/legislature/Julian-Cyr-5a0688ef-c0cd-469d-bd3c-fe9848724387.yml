@@ -1,30 +1,35 @@
 id: ocd-person/5a0688ef-c0cd-469d-bd3c-fe9848724387
 name: Julian Cyr
-given_name: Julian
+given_name: Julian Andre
 family_name: Cyr
+birth_date: '1986-01-19'
 gender: Male
 email: julian.cyr@masenate.gov
 image: https://malegislature.gov/Legislators/Profile/170/JAC0.jpg
 party:
 - name: Democratic
 roles:
-- type: upper
+- start_date: 2017-01-04
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ma/government
   district: Cape and Islands
 offices:
 - classification: capitol
-  address: 24 Beacon St., Room 111; Boston, MA 02133
+  address: Room 111, State House 24 Beacon St., Boston, MA 2133
   voice: 617-722-1570
 links:
 - url: https://malegislature.gov/Legislators/Profile/JAC0
+- url: https://www.senatorcyr.com/
+other_names:
+- name: Julian Andre Cyr
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MAL000409
 sources:
 - url: https://malegislature.gov/Legislators/Profile/JAC0
-- url: http://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JAC0
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JAC0
 - url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
-- url: http://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JAC0
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JAC0
 - url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
 extras:
   leadership position: Assistant Majority Whip

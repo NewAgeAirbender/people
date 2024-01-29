@@ -1,28 +1,34 @@
 id: ocd-person/35c51630-9b9c-411a-9b98-0842cb6093df
-name: John B. Hunt
-given_name: John
+name: John Hunt
+given_name: John B.
 family_name: Hunt
+birth_date: '1956-11-13'
+gender: Male
 email: jbhunt@prodigy.net
 image: http://www.gencourt.state.nh.us/house/images/memberpics/372375.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2022-12-07'
+- start_date: 2022-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Cheshire 14
+- end_date: 2022-12-07
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:nh/government
   district: Cheshire 11
-- type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
-  district: Cheshire 14
 offices:
-- classification: district
-  address: 165 Sunridge Road Rindge, NH 03461-5478
+- classification: home
+  address: 165 Sunridge Road, Rindge, NH 3461
   voice: 603-345-1129
 links:
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=414
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=414
   note: member detail page
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=372375
+other_names:
+- name: John B. Hunt
 other_identifiers:
 - scheme: legacy_openstates
   identifier: NHL000180
@@ -31,11 +37,11 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NHL000881
 sources:
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?member=372375
-- url: http://www.gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/Members.txt
-- url: http://gencourt.state.nh.us/downloads/members.txt
-- url: http://www.gencourt.state.nh.us/house/members/member.aspx?pid=414
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=372375
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=414
 extras:
   county: Cheshire
   elected status: Incumbent
