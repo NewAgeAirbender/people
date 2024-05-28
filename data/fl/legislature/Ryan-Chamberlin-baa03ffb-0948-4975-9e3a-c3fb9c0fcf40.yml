@@ -17,7 +17,11 @@ offices:
 - classification: district
   address: 3001 SW College Road Suite 104, Ocala, FL 34474
   voice: 352-291-4436
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5024
 links:

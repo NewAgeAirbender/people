@@ -1,10 +1,10 @@
 id: ocd-person/a3281b8a-e758-4804-a964-e8db96d043a8
 name: Jim Dill
-given_name: Jim
+given_name: James F.
 family_name: Dill
 gender: Male
 email: james.dill@legislature.maine.gov
-image: https://legislature.maine.gov/uploads/visual_edit/dill-5x7.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/20795.jpg
 party:
 - name: Democratic
 roles:
@@ -18,8 +18,9 @@ roles:
   district: '5'
 offices:
 - classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
   voice: 207-287-1515
-- classification: district
+- classification: home
   address: 72 Sunset Drive, Old Town, ME 04468
   voice: 207-827-3498
 links:
@@ -33,12 +34,18 @@ links:
 other_names:
 - name: James F. Dill
 - name: James Dill
+- name: DILL of Old Town
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MEL000049
 - scheme: legacy_openstates
   identifier: MEL000318
 sources:
+- url: https://legislature.maine.gov/house/house/MemberProfiles/Details/253
+- url: https://en.wikipedia.org/wiki/Jim_Dill
+- url: https://justfacts.votesmart.org/candidate/biography/120946/jim-dill
+- url: https://www.linkedin.com/in/jim-dill-25b72965
+- url: https://ballotpedia.org/James_Dill_(Maine)
 - url: https://legislature.maine.gov/District-5
 - url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
 extras:

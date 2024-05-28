@@ -5,7 +5,7 @@ family_name: Gonzalez
 birth_date: '1995-08-06'
 gender: Female
 email: gonzalez@nysenate.gov
-image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/gonzalez_hs-1_0.jpg?itok=Ji5anDju
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122561.jpg
 party:
 - name: Democratic/Working Families
 roles:
@@ -14,15 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '59'
 offices:
-- classification: district
-  address: 801 2nd Ave. Suite 303, New York, NY 10017
-  voice: 718-765-6674
-- classification: district
+- classification: capitol
   address: Room 817, Legislative Office Building, Albany, NY 12247
   voice: 518-455-3250
   fax: 518-426-6785
+- classification: district
+  address: 801 2nd Ave. Suite 303, New York, NY 10017
+  voice: 718-765-6674
 links:
 - url: https://www.nysenate.gov/senators/kristen-gonzalez
 other_names:
 - name: Kristen S. Gonzalez
-sources: []
+sources:
+- url: https://www.nysenate.gov/senators/kristen-gonzalez
+- url: https://en.wikipedia.org/wiki/Kristen_Gonzalez
+- url: https://ballotpedia.org/Kristen_Gonzalez

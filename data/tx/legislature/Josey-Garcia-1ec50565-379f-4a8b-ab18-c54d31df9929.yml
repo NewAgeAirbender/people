@@ -2,14 +2,23 @@ id: ocd-person/1ec50565-379f-4a8b-ab18-c54d31df9929
 name: Josey Garcia
 given_name: Josey
 family_name: Garcia
-image: https://house.texas.gov/members/photos/4170.jpg?v=88.25
+gender: Female
+email: josey.garcia@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/125127.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2023-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '124'
 offices:
-- classification: capitol
-  address: Room E2.304 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.304, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0634
+links:
+- url: https://house.texas.gov/members/member-page/?district=124
+sources:
+- url: https://ballotpedia.org/Josey_Garcia
+- url: https://house.texas.gov/members/member-page/?district=124
+- url: https://justfacts.votesmart.org/candidate/biography/201201/josey-garcia

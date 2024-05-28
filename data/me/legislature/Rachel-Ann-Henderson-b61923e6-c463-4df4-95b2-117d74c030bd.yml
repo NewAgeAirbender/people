@@ -1,10 +1,10 @@
 id: ocd-person/b61923e6-c463-4df4-95b2-117d74c030bd
 name: Rachel Henderson
-given_name: Rachel
+given_name: Rachel Ann
 family_name: Henderson
 gender: Female
 email: rachel.henderson@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/7c8fd3af-5878-4aea-91fe-0faa167ad005_HENDERSON.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122947.jpg
 party:
 - name: Republican
 roles:
@@ -14,9 +14,10 @@ roles:
   district: '78'
 offices:
 - classification: capitol
-  address: House Minority Office Room 332, State House 2 State House Station Augusta, Maine 04333-0002
-- classification: district
-  address: 87 Holyoke Avenue, Rumford, ME 04276
+  address: Room 332, 2 State House Station, Augusta, ME 04333
+- classification: home
+  address: 87 Holyoke Ave., Rumford, ME 04276
+  voice: 207-381-4237
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
   note: homepage
@@ -24,9 +25,12 @@ links:
 other_names:
 - name: Rachel Ann Henderson
 - name: Rachel A. Henderson
+- name: HENDERSON of Rumford
 sources:
-- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1484
+- url: https://mainehousegop.org/members/henderson-rachel
+- url: https://ballotpedia.org/Rachel_Ann_Henderson
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '63'
   towns represented:

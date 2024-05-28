@@ -18,6 +18,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '104'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1001, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5103
+>>>>>>> main
 - classification: district
   address: 1725 Main St. Suite 225, Weston, FL 33326
   voice: 954-424-6828

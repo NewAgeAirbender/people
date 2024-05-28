@@ -18,11 +18,13 @@ roles:
   district: '65'
 offices:
 - classification: capitol
-  address: 200 E Colfax RM 346 Denver, CO 80203
+  address: Room 307, 200 E. Colfax, Denver, CO 80203
   voice: 303-866-4884
 links:
 - url: https://leg.colorado.gov/legislators/rod-pelton
   note: homepage
+other_names:
+- name: Pelton R.
 sources:
 - url: https://leg.colorado.gov/legislators/rod-pelton
 - url: https://leg.colorado.gov/legislators

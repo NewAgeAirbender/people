@@ -18,6 +18,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '61'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5063
+>>>>>>> main
 - classification: district
   address: 3911 N. Tampa St., Tampa, FL 33603
   voice: 813-224-1956

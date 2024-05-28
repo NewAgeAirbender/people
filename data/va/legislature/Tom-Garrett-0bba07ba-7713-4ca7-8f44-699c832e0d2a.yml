@@ -1,0 +1,27 @@
+id: ocd-person/0bba07ba-7713-4ca7-8f44-699c832e0d2a
+name: Tom Garrett
+given_name: Thomas Alexander
+family_name: Garrett
+birth_date: '1972-03-27'
+gender: Male
+email: deltgarrett@house.virginia.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/58468.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:va/government
+  district: '56'
+links:
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0362
+other_names:
+- name: Garrett, Thomas A., Jr.
+- name: Thomas A. Garrett, Jr.
+sources:
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0362
+- url: https://en.wikipedia.org/wiki/Thomas_Garrett,_Jr.
+- url: https://justfacts.votesmart.org/candidate/134493/tom-garrett-jr
+- url: https://www.linkedin.com/in/tom-garrett-4571288
+- url: https://ballotpedia.org/Thomas_Garrett
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H362

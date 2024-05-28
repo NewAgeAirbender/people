@@ -14,6 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '77'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 315, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5077
+>>>>>>> main
 - classification: district
   address: 16301 Innovation Lane Suite 123, Fort Myers, FL 33913
   voice: 239-445-2357

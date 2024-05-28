@@ -17,7 +17,11 @@ offices:
 - classification: district
   address: 840 W. 11th St., Panama City, FL 32401
   voice: 850-747-5454
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 313, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5002
 links:

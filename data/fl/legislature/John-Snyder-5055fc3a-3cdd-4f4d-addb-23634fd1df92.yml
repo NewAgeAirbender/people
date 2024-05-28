@@ -18,6 +18,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '82'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: '4239 SW High Meadows Ave., #201, Palm City, FL 34990'
   voice: 772-403-1064
@@ -25,6 +26,15 @@ offices:
   address: Room 322, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5086
 - classification: district
+=======
+- classification: capitol
+  address: Room 322, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5086
+- classification: district
+  address: '4239 SW High Meadows Ave., #201, Palm City, FL 34990'
+  voice: 772-403-1064
+- classification: district
+>>>>>>> main
   address: 210 Military Trail, Jupiter, FL 33458
   voice: 772-403-1064
 links:

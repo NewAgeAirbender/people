@@ -13,6 +13,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '45'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5045
+>>>>>>> main
 - classification: district
   address: 6735 Conroy Road Suite 421, Orlando, FL 32835
   voice: 407-271-4011

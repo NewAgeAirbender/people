@@ -18,6 +18,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '31'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 417, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5026
+>>>>>>> main
 - classification: district
   address: 1951 Woodlea Road, Tavares, FL 32778
   voice: 352-742-6275

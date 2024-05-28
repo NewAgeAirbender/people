@@ -2,25 +2,26 @@ id: ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2
 name: Ernie Yarbrough
 given_name: Ernie
 family_name: Yarbrough
+gender: Male
 email: yarbrough4house@gmail.com
-image: https://www.legislature.state.al.us/pdf/house/members/Yarbrough_7.png
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/122296.jpg
 party:
 - name: Republican
 roles:
-- start_date: '2018-11-07'
+- start_date: 2022-11-09
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:al/government
   district: '7'
 offices:
 - classification: capitol
-  address: 11 South Union Street,Suite 528-B,Montgomery, AL 36130-2950
-  voice: 334-261-0454
+  address: 11 S. Union St., Montgomery, AL 36130
 - classification: district
-  address: 1332 Old Highway 24,Trinity, AL 35673
+  address: 1332 Old Highway 24, Trinity, AL 35673
 links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Ernie_Yarbrough
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
 extras:

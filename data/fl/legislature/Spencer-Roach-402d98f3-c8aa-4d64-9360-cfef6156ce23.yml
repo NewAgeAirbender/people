@@ -21,7 +21,11 @@ offices:
 - classification: district
   address: 3436 Marinatown Lane Suite 6, North Fort Myers, FL 33903
   voice: 239-656-7790
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 209, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5076
 links:

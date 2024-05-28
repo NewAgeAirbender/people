@@ -1,10 +1,11 @@
 id: ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b
 name: Dean Cray
-given_name: Dean
+given_name: Dean A.
 family_name: Cray
+birth_date: '1958-03-05'
 gender: Male
 email: dean.cray@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/898a0677-23f7-4936-a1a4-c913ae94227c_CRAY.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/20789.jpg
 party:
 - name: Republican
 roles:
@@ -19,9 +20,9 @@ roles:
   district: '28'
 offices:
 - classification: capitol
-  address: House Minority Office Room 332, State House 2 State House Station Augusta,
-    Maine 04333-0002
-- classification: district
+  address: Room 332, State House 2 State House Station, Augusta, ME 04333
+  voice: 207-287-1400
+- classification: home
   address: P.O. Box 3, Palmyra, ME 04965
   voice: 207-478-8279
 links:
@@ -31,14 +32,19 @@ links:
 - url: https://mainehousegop.org/members/cray-dean/
 other_names:
 - name: Dean A. Cray
+- name: CRAY of Palmyra
 other_identifiers:
 - scheme: legacy_openstates
   identifier: MEL000063
 sources:
-- url: http://www.maine.gov/legis/house/dist_mem.htm
-- url: http://www.maine.gov/legis/house/hsebios/crayda.htm
-- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/249
+- url: https://mainehousegop.org/members/cray-dean
+- url: https://en.wikipedia.org/wiki/Dean_Cray
+- url: https://www.linkedin.com/in/dean-cray-b4a58b33
+- url: https://ballotpedia.org/Dean_Cray
+- url: https://www.maine.gov/legis/house/dist_mem.htm
+- url: https://www.maine.gov/legis/house/hsebios/crayda.htm
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '109'
   towns represented:

@@ -14,7 +14,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '15'
 offices:
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+  address: Room 1301, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5015
+- classification: district
+  address: Room 1-071, 76347 Veterans Way, Yulee, FL 32097
+  voice: 904-548-4920
+- classification: district
+>>>>>>> main
   address: 12400 Yellow Bluff Road Suite 108, Jacksonville, FL 32226
   voice: 904-383-1239
 - classification: district

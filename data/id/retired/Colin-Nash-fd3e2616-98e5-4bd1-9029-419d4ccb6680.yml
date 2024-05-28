@@ -1,0 +1,26 @@
+id: ocd-person/fd3e2616-98e5-4bd1-9029-419d4ccb6680
+name: Colin Nash
+given_name: Colin
+family_name: Nash
+gender: Male
+email: cnash@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Nash6705.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2020-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 16B
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=16
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2022&district=16
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=16
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/2023/id6705/
+sources:
+- url: https://legislature.idaho.gov/legislators/membership/2023/id6705/
+- url: https://legislature.idaho.gov/house/membership/

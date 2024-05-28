@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '93'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5100
+=======
+>>>>>>> main
 - classification: district
   address: 1827 NE 24th St., Lighthouse Point, FL 33064
   voice: 954-784-4531
+- classification: capitol
+  address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5100
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4722&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4722&LegislativeTermId=88

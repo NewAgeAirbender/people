@@ -4,7 +4,7 @@ given_name: Leo
 family_name: Biasiucci
 gender: Male
 email: lbiasiucci@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/BIASIUCCI.jpg
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BIASIUCCI.jpg
 party:
 - name: Republican
 roles:
@@ -18,7 +18,7 @@ roles:
   district: '5'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 208;Phoenix, AZ 85007
+  address: Room 208, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-3018
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1894
@@ -33,7 +33,12 @@ ids:
   twitter: Leo4AzHouse
   facebook: Leo4AzHouse
 sources:
-- url: http://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2034
+- url: https://en.wikipedia.org/wiki/Leo_Biasiucci
+- url: https://justfacts.votesmart.org/candidate/biography/171694/leo-biasiucci
+- url: https://www.linkedin.com/in/leo4azhouse
+- url: https://ballotpedia.org/Leo_Biasiucci
+- url: https://www.azleg.gov/MemberRoster/?body=H
 - url: https://www.azleg.gov/memberroster/?body=H
 extras:
   title: Majority Leader

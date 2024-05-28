@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '50'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1402, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5050
+=======
+>>>>>>> main
 - classification: district
   address: 2033 E. Edgewood Drive Suite 1, Lakeland, FL 33803
   voice: 863-450-4795
+- classification: capitol
+  address: Room 1402, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5050
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4879&LegislativeTermId=90
   note: member detail page

@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '41'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5041
+=======
+>>>>>>> main
 - classification: district
   address: 1003 S. Kirkman Road Suite 201, Orlando, FL 32811
   voice: 407-297-2001
+- classification: capitol
+  address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5041
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=90
   note: member detail page

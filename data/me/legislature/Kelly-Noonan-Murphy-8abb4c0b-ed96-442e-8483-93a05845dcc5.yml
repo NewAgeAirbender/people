@@ -1,10 +1,10 @@
 id: ocd-person/8abb4c0b-ed96-442e-8483-93a05845dcc5
 name: Kelly Murphy
-given_name: Kelly
+given_name: Kelly Noonan
 family_name: Murphy
 gender: Female
 email: kelly.murphy@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/17a7b5d3-e413-418b-bad4-831e543f1099_MURPHY.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122870.jpg
 party:
 - name: Democratic
 roles:
@@ -14,8 +14,9 @@ roles:
   district: '125'
 offices:
 - classification: capitol
-  address: House Majority Office Room 333, State House 2 State House Station Augusta, Maine 04333-0002
-- classification: district
+  address: Room 333, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+- classification: home
   address: 5 Woodfield Drive, Scarborough, ME 04074
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1477
@@ -23,9 +24,12 @@ links:
 - url: https://legislature.maine.gov/housedems/murphy/index.html
 other_names:
 - name: Kelly Noonan Murphy
+- name: MURPHY of Scarborough
 sources:
-- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1477
+- url: https://legislature.maine.gov/housedems/murphy/index.html
+- url: https://ballotpedia.org/Kelly_Noonan_Murphy
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '50'
   towns represented:

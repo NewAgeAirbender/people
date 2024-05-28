@@ -1,10 +1,10 @@
 id: ocd-person/3853d2fe-2580-4041-abb1-b4136172e9c0
 name: Tracy Quint
-given_name: Tracy
+given_name: Tracy L.
 family_name: Quint
 gender: Female
 email: tracy.quint@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/a2caf281-9523-418e-b5a2-1a0635438985_QuintNEW.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93827.jpg
 party:
 - name: Republican
 roles:
@@ -19,9 +19,9 @@ roles:
   district: '144'
 offices:
 - classification: capitol
-  address: House Minority Office Room 332, State House 2 State House Station Augusta,
-    Maine 04333-0002
-- classification: district
+  address: Room 332, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+- classification: home
   address: 318 Westford Hill Road, Hodgdon, ME 04730
   voice: 207-217-4493
 links:
@@ -34,6 +34,9 @@ other_names:
 - name: Tracy QUINT
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1443
+- url: https://mainehousegop.org/members/quint-tracy
+- url: https://en.wikipedia.org/wiki/Tracy_Quint
+- url: https://ballotpedia.org/Tracy_Quint
 - url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '61'

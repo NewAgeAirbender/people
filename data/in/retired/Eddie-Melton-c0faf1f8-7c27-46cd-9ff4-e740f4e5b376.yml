@@ -1,0 +1,37 @@
+id: ocd-person/c0faf1f8-7c27-46cd-9ff4-e740f4e5b376
+name: Eddie Melton
+given_name: Eddie
+family_name: Melton
+email: s3@iga.in.gov
+image: https://indianasenatedemocrats.org/wp-content/uploads/2020/12/Senators-Melton.jpg
+party:
+- name: Democratic
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:in/government
+  district: '3'
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: http://iga.in.gov/legislative/2021/legislators/legislator_eddie_melton_1
+- url: https://www.indianasenatedemocrats.org/senators/s3/
+  note: homepage
+- url: https://indianasenatedemocrats.orghttps://www.indianasenatedemocrats.org/s3
+  note: homepage
+other_names:
+- name: Eddie D. Melton
+ids:
+  twitter: seneddiemelton
+  facebook: seneddiemelton
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: INL000290
+sources:
+- url: http://iga.in.gov/legislative/2021/legislators/legislator_eddie_melton_1
+- url: https://api.iga.in.gov/2021/legislators/eddie_melton_1
+- url: https://www.indianasenatedemocrats.org/senators/
+- url: https://www.indianasenatedemocrats.org/senators/s3/
+- url: https://www.indianasenatedemocrats.org/s3
+extras:
+  Legislative Assistant: Rachel Gray
+  Additional Phone 1: 800-382-9467

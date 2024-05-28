@@ -13,6 +13,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '115'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1301, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5115
+>>>>>>> main
 - classification: district
   address: 7380 SW 48th St., Miami, FL 33155
   voice: 305-663-2065

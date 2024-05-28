@@ -2,6 +2,7 @@ id: ocd-person/79271821-3d79-4f99-bba3-a147779bb3d0
 name: Joe Statler
 given_name: Joe
 family_name: Statler
+birth_date: '1952-12-08'
 gender: Male
 email: joe.statler@wvhouse.gov
 image: http://www.wvlegislature.gov/images/members/2023/house/statler_joe.jpg
@@ -22,23 +23,25 @@ roles:
   district: '51'
 offices:
 - classification: capitol
-  address: Room 442M, Bldg. 1 1900 Kanawha Blvd. E. Charleston, WV 25305
+  address: State Capitol Room 434M-A, Complex Building 1, Charleston, WV 25305
   voice: 304-340-3265
-- classification: district
-  address: 97 Long Drain Road Core, WV 26541
+- classification: home
+  address: 97 Long Drain Road, Core, WV 26541
   voice: 304-376-7336
 links:
 - url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Statler
 - url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler
-  note: homepage
-- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler
 other_identifiers:
 - scheme: legacy_openstates
   identifier: WVL000305
 sources:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler
+- url: https://en.wikipedia.org/wiki/Joe_Statler
+- url: https://justfacts.votesmart.org/candidate/biography/148623/joseph-statler
+- url: https://www.linkedin.com/in/joe-statler-720b4190
+- url: https://ballotpedia.org/Joe_Statler
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler
 - url: https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Statler
 - url: https://www.wvlegislature.gov/House/roster.cfm
-- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler
 - url: http://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Statler
 - url: http://www.wvlegislature.gov/House/roster.cfm
-- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler

@@ -1,0 +1,27 @@
+id: ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33
+name: Greg Miller
+given_name: Gregory Allen
+family_name: Miller
+gender: Male
+email: sen19@legis.la.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/20370.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '19'
+offices:
+- classification: district
+  address: P.O. Box 190, Norco, LA 70079
+  voice: 985-764-9991
+links:
+- url: https://senate.la.gov/smembers?ID=19
+other_names:
+- name: Gregory A. Miller
+sources:
+- url: https://senate.la.gov/smembers?ID=19
+- url: https://justfacts.votesmart.org/candidate/biography/134603/gregory-miller
+- url: https://www.linkedin.com/in/gregory-miller-50855942
+- url: https://ballotpedia.org/Gregory_Miller,_Louisiana

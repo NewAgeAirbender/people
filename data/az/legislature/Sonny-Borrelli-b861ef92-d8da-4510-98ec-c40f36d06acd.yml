@@ -4,7 +4,7 @@ given_name: Sonny
 family_name: Borrelli
 gender: Male
 email: sborrelli@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/BORRELLI.jpg
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/BORRELLI.jpg
 party:
 - name: Republican
 roles:
@@ -22,7 +22,7 @@ roles:
   district: '5'
 offices:
 - classification: capitol
-  address: Senate;1700 West Washington;Room 212;Phoenix, AZ 85007
+  address: Room 212, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-5051
 links:
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=54&session=122&legislator=1921
@@ -44,7 +44,12 @@ other_identifiers:
 - scheme: openstates
   identifier: ocd-person/0e0a1287-51d8-4148-9f56-2501eb7fdd5c
 sources:
-- url: http://www.azleg.gov/MemberRoster/?body=S
+- url: https://www.azleg.gov/senate-member/?legislature=55&legislator=1959
+- url: https://en.wikipedia.org/wiki/Sonny_Borrelli
+- url: https://justfacts.votesmart.org/candidate/biography/129361/sonny-borrelli
+- url: https://www.linkedin.com/in/sonnyborrelli
+- url: https://ballotpedia.org/Sonny_Borrelli
+- url: https://www.azleg.gov/MemberRoster/?body=S
 - url: https://www.azleg.gov/memberroster/?body=S
 extras:
   title: Majority Leader

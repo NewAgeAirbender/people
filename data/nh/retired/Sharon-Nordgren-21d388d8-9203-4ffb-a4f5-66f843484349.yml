@@ -1,0 +1,40 @@
+id: ocd-person/21d388d8-9203-4ffb-a4f5-66f843484349
+name: Sharon Nordgren
+given_name: Sharon L.
+family_name: Nordgren
+birth_date: '1943-10-21'
+gender: Female
+email: sharon.nordgren@leg.state.nh.us
+image: http://www.gencourt.state.nh.us/house/images/memberpics/373514.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 1988-12-07
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:nh/government
+  district: Grafton 12
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=418
+  note: member detail page
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=373514
+other_names:
+- name: Sharon L. Nordgren
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: NHL000260
+- scheme: legacy_openstates
+  identifier: NHL000667
+sources:
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?member=373514
+- url: https://www.gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/Members.txt
+- url: https://gencourt.state.nh.us/downloads/members.txt
+- url: https://www.gencourt.state.nh.us/house/members/member.aspx?pid=418
+extras:
+  county: Grafton
+  elected status: Incumbent
+  gender code: F

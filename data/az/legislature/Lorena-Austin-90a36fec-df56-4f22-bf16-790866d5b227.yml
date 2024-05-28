@@ -4,7 +4,7 @@ given_name: Lorena
 family_name: Austin
 gender: Female
 email: laustin@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/AUSTIN.jpg
+image: https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg
 party:
 - name: Democratic
 roles:
@@ -14,11 +14,15 @@ roles:
   district: '9'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 124;Phoenix, AZ 85007
+  address: Room 124, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-3968
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2206
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2206
 - url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206
 sources:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206
+- url: https://en.wikipedia.org/wiki/Lorena_Austin
+- url: https://www.linkedin.com/in/lorenaaustinaz
+- url: https://ballotpedia.org/Lorena_Austin
 - url: https://www.azleg.gov/memberroster/?body=H

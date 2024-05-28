@@ -5,7 +5,7 @@ family_name: Dinowitz
 birth_date: '1954-12-03'
 gender: Male
 email: dinowij@nyassembly.gov
-image: https://assembly.state.ny.us/write/upload/member_files/081/headshot/081.jpg?hst=1660074041
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/46788.jpg
 party:
 - name: Democratic
 roles:
@@ -14,14 +14,14 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '81'
 offices:
+- classification: capitol
+  address: Room 632, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-5965
+  fax: 518-455-4437
 - classification: district
   address: 3107 Kingsbridge Ave., Bronx, NY 10463
   voice: 718-796-5345
   fax: 718-796-0694
-- classification: district
-  address: Room 632, Legislative Office Building, Albany, NY 12248
-  voice: 518-455-5965
-  fax: 518-455-4437
 links:
 - url: https://assembly.state.ny.us/mem/?sh=email
 - url: https://assembly.state.ny.us/mem/Jeffrey-Dinowitz
@@ -32,5 +32,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000100
 sources:
-- url: https://assembly.state.ny.us/mem/Jeffrey-Dinowitz
+- url: https://nyassembly.gov/mem/jeffrey-dinowitz
+- url: https://en.wikipedia.org/wiki/Jeffrey_Dinowitz
+- url: https://justfacts.votesmart.org/candidate/biography/4305/jeffrey-dinowitz
+- url: https://ballotpedia.org/Jeffrey_Dinowitz
 - url: https://assembly.state.ny.us/mem/Jeffrey-Dinowitz

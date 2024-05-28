@@ -14,6 +14,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '7'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: 103 E. Ellis St., Perry, FL 32347
   voice: 850-295-5680
@@ -21,6 +22,15 @@ offices:
   address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5007
 - classification: district
+=======
+- classification: capitol
+  address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5007
+- classification: district
+  address: 103 E. Ellis St., Perry, FL 32347
+  voice: 850-295-5680
+- classification: district
+>>>>>>> main
   address: 101 Reid Ave. Suite 110, Port St. Joe, FL 32456
   voice: 850-295-5680
 links:

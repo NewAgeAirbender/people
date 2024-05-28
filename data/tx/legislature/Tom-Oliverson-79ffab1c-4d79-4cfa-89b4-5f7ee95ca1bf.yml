@@ -2,21 +2,24 @@ id: ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf
 name: Tom Oliverson
 given_name: Tom
 family_name: Oliverson
+birth_date: '1972-06-08'
 gender: Male
-image: https://house.texas.gov/members/photos/3535.jpg?v=88.25
+email: tom.oliverson@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/61042.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2017-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '130'
 offices:
-- classification: capitol
-  address: Room E2.408 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.408, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0661
   fax: 512-463-4130
 - classification: district
-  address: 11803 Grant Road, Suite 201 Cypress, Texas 77429
+  address: 11803 Grant Road Suite 201, Cypress, TX 77429
   voice: 281-257-4984
 links:
 - url: https://house.texas.gov/members/member-page/?district=130
@@ -24,4 +27,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000687
 sources:
+- url: https://ballotpedia.org/Tom_Oliverson
+- url: https://en.wikipedia.org/wiki/Tom_Oliverson
 - url: https://house.texas.gov/members/member-page/?district=130
+- url: https://justfacts.votesmart.org/candidate/biography/166520/tom-oliverson

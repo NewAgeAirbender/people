@@ -1,28 +1,30 @@
 id: ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02
 name: Ron Bolton
-given_name: Ron
+given_name: Ronald
 family_name: Bolton
+gender: Male
 email: ronaldbolton1@gmail.com
-image: https://www.legislature.state.al.us/pdf/house/members/Bolton_61.png
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/123418.jpg
 party:
 - name: Republican
 roles:
-- start_date: '2018-11-07'
+- start_date: 2022-11-09
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:al/government
   district: '61'
 offices:
 - classification: capitol
-  address: 11 South Union Street,Suite 522-A,Montgomery, AL 36130-2950
-  voice: 334-261-0403
+  address: Room 522-A, 11 S. Union St., Montgomery, AL 36130
 - classification: district
-  address: 11240 Davis Place,Northport, AL 35476
+  address: 11240 Davis Place, Northport, AL 35476
   voice: 205-242-9896
 links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Ron_Bolton_(Alabama)
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/ronald-bolton-33715143
 extras:
   counties: Pickens County, Tuscaloosa County

@@ -1,21 +1,24 @@
 id: ocd-person/2fd6fcd3-9676-42a4-b879-e317576ff18f
 name: Alma Allen
-given_name: Alma
+given_name: Alma A.
 family_name: Allen
+birth_date: '1939-04-07'
 gender: Female
-image: https://house.texas.gov/members/photos/2100.jpg?v=88.25
+email: alma.allen@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/23160.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2005-01-11
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '131'
 offices:
-- classification: capitol
-  address: Room 4N.10 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room 4N.10, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0744
 - classification: district
-  address: 10101 Fondren Road, Suite 500 Houston, TX 77096
+  address: 10101 Fondren Road Suite 500, Houston, TX 77096
   voice: 713-776-0505
   fax: 713-776-1490
 links:
@@ -31,4 +34,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000613
 sources:
+- url: https://ballotpedia.org/Alma_Allen
+- url: https://en.wikipedia.org/wiki/Alma_Allen_(politician)
 - url: https://house.texas.gov/members/member-page/?district=131
+- url: https://www.linkedin.com/in/alma-allen-b2b28864

@@ -1,10 +1,11 @@
 id: ocd-person/51a68891-f5de-4f19-b373-9c39183924a4
 name: Matt Pouliot
-given_name: Matt
+given_name: Matthew G.
 family_name: Pouliot
+birth_date: '1986-12-09'
 gender: Male
 email: matt.pouliot@legislature.maine.gov
-image: https://legislature.maine.gov/uploads/visual_edit/pouliot-5x7.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/46260.jpg
 party:
 - name: Republican
 roles:
@@ -14,8 +15,9 @@ roles:
   district: '15'
 offices:
 - classification: capitol
+  address: 3 State House Station, Augusta, ME 04333
   voice: 207-287-1505
-- classification: district
+- classification: home
   address: 66 Hemlock Terrace, Augusta, ME 04330
   voice: 207-441-9418
 links:
@@ -32,6 +34,10 @@ other_names:
 - name: Matthew Pouliot
 - name: POULIOT of Kennebec
 sources:
+- url: https://legislature.maine.gov/district15
+- url: https://en.wikipedia.org/wiki/Matthew_Pouliot
+- url: https://www.linkedin.com/in/matt-pouliot-a844331b
+- url: https://ballotpedia.org/Matthew_Pouliot
 - url: https://legislature.maine.gov/District-15
 - url: https://legislature.maine.gov/uploads/visual_edit/130th-senate-contact-information-as-of-31221.xlsx
 - url: https://legislature.maine.gov/uploads/visual_edit/131-senator-contact-information-2.xlsx

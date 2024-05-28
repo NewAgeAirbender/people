@@ -4,7 +4,7 @@ given_name: Anna
 family_name: Hernandez
 gender: Female
 email: anna.hernandez@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/HERNANDEZ.jpg
+image: https://annahernandezfor24.com/assets/img/headshot.JPG
 party:
 - name: Democratic
 roles:
@@ -14,11 +14,14 @@ roles:
   district: '24'
 offices:
 - classification: capitol
-  address: Senate;1700 West Washington;Room 308;Phoenix, AZ 85007
+  address: Room 308, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-3492
 links:
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2129
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2129
 - url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2129
 sources:
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2129
+- url: https://en.wikipedia.org/wiki/Anna_Hernandez
+- url: https://ballotpedia.org/Anna_Hernandez
 - url: https://www.azleg.gov/memberroster/?body=S

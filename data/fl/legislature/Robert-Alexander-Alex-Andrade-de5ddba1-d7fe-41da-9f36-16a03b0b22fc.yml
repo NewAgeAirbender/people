@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '2'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5002
+=======
+>>>>>>> main
 - classification: district
   address: 226 S. Palafox Place, Pensacola, FL 32502
   voice: 850-595-0467
+- classification: capitol
+  address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5002
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4710&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4710&LegislativeTermId=88

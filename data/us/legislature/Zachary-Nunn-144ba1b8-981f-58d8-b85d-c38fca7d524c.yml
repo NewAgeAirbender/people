@@ -25,6 +25,8 @@ links:
   note: website
 ids:
   twitter: ZachNunn
+other_names:
+- name: Nunn (IA)
 other_identifiers:
 - scheme: bioguide
   identifier: N000193
@@ -32,6 +34,8 @@ other_identifiers:
   identifier: H2IA03119
 - scheme: govtrack
   identifier: '456898'
+- scheme: opensecrets
+  identifier: N00048870
 - scheme: wikidata
   identifier: Q84719792
 - scheme: wikipedia

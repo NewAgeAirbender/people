@@ -14,17 +14,20 @@ roles:
   district: '48'
 offices:
 - classification: capitol
-  address: 200 W. Washington Street;Indianapolis, IN 46204
-  voice: 800-382-9841
+  address: 200 W. Washington St., Indianapolis, IN 46204
+  voice: 317-232-9620
 links:
 - url: https://iga.in.gov/legislative/2021/legislators/legislator_doug_miller_1
 - url: https://iga.in.gov/legislative/2019/legislators/legislator_doug_miller_1/
 - url: https://www.indianahouserepublicans.com/members/general/doug-miller/?back=members
   note: homepage
+other_names:
+- name: Miller, D
 other_identifiers:
 - scheme: legacy_openstates
   identifier: INL000273
 sources:
+- url: https://iga.in.gov/legislative/2019/legislators/legislator_doug_miller_1/
 - url: https://iga.in.gov/legislative/2021/legislators/legislator_doug_miller_1
 - url: http://iga.in.gov/legislative/2021/legislators/legislator_doug_miller_1
 - url: https://api.iga.in.gov/2021/legislators/doug_miller_1

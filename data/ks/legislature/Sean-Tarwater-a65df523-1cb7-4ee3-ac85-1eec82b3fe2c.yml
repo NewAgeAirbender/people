@@ -2,6 +2,7 @@ id: ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c
 name: Sean Tarwater
 given_name: Sean E.
 family_name: Tarwater
+birth_date: '1969-02-25'
 gender: Male
 email: sean.tarwater@house.ks.gov
 image: http://www.kslegislature.org/li/m/images/pics/rep_tarwater_sean_1.jpg
@@ -13,8 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   district: '27'
 offices:
+- classification: home
+  address: 16006 Meadow Lane, Stilwell, KS 66085
+  voice: 816-729-7827
 - classification: capitol
-  address: Room 151-S; Kansas State Capitol Building; 300 SW 10th St.; Topeka, KS
+  address: State Capitol Room 151-S, Kansas  Building 300 SW 10th St., Topeka, KS
     66612
   voice: 785-296-7685
 links:
@@ -25,9 +29,15 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: KSL000374
 sources:
-- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_tarwater_sean_1/
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1/
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_tarwater_sean_1
+- url: https://en.wikipedia.org/wiki/Sean_Tarwater
+- url: https://teamtarwater.com/meet-sean-tarwater
+- url: https://www.linkedin.com/in/sean-e-tarwater-mba-afip-69ba6825
+- url: https://ballotpedia.org/Sean_Tarwater_Sr.
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1
-- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1/
 extras:
   occupation: Business Owner

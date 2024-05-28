@@ -5,40 +5,40 @@ name: Higher Education
 chamber: lower
 parent: ocd-organization/df84d33b-325c-44fc-84f4-a0e93ac7baeb
 sources:
-- url: https://lis.virginia.gov/cgi-bin/legp604.exe?231+com+H9
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+com+H9
   note: homepage
-- url: https://lis.virginia.gov/cgi-bin/legp604.exe?231+sub+H09002
+- url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+sub+H09002
 members:
-- name: Nicholas J. Freitas
-  role: Chair
-  person_id: ocd-person/8ebe480b-ef45-4fb9-8acf-bdfb9a510d0f
-- name: John J. McGuire, III
-  role: Member
-  person_id: ocd-person/0dd787e8-c62a-46a9-aa0e-915f574e75d2
-- name: Amanda E. Batten
-  role: Member
-  person_id: ocd-person/3978e9b7-e219-4863-9788-1bf7991d32fb
-- name: William C. Wampler III
-  role: Member
-  person_id: ocd-person/b835c266-23a6-4505-8737-4b7e60ebf396
-- name: Carrie E. Coyner
-  role: Member
-  person_id: ocd-person/924fd509-0a9c-45c2-a51b-68ed24bd11fe
-- name: Karen S. Greenhalgh
-  role: Member
-  person_id: ocd-person/2400427a-ccb1-48bb-bc70-3b99a8e502a9
-- name: Jeffrey M. Bourne
-  role: Member
-  person_id: ocd-person/61ce47b8-d93b-4685-8ca8-0221ef0329bd
-- name: Elizabeth R. Guzman
-  role: Member
-  person_id: ocd-person/34c31079-0077-4ce5-9985-d0f2a95a12a7
-- name: Eileen Filler-Corn
-  role: Member
-  person_id: ocd-person/dde1867a-629a-4cb8-aa88-0d4d9f03020d
 - name: Briana D. Sewell
-  role: Member
+  role: Chair
   person_id: ocd-person/23775904-887c-4a2c-9424-0683608193ba
-- name: Glenn R. Davis
+- name: Nadarius E. Clark
   role: Member
-  person_id: ocd-person/fc4a49e2-acc8-410d-b80f-b291b0885446
+  person_id: ocd-person/a7fd18db-f30c-45c6-aa90-bdb6f2ce412b
+- name: Amy J. Laufer
+  role: Member
+  person_id: ocd-person/7e0776e4-a915-4758-a7b3-70ca42ce3fe4
+- name: Delores L. McQuinn
+  role: Member
+  person_id: ocd-person/4ae07d5d-1da3-4370-b796-7698013ca994
+- name: Sam Rasoul
+  role: Member
+  person_id: ocd-person/6ab67007-e48a-4048-bb7b-20a608a88f77
+- name: Anne Ferrell Tata
+  role: Member
+  person_id: ocd-person/9fd6fbd7-5e4e-4426-9d5a-43173ab01489
+- name: Laura Jane Cohen
+  role: Member
+  person_id: ocd-person/6840c55c-6496-44ce-8a60-3288e222ddc0
+- name: Destiny LeVere Bolling
+  role: Member
+  person_id: ocd-person/43d936f6-2ae8-42fe-a9a9-a4f139842afa
+- name: Phillip A. Scott
+  role: Member
+  person_id: ocd-person/6a07d7b6-a4b4-42f8-9a06-6a860249f5b9
+- name: Thomas A. Garrett, Jr.
+  role: Member
+  person_id: ocd-person/989cab54-1cdb-4783-a3eb-24c139763f0b
+- name: Eric R. Zehr
+  role: Member
+  person_id: ocd-person/0bd1b9d6-e02e-4cb4-91c8-c87466ebf1db

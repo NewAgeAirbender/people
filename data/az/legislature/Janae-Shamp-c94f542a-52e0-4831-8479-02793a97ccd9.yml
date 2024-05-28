@@ -4,7 +4,7 @@ given_name: Janae
 family_name: Shamp
 gender: Female
 email: jshamp@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHAMP.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Janae_Shamp_by_Gage_Skidmore.jpg/800px-Janae_Shamp_by_Gage_Skidmore.jpg
 party:
 - name: Republican
 roles:
@@ -14,11 +14,14 @@ roles:
   district: '29'
 offices:
 - classification: capitol
-  address: Senate;1700 West Washington;Room 302;Phoenix, AZ 85007
+  address: Room 302, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-3499
 links:
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=127&legislator=2141
 - url: https://www.azleg.gov/Senate/Senate-member/?legislature=56&session=128&legislator=2141
 - url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2141
 sources:
+- url: https://www.azleg.gov/senate-member/?legislature=56&legislator=2141
+- url: https://en.wikipedia.org/wiki/Janae_Shamp
+- url: https://ballotpedia.org/Janae_Shamp
 - url: https://www.azleg.gov/memberroster/?body=S

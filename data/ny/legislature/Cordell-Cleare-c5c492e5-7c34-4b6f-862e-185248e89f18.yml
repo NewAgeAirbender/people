@@ -5,7 +5,7 @@ family_name: Cleare
 birth_date: '1965-12-05'
 gender: Female
 email: cleare@nysenate.gov
-image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/sd30-cleareofficialheadshot.jpg?itok=xjV5PmAM
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/115160.jpg
 party:
 - name: Democratic
 roles:
@@ -14,7 +14,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '30'
 offices:
-- classification: district
+- classification: capitol
   address: Room 905, Legislative Office Building, Albany, NY 12247
   voice: 518-455-2441
   fax: 518-426-6809
@@ -30,4 +30,7 @@ links:
 ids:
   twitter: CordellCleare
 sources:
+- url: https://www.nysenate.gov/senators/cordell-cleare
+- url: https://en.wikipedia.org/wiki/Cordell_Cleare
+- url: https://ballotpedia.org/Cordell_Cleare
 - url: https://www.nysenate.gov/senators/cordell-cleare/contact

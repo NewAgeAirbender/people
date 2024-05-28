@@ -15,6 +15,12 @@ roles:
   district: '28'
 offices:
 - classification: district
+<<<<<<< HEAD
+=======
+  address: 3299 E. Tamiami Trail Suite 203, Naples, FL 34112
+  voice: 239-417-6205
+- classification: capitol
+>>>>>>> main
   address: Room 409, The Capitol 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5028
 - classification: district
@@ -28,6 +34,8 @@ links:
 - url: https://flsenate.gov/Senators/2022-2024/S28
   note: member detail page
 - url: https://www.flsenate.gov/Senators/s28
+other_names:
+- name: President Passidomo
 other_identifiers:
 - scheme: legacy_openstates
   identifier: FLL000567

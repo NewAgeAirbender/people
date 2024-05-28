@@ -28,6 +28,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '16'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 406, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5021
+>>>>>>> main
 - classification: district
   address: 3450 E. Lake Road South Suite 305, Palm Harbor, FL 34685
   voice: 727-771-2102

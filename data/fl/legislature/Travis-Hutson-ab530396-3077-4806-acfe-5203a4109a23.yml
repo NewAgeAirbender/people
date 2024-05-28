@@ -24,13 +24,22 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '6'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 416, Senate Office Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5007
+>>>>>>> main
 - classification: district
   address: 4875 Palm Coast Parkway Northwest Suite 5, Palm Coast, FL 32137
   voice: 386-446-7610
   fax: 888-263-3475
+<<<<<<< HEAD
 - classification: district
   address: Room 416, Senate Office Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5007
+=======
+>>>>>>> main
 links:
 - url: https://www.flsenate.gov/Senators/2018-2020/S7
 - url: https://flsenate.gov/Senators/2022-2024/S7

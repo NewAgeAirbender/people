@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '87'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 407, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5089
+=======
+>>>>>>> main
 - classification: district
   address: 1850 Forest Hill Blvd. Suite 200, West Palm Beach, FL 33406
   voice: 561-357-4824
+- classification: capitol
+  address: Room 407, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5089
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4627&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4627&LegislativeTermId=88

@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '83'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 319, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5085
+=======
+>>>>>>> main
 - classification: district
   address: 151 SW Flagler Ave., Stuart, FL 34994
   voice: 772-221-4961
+- classification: capitol
+  address: Room 319, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5085
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4728&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4728&LegislativeTermId=88

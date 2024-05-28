@@ -1,0 +1,9 @@
+id: ocd-person/32533586-adee-415b-aba8-4032d931df49
+name: Cheryl L. Selby
+given_name: Cheryl L.
+family_name: Selby
+email: cselby@ci.olympia.wa.us
+roles:
+- end_date: '2023-12-31'
+  type: mayor
+  jurisdiction: ocd-jurisdiction/country:us/state:wa/place:olympia/government

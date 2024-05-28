@@ -1,0 +1,27 @@
+id: ocd-person/f7bbf0af-3af6-4c6c-b861-eae6d6fb6320
+name: Anita Hall
+given_name: Anita
+family_name: Hall
+gender: Female
+email: anita.hall@wvhouse.gov
+image: http://www.wvlegislature.gov/images/members/2023/house/hall_anita.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2022-12-01
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:wv/government
+  district: '36'
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20A.
+  note: homepage
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20A.
+sources:
+- url: https://www.wvlegislature.gov/House/roster.cfm
+- url: https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20A.
+- url: http://www.wvlegislature.gov/House/roster.cfm
+- url: http://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall,%20A.
+extras:
+  title: Assistant Majority Whip

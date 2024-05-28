@@ -1,19 +1,25 @@
 id: ocd-person/ab3ddc65-0fb9-476b-993f-b3dc4050127e
 name: Lulu Flores
-given_name: Lulu
+given_name: Maria Luisa
 family_name: Flores
-image: https://house.texas.gov/members/photos/4150.jpg?v=88.25
+gender: Female
+email: lulu.flores@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/125124.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2023-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '51'
 offices:
-- classification: capitol
-  address: Room E2.312 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.312, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0674
 links:
 - url: https://house.texas.gov/members/member-page/?district=51
 sources:
+- url: https://ballotpedia.org/Lulu_Flores
+- url: https://hendlerlaw.com/attorneys/maria-luisa-lulu-flores
 - url: https://house.texas.gov/members/member-page/?district=51
+- url: https://www.linkedin.com/in/lulu-flores-350a02

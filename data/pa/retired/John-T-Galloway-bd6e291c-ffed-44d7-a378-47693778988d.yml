@@ -1,0 +1,37 @@
+id: ocd-person/bd6e291c-ffed-44d7-a378-47693778988d
+name: John T. Galloway
+given_name: John
+family_name: Galloway
+gender: Male
+image: https://www.legis.state.pa.us/images/members/200/1118.jpg?1684774806693
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:pa/government
+  district: '140'
+  end_date: '2023-12-15'
+offices: []
+links:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1118
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1118
+  note: homepage
+ids:
+  twitter: RepJohnGalloway
+  youtube: playlist?list=PL0355692607429F2D
+  facebook: Rep-John-Galloway
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: PAL000110
+sources:
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1118
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1118
+extras:
+  website: http://www.pahouse.com/Galloway
+  Education:
+  - Pennsbury High School
+  - Bucks County Community College
+  - Project Management Institute

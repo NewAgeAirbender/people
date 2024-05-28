@@ -20,7 +20,11 @@ roles:
 offices:
 - classification: district
   address: 2943 Landover Blvd., Spring Hill, FL 34608
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 310, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5011
 links:

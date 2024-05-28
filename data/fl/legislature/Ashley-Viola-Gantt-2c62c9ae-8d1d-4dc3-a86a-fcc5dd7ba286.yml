@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '109'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5109
+=======
+>>>>>>> main
 - classification: district
   address: 5400 NW 22nd Ave. Suite 101, Building C, Miami, FL 33142
   voice: 786-505-1081
+- classification: capitol
+  address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5109
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90
   note: member detail page

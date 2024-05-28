@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '63'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 316, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5067
+=======
+>>>>>>> main
 - classification: district
   address: 13250 N. 56th St. Suite 103, Tampa, FL 33617
   voice: 813-936-0854
+- classification: capitol
+  address: Room 316, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5067
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=88

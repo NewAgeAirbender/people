@@ -1,0 +1,36 @@
+id: ocd-person/5b93277b-9bb5-47e6-93e0-f75cb742b2d7
+name: "Marcelino Qui\xF1onez"
+given_name: Marcelino
+family_name: Quinonez
+gender: Male
+email: mquinonez@azleg.gov
+image: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/QUI\xD1ONEZ.jpg"
+party:
+- name: Democratic
+roles:
+- start_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '11'
+  end_date: '2024-01-01'
+- start_date: 2021-12-16
+  end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:az/government
+  district: '27'
+offices: []
+links:
+- url: https://www.azleg.gov/House/House-member/?legislature=55&session=125&legislator=2113
+- url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2192
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2192
+other_names:
+- name: Marcelino Quinonez
+- name: "Marcelino Qui\xF1onez"
+sources:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2192
+- url: https://en.wikipedia.org/wiki/Marcelino_Qui%C3%B1onez
+- url: https://www.linkedin.com/in/marcelino-quinonez-91435651
+- url: https://ballotpedia.org/Marcelino_Quinonez
+- url: https://www.azleg.gov/memberroster/?body=H
+extras:
+  title: Minority Whip

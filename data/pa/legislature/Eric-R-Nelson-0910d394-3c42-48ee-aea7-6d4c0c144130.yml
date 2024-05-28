@@ -1,40 +1,50 @@
 id: ocd-person/0910d394-3c42-48ee-aea7-6d4c0c144130
-name: Eric R. Nelson
-given_name: Eric
+name: Eric Nelson
+given_name: Eric R.
 family_name: Nelson
+birth_date: '1968-12-19'
 gender: Male
-image: https://www.legis.state.pa.us/images/members/200/1738.jpg?1703415645672
+email: enelson@pahousegop.com
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/53359.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2016-04-05
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:pa/government
   district: '57'
 offices:
 - classification: capitol
-  address: 121 Ryan Office Building P.O. Box 202057 Harrisburg, PA 17120-2057
+  address: Room 121, Ryan Office Building P.O. Box 202057, Harrisburg, PA 17120
   voice: 717-260-6146
   fax: 717-782-2882
 - classification: district
-  address: 17 South Sixth Street Youngwood, PA 15697
+  address: 101 Ehalt St. Suite 105, Greensburg, PA 15601
+  voice: 724-834-6400
+  fax: 724-834-6799
+- classification: district
+  address: 17 S. 6th St., Youngwood, PA 15697
   voice: 724-925-5490
   fax: 724-925-5491
 links:
-- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
-- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
   note: homepage
 other_names:
+- name: Eric R. Nelson
 - name: NELSON, E.
 - name: E. Nelson
 other_identifiers:
 - scheme: legacy_openstates
   identifier: PAL000533
 sources:
-- url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
+- url: https://en.wikipedia.org/wiki/Eric_Nelson_(Pennsylvania_politician)
+- url: https://justfacts.votesmart.org/candidate/biography/169714/eric-nelson
+- url: https://ballotpedia.org/Eric_Nelson_(Pennsylvania)
+- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/representatives_alpha.cfm
 - url: http://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
 - url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/mbrList.cfm?body=H&sort=alpha
-- url: https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738
 extras:
   Education:
   - B.S. Safety; Masters - Safety Science

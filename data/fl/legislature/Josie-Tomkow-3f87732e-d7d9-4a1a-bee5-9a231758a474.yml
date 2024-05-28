@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '39'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5051
+=======
+>>>>>>> main
 - classification: district
   address: 209 Palmetto St., Auburndale, FL 33823
   voice: 863-292-7003
+- classification: capitol
+  address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5051
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4704&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4704&LegislativeTermId=88

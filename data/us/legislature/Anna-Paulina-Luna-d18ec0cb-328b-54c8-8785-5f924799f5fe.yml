@@ -25,6 +25,8 @@ links:
   note: website
 ids:
   twitter: RepLuna
+other_names:
+- name: Luna
 other_identifiers:
 - scheme: bioguide
   identifier: L000596
@@ -32,6 +34,8 @@ other_identifiers:
   identifier: H0FL13158
 - scheme: govtrack
   identifier: '456891'
+- scheme: opensecrets
+  identifier: N00045228
 - scheme: wikidata
   identifier: Q112805534
 - scheme: wikipedia

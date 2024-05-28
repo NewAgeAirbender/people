@@ -4,7 +4,7 @@ given_name: John
 family_name: Gillette
 gender: Male
 email: jgillette@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GILLETTE.jpg
+image: https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/6/1b/61ba5bf8-e969-11e5-953b-3ba1ad504638/56e5e78dbc277.image.jpg
 party:
 - name: Republican
 roles:
@@ -14,11 +14,13 @@ roles:
   district: '30'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 345;Phoenix, AZ 85007
+  address: Room 345, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-4100
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2161
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2161
 - url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161
 sources:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161
+- url: https://ballotpedia.org/John_Gillette
 - url: https://www.azleg.gov/memberroster/?body=H

@@ -1,25 +1,31 @@
 id: ocd-person/69ef7d69-9a5e-42be-b463-8873cb52ad10
 name: Rhetta Bowers
-given_name: Rhetta
+given_name: Rhetta Andrews
 family_name: Bowers
 gender: Female
-image: https://house.texas.gov/members/photos/3565.jpg?v=88.25
+email: rhetta.bowers@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/74564.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2019-01-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '113'
 offices:
-- classification: capitol
-  address: Room E2.906 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.906, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0464
 - classification: district
-  address: 3200 Broadway Blvd. Suite 275 Garland, Texas 75043
+  address: 3200 Broadway Blvd. Suite 275, Garland, TX 75043
   voice: 972-272-6237
 links:
 - url: https://house.texas.gov/members/member-page/?district=113
 other_names:
 - name: Rhetta Andrews Bowers
 sources:
+- url: https://ballotpedia.org/Rhetta_Andrews_Bowers
+- url: https://en.wikipedia.org/wiki/Rhetta_Bowers
 - url: https://house.texas.gov/members/member-page/?district=113
+- url: https://justfacts.votesmart.org/candidate/biography/166882/rhetta-bowers
+- url: https://www.linkedin.com/in/rhetta-bowers-63832829

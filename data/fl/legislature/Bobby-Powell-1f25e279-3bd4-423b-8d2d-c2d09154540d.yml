@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '24'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 210, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5024
+=======
+>>>>>>> main
 - classification: district
   address: 2715 N. Australian Ave. Suite 105, West Palm Beach, FL 33407
   voice: 561-650-6880
+- classification: capitol
+  address: Room 210, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5024
 links:
 - url: https://flsenate.gov/Senators/2022-2024/S24
   note: member detail page

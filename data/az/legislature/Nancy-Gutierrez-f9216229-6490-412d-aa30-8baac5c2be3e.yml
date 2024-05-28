@@ -1,10 +1,10 @@
 id: ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e
-name: Nancy Burke Gutierrez
+name: Nancy Gutierrez
 given_name: Nancy Burke
 family_name: Gutierrez
 gender: Female
 email: ngutierrez@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GUTIERREZ.jpg
+image: https://azleg.gov/alisImages/MemberPhotos/56leg/House/GUTIERREZ.jpg
 party:
 - name: Democratic
 roles:
@@ -14,15 +14,20 @@ roles:
   district: '18'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 321;Phoenix, AZ 85007
+  address: Room 321, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-4134
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2165
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2165
 - url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165
 other_names:
+- name: Nancy Burke Gutierrez
 - name: Nancy Gutierrez
 sources:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165
+- url: https://justfacts.votesmart.org/candidate/biography/205615/nancy-gutierrez
+- url: https://www.linkedin.com/in/nancy-gutierrez-0268253a
+- url: https://ballotpedia.org/Nancy_Gutierrez
 - url: https://www.azleg.gov/memberroster/?body=H
 extras:
   title: Minority Whip

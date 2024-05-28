@@ -1,10 +1,10 @@
 id: ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2
-name: Betty J. Villegas
+name: Betty Villegas
 given_name: Betty J.
 family_name: Villegas
 gender: Female
 email: bvillegas@azleg.gov
-image: https://www.azleg.gov/alisimages/nophoto.gif
+image: https://upload.wikimedia.org/wikipedia/commons/3/36/Betty_Villegas_by_Gage_Skidmore.jpg
 party:
 - name: Democratic
 roles:
@@ -14,13 +14,18 @@ roles:
   district: '20'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 324;Phoenix, AZ 85007
+  address: Room 324, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-3027
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2274
 - url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274
 other_names:
+- name: Betty J. Villegas
 - name: Betty Villegas
 - name: Betty J Villegas
 sources:
+- url: https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274
+- url: https://en.wikipedia.org/wiki/Betty_Villegas
+- url: https://www.linkedin.com/in/bettyvillegasaz
+- url: https://ballotpedia.org/Betty_Villegas
 - url: https://www.azleg.gov/memberroster/?body=H

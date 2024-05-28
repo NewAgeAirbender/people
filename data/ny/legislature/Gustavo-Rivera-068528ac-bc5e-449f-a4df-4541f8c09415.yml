@@ -5,7 +5,7 @@ family_name: Rivera
 birth_date: '1975-11-19'
 gender: Male
 email: grivera@nysenate.gov
-image: https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2801-29-14%29%20Rivera-HS-%20009.jpg?itok=Ny0U7p_x
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/11727.jpg
 party:
 - name: Democratic/Working Families
 roles:
@@ -14,7 +14,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '33'
 offices:
-- classification: district
+- classification: capitol
   address: Room 502, Capitol Building, Albany, NY 12247
   voice: 518-455-3395
   fax: 518-426-6858
@@ -36,4 +36,9 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000378
 sources:
+- url: https://www.nysenate.gov/senators/gustavo-rivera
+- url: https://en.wikipedia.org/wiki/Gustavo_Rivera_(politician)
+- url: https://www.linkedin.com/in/gustavo-rivera-75558a
+- url: https://www.linkedin.com/in/gustavo-rivera-75558a
+- url: https://ballotpedia.org/J._Gustavo_Rivera
 - url: https://www.nysenate.gov/senators/gustavo-rivera/contact

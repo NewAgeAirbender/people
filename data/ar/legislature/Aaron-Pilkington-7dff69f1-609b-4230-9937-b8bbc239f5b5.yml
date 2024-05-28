@@ -1,27 +1,30 @@
 id: ocd-person/7dff69f1-609b-4230-9937-b8bbc239f5b5
 name: Aaron Pilkington
-given_name: Aaron
+given_name: Aaron Michel
 family_name: Pilkington
 gender: Male
 email: aaron.pilkington@arkansashouse.org
-image: https://www.arkleg.state.ar.us/Content/photos/2023/House/533_sm.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/60896.jpg
 party:
 - name: Republican
 roles:
-- end_date: '2023-01-09'
-  type: lower
-  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
-  district: '69'
-- start_date: '2023-01-09'
+- start_date: 2023-01-09
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ar/government
   district: '45'
+- end_date: 2023-01-09
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ar/government
+  district: '69'
 offices:
-- classification: district
+- classification: district-mail
   address: 264 Private Road 2611, Knoxville, AR 72845
+  voice: 479-308-8384
 links:
-- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2019%2F2020F
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2019%2F2020F
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2021%2F2021R
+- url: https://www.arkansashouse.org/district/45
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2023%2F2023R
 other_names:
 - name: Pilkington
 ids:
@@ -39,13 +42,17 @@ other_identifiers:
 - scheme: ballotpedia
   identifier: Aaron_Pilkington
 sources:
-- url: http://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2019%2F2020F
+- url: https://www.arkansashouse.org/district/45
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2023%2F2023R
+- url: https://en.wikipedia.org/wiki/Aaron_Pilkington
+- url: https://www.linkedin.com/in/aaron-pilkington-mha-37619822
+- url: https://ballotpedia.org/Aaron_Pilkington
+- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2019%2F2020F
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2021%2F2021R
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2021%2F2021S1
 - url: https://www.arkleg.state.ar.us/Legislators/List
 - url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2021%2F2022F
 - url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2021%2F2021S1#SearchResults
-- url: https://www.arkleg.state.ar.us/Legislators/Detail?member=Pilkington&ddBienniumSession=2023%2F2023R
 - url: https://www.arkleg.state.ar.us/Legislators/List?sort=Type&by=desc&ddBienniumSession=2023%2F2023R#SearchResults
 extras:
   seniority: '40'

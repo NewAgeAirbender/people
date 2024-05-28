@@ -2,21 +2,24 @@ id: ocd-person/d731c9f0-44ff-4abf-92c4-0069c07f6b26
 name: Lina Ortega
 given_name: Evelina
 family_name: Ortega
+birth_date: '1955-08-18'
 gender: Female
-image: https://house.texas.gov/members/photos/3545.jpg?v=88.25
+email: lina.ortega@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/61043.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2017-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '77'
 offices:
-- classification: capitol
-  address: Room E2.204 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.204, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0638
   fax: 512-463-8908
 - classification: district
-  address: 310 N. Mesa, Suite 424 El Paso, Texas 79901
+  address: 310 N. Mesa Suite 424, El Paso, TX 79901
   voice: 915-351-4031
 links:
 - url: https://house.texas.gov/members/member-page/?district=77
@@ -26,4 +29,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000682
 sources:
+- url: https://ballotpedia.org/Evelina_Ortega
+- url: https://en.wikipedia.org/wiki/Evelina_Ortega
 - url: https://house.texas.gov/members/member-page/?district=77
+- url: https://justfacts.votesmart.org/candidate/biography/166565/lina-ortega

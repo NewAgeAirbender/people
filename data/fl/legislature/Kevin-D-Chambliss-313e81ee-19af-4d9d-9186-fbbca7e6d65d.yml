@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '117'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5117
+=======
+>>>>>>> main
 - classification: district
   address: 17502 SW 104th Ave., Miami, FL 33157
   voice: 305-256-6300
+- classification: capitol
+  address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5117
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4798&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4798&LegislativeTermId=90

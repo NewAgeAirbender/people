@@ -23,6 +23,8 @@ offices:
 links:
 - url: https://dondavis.house.gov/
   note: website
+other_names:
+- name: Davis (NC)
 other_identifiers:
 - scheme: bioguide
   identifier: D000230
@@ -30,6 +32,8 @@ other_identifiers:
   identifier: H2NC02287
 - scheme: govtrack
   identifier: '456912'
+- scheme: opensecrets
+  identifier: N00049636
 - scheme: wikidata
   identifier: Q5294403
 - scheme: wikipedia

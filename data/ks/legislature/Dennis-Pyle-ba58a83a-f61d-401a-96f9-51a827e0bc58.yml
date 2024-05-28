@@ -2,9 +2,10 @@ id: ocd-person/ba58a83a-f61d-401a-96f9-51a827e0bc58
 name: Dennis Pyle
 given_name: Dennis D.
 family_name: Pyle
+birth_date: '1961-02-04'
 gender: Male
 email: dennis.pyle@senate.ks.gov
-image: http://www.kslegislature.org/li/m/images/pics/sen_pyle_dennis_1.jpg
+image: https://www.kslegislature.org/li/s/images/pics/sen_pyle_dennis_1.jpg
 party:
 - name: Republican
 roles:
@@ -13,8 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   district: '1'
 offices:
+- classification: home
+  address: 2979 Kingfisher Road, Hiawatha, KS 66434
+  voice: 785-742-3780
 - classification: capitol
-  address: Room 45-S; Kansas State Capitol Building; 300 SW 10th St.; Topeka, KS 66612
+  address: State Capitol Room 45-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612
   voice: 785-296-7379
 links:
 - url: https://www.kslegislature.org/li/b2019_20/members/sen_pyle_dennis_1/
@@ -24,9 +28,15 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: KSL000029
 sources:
-- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_pyle_dennis_1/
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1/
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/sen_pyle_dennis_1
+- url: https://en.wikipedia.org/wiki/Dennis_Pyle
+- url: https://justfacts.votesmart.org/candidate/biography/12606/dennis-pyle
+- url: https://www.linkedin.com/in/dennis-pyle-6451a83
+- url: https://ballotpedia.org/Dennis_Pyle
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1
-- url: http://www.kslegislature.org/li/api/v11/rev-1/members/sen_pyle_dennis_1/
 extras:
   occupation: Farmer

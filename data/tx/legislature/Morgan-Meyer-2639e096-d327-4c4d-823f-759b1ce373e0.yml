@@ -1,21 +1,24 @@
 id: ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0
 name: Morgan Meyer
-given_name: Morgan
+given_name: Morgan Daniel
 family_name: Meyer
+birth_date: '1974-08-08'
 gender: Male
-image: https://house.texas.gov/members/photos/3075.jpg?v=88.25
+email: morgan.meyer@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/47408.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2015-01-13
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '108'
 offices:
-- classification: capitol
-  address: Room GN.12 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room GN.12, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0367
 - classification: district
-  address: '3131 McKinney Avenue #649 Dallas, TX 75204'
+  address: '3131 McKinney Ave. #649, Dallas, TX 75204'
   voice: 214-239-1257
 links:
 - url: https://house.texas.gov/members/member-page/?district=108
@@ -25,4 +28,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000619
 sources:
+- url: https://ballotpedia.org/Morgan_Meyer
+- url: https://en.wikipedia.org/wiki/Morgan_Meyer
 - url: https://house.texas.gov/members/member-page/?district=108
+- url: https://justfacts.votesmart.org/candidate/biography/147697/morgan-meyer
+- url: https://www.linkedin.com/in/morgan-meyer-95794965

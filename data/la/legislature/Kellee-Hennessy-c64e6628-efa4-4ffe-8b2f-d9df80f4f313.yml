@@ -1,0 +1,26 @@
+id: ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313
+name: Kellee Hennessy
+given_name: Kellee
+family_name: Hennessy Dickerson
+gender: Female
+email: hse064@legis.la.gov
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/135767.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-08
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:la/government
+  district: '64'
+offices:
+- classification: district
+  address: 32350 Louisiana Highway 16 Building F, Suite 2, Denham Springs, LA 70706
+  voice: 225-380-4232
+links:
+- url: https://house.louisiana.gov/H_Reps/members?ID=64
+other_names:
+- name: Kellee Dickerson
+- name: Dickerson
+sources:
+- url: https://house.louisiana.gov/H_Reps/members?ID=64
+- url: https://ballotpedia.org/Kellee_Hennessy_Dickerson

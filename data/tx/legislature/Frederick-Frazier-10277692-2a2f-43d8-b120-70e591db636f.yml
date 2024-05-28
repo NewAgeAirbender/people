@@ -3,21 +3,24 @@ name: Frederick Frazier
 given_name: Frederick
 family_name: Frazier
 gender: Male
-image: https://house.texas.gov/members/photos/4155.jpg?v=88.25
+email: frederick.frazier@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/122823.jpg
 party:
 - name: Republican
 roles:
-- start_date: '2023-01-10'
+- start_date: 2023-01-10
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '61'
 offices:
-- classification: capitol
-  address: Room E1.412 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E1.412, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0738
 links:
 - url: https://house.texas.gov/members/member-page/?district=61
 other_names:
 - name: Frederick
 sources:
+- url: https://ballotpedia.org/Frederick_Frazier
 - url: https://house.texas.gov/members/member-page/?district=61
+- url: https://www.linkedin.com/in/frederick-frazier-480b0a2

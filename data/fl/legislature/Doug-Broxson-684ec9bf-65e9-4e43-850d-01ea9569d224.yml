@@ -19,12 +19,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '3'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 202, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5001
+=======
+>>>>>>> main
 - classification: district
   address: Room 403, 418 W. Garden St., Pensacola, FL 32502
   voice: 850-595-1036
+- classification: capitol
+  address: Room 202, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5001
 links:
 - url: https://www.flsenate.gov/Senators/2018-2020/S1
 - url: https://flsenate.gov/Senators/2022-2024/S1

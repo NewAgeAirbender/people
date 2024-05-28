@@ -18,7 +18,17 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '80'
 offices:
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+  address: Room 308, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5082
+- classification: district
+  address: Hendry County Courthouse 25 E. Hickpochee Ave., LaBelle, FL 33935
+  voice: 863-675-5267
+- classification: district
+>>>>>>> main
   address: Harmon Turner Building 3299 Tamiami Trail E., Suite 212, Naples, FL 34112
   voice: 239-417-6270
 - classification: district

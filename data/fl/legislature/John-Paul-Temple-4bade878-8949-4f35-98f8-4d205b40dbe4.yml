@@ -14,6 +14,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '52'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1301, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5052
+>>>>>>> main
 - classification: district
   address: 916 Avenida Central, The Villages, FL 32159
   voice: 352-315-4445

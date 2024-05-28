@@ -2,9 +2,10 @@ id: ocd-person/aa7fa5a0-596b-4f52-9af5-732b76f875e9
 name: Francis Awerkamp
 given_name: Francis
 family_name: Awerkamp
+birth_date: '1980-09-20'
 gender: Male
 email: francis.awerkamp@house.ks.gov
-image: http://www.kslegislature.org/li/m/images/pics/rep_awerkamp_francis_1.jpg
+image: https://files.voterly.com/psn/9599f23afcdb79273895bd786765bdd5/200x250/francis-awerkamp.jpeg
 party:
 - name: Republican
 roles:
@@ -13,8 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   district: '61'
 offices:
+- classification: home
+  address: 807 W. Linn St., St. Marys, KS 66536
+  voice: 785-844-2131
 - classification: capitol
-  address: Room 187-N; Kansas State Capitol Building; 300 SW 10th St.; Topeka, KS
+  address: State Capitol Room 187-N, Kansas  Building 300 SW 10th St., Topeka, KS
     66612
   voice: 785-296-6989
 links:
@@ -25,9 +29,14 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: KSL000380
 sources:
-- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_awerkamp_francis_1/
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1/
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_awerkamp_francis_1
+- url: https://en.wikipedia.org/wiki/Francis_Awerkamp
+- url: https://justfacts.votesmart.org/candidate/biography/171927/francis-awerkamp
+- url: https://ballotpedia.org/Francis_Awerkamp
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1
-- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1/
 extras:
   occupation: Business owner

@@ -21,7 +21,11 @@ offices:
 - classification: district
   address: 105 SW 140th Court Suite 1, Newberry, FL 32669
   voice: 352-313-6542
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 422, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5022
 links:

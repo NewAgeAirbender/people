@@ -13,7 +13,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '120'
 offices:
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 212, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5120
 - classification: home
@@ -23,6 +27,9 @@ offices:
   address: Murray Nelson Government Center 102050 Overseas Highway, Key Largo, FL
     33037
   voice: 305-453-1202
+- classification: home
+  address: 44 NE 16th St., Homestead, FL 33030
+  voice: 305-242-2485
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4797&LegislativeTermId=89
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4797&LegislativeTermId=90

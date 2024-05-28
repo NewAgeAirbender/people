@@ -22,9 +22,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '25'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 411, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5031
+=======
+>>>>>>> main
 - classification: district
   address: Palm Beach County Jupiter Town Hall, Jupiter, FL
   voice: 772-221-4019
@@ -32,6 +35,12 @@ offices:
   address: 215 SW Federal Highway Suite 203, Stuart, FL 34994
   voice: 772-221-4019
   fax: 888-263-7895
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 411, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5031
+>>>>>>> main
 links:
 - url: https://www.flsenate.gov/Senators/s25
 - url: https://www.flsenate.gov/Senators/2018-2020/S25

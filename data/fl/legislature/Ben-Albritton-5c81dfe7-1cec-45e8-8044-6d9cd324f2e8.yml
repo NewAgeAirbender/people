@@ -22,6 +22,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '26'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 318, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5027
@@ -29,8 +30,17 @@ offices:
   address: 150 N. Central Ave., Bartow, FL 33830
   voice: 863-534-0073
 - classification: district
+=======
+- classification: district
+>>>>>>> main
   address: 410 Taylor St. Suite 106, Punta Gorda, FL 33950
   voice: 941-575-5717
+- classification: district
+  address: 150 N. Central Ave., Bartow, FL 33830
+  voice: 863-534-0073
+- classification: capitol
+  address: Room 318, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5027
 links:
 - url: https://www.flsenate.gov/Senators/s26
 - url: https://www.flsenate.gov/Senators/2018-2020/S26

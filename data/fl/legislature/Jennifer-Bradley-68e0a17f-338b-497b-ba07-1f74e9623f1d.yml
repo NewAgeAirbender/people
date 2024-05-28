@@ -13,6 +13,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '6'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: '1845 EW Parkway Unit #5, Fleming Island, FL 32003'
   voice: 904-278-2085
@@ -20,6 +21,15 @@ offices:
   address: Room 408, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5006
 - classification: district
+=======
+- classification: capitol
+  address: Room 408, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5006
+- classification: district
+  address: '1845 EW Parkway Unit #5, Fleming Island, FL 32003'
+  voice: 904-278-2085
+- classification: district
+>>>>>>> main
   address: 124 NW Madison St., Lake City, FL 32055
   voice: 386-719-2708
 links:

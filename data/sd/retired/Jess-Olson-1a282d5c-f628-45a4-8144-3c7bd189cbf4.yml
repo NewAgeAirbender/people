@@ -1,0 +1,27 @@
+id: ocd-person/1a282d5c-f628-45a4-8144-3c7bd189cbf4
+name: Jess M. Olson
+given_name: Jess
+family_name: Olson
+email: Jess.Olson@sdlegislature.gov
+image: https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/olson_2019.jpg
+party:
+- name: Republican
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '34'
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1644&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1829/Detail
+other_names:
+- name: Jess Olson
+other_identifiers:
+- scheme: openstates
+  identifier: ocd-person/221fb912-a7ce-4a82-a628-f59dd1ae9d07
+sources:
+- url: https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1644&Session=2019
+- url: https://sdlegislature.gov/Legislators/Profile/1829/Detail
+extras:
+  occupation: Business Owner

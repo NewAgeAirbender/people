@@ -3,19 +3,25 @@ name: Cole Hefner
 given_name: Cole
 family_name: Hefner
 gender: Male
-image: https://house.texas.gov/members/photos/3505.jpg?v=88.25
+email: cole.hefner@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/61038.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2017-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '5'
 offices:
-- classification: capitol
-  address: Room E2.718 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.718, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0271
+  fax: 512-463-1515
 - classification: district
-  address: 520 North Main Street, Suite A-3 Lindale, TX 75711
+  address: 115 W. 1st St., Mount Pleasant, TX 75455
+  voice: 903-717-8238
+- classification: district
+  address: 520 N. Main St. Suite A-3, Lindale, TX 75711
   voice: 903-882-3254
 links:
 - url: https://house.texas.gov/members/member-page/?district=5
@@ -23,4 +29,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000689
 sources:
+- url: https://ballotpedia.org/Cole_Hefner
+- url: https://en.wikipedia.org/wiki/Cole_Hefner
 - url: https://house.texas.gov/members/member-page/?district=5
+- url: https://justfacts.votesmart.org/candidate/biography/166549/cole-hefner

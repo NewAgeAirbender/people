@@ -2,23 +2,27 @@ id: ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912
 name: Keith Kelley
 given_name: Keith
 family_name: Kelley
+gender: Male
 email: keith.kelley@alsenate.gov
-image: https://www.legislature.state.al.us/pdf/senate/members/Kelley_12.png
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/122328.jpg
 party:
 - name: Republican
 roles:
-- type: upper
+- start_date: 2022-11-09
+  type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:al/government
   district: '12'
 offices:
 - classification: capitol
-  address: 11 S Union Street,Suite 737,Montgomery, AL 36130
+  address: Room 737, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0846
 links:
 - url: https://alison.legislature.state.al.us/senate-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Keith_Kelley
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.linkedin.com/in/keith-kelley-7b711061
 extras:
   counties: Calhoun County, Talladega County

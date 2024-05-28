@@ -4,7 +4,7 @@ given_name: Jo Ella
 family_name: Hoye
 gender: Female
 email: joella.hoye@house.ks.gov
-image: http://www.kslegislature.org/li/m/images/pics/rep_hoye_jo_ella_1.jpg
+image: https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG
 party:
 - name: Democratic
 roles:
@@ -13,16 +13,22 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ks/government
   district: '17'
 offices:
+- classification: home
+  address: 8517 Alden Lane, Lenexa, KS 66215
+  voice: 816-248-2601
 - classification: capitol
-  address: Room 54-S; Kansas State Capitol Building; 300 SW 10th St.; Topeka, KS 66612
+  address: State Capitol Room 54-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612
   voice: 785-296-7331
 links:
 - url: https://www.kslegislature.org/li/b2021_22/members/rep_hoye_jo_ella_1/
 - url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1/
 sources:
-- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1/
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1/
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_hoye_jo_ella_1
+- url: https://ballotpedia.org/Jo_Ella_Hoye
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1
-- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1/
 extras:
   occupation: ''

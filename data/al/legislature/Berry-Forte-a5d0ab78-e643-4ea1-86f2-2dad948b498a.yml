@@ -2,8 +2,9 @@ id: ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a
 name: Berry Forte
 given_name: Berry
 family_name: Forte
+gender: Male
 email: berry.forte@alhouse.gov
-image: https://www.legislature.state.al.us/pdf/house/members/Forte_84.png
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/19453.jpg
 party:
 - name: Democratic
 roles:
@@ -12,12 +13,13 @@ roles:
   district: '84'
 offices:
 - classification: capitol
-  address: 11 South Union Street,Suite 537-F,Montgomery, AL 36130-2950
+  address: Room 540-D, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0566
 - classification: district
-  address: 620 Davis Street,Eufaula, AL 36027
+  address: 620 Davis Lane, Eufaula, AL 36027
+  voice: 334-687-9985
 links:
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 other_identifiers:
@@ -28,10 +30,12 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: ALL000379
 sources:
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664
-- url: http://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Forte&OID_SPONSOR=100566&OID_PERSON=6664&SESSNAME=
+- url: https://ballotpedia.org/Berry_Forte
+- url: https://en.wikipedia.org/wiki/Berry_Forte
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Forte&OID_SPONSOR=100566&OID_PERSON=6664&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
 extras:
   counties: Barbour County, Bullock County, Russell County

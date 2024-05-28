@@ -21,6 +21,7 @@ offices:
 - classification: district
   address: Nassau County, Yulee, FL 32097
 - classification: district
+<<<<<<< HEAD
   address: Room 306, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5004
   fax: 850-410-4805
@@ -29,6 +30,16 @@ offices:
 - classification: district
   address: 1615 Huffingham Road Suite 1, Jacksonville, FL 32216
   voice: 904-723-2035
+=======
+  address: Fernandina Beach, FL 32034
+- classification: district
+  address: 1615 Huffingham Road Suite 1, Jacksonville, FL 32216
+  voice: 904-723-2035
+- classification: capitol
+  address: Room 306, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5004
+  fax: 850-410-4805
+>>>>>>> main
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4633&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4633&LegislativeTermId=88

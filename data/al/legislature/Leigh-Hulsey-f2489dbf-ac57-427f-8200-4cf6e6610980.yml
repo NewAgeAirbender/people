@@ -1,24 +1,27 @@
 id: ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980
 name: Leigh Hulsey
-given_name: Leigh
+given_name: Leigh Griffith
 family_name: Hulsey
-image: https://www.legislature.state.al.us/pdf/house/members/Hulsey_15.png
+gender: Female
+email: leigh.hulsey@alhouse.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/122291.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2022-11-09
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:al/government
   district: '15'
 offices:
 - classification: capitol
-  address: 11 South Union Street,Suite 531,Montgomery, AL 36130-2950
-  voice: 334-261-0474
+  address: 11 S. Union St., Montgomery, AL 36130
 - classification: district
-  address: 1134 County Services Drive,Pelham, AL 35124
+  address: 1134 County Services Drive, Pelham, AL 35124
 links:
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 sources:
+- url: https://ballotpedia.org/Leigh_Hulsey
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
 extras:

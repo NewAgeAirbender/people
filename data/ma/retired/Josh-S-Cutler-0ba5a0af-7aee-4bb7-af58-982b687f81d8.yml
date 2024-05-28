@@ -1,0 +1,36 @@
+id: ocd-person/0ba5a0af-7aee-4bb7-af58-982b687f81d8
+name: Josh Cutler
+given_name: Josh S.
+family_name: Cutler
+birth_date: '1971-01-22'
+gender: Male
+email: josh.cutler@mahouse.gov
+image: https://malegislature.gov/Legislators/Profile/170/JSC1.jpg
+party:
+- name: Democratic
+roles:
+- start_date: 2013-01-02
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:ma/government
+  district: 6th Plymouth
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://malegislature.gov/Legislators/Profile/JSC1
+other_names:
+- name: Josh S. Cutler
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: MAL000491
+- scheme: legacy_openstates
+  identifier: MAL000212
+- scheme: openstates
+  identifier: ocd-person/84486bdc-7cb2-41db-9c8c-9e5639390211
+sources:
+- url: https://malegislature.gov/Legislators/Profile/JSC1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/JSC1
+- url: https://malegislature.gov/api/GeneralCourts/192/LegislativeMembers/
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/JSC1
+- url: https://malegislature.gov/api/GeneralCourts/193/LegislativeMembers/
+extras:
+  member code: JSC1

@@ -18,6 +18,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '105'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 216, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5111
+>>>>>>> main
 - classification: district
   address: Room 4C, 9600 NW 25th St. Suite 4C, Doral, FL 33172
   voice: 786-336-1022

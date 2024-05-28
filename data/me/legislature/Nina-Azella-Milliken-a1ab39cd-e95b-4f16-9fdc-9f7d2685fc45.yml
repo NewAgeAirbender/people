@@ -1,10 +1,10 @@
 id: ocd-person/a1ab39cd-e95b-4f16-9fdc-9f7d2685fc45
 name: Nina Milliken
-given_name: Nina
+given_name: Nina Azella
 family_name: Milliken
 gender: Female
 email: nina.milliken@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/d61581cd-0cf9-4ffa-a29e-f767f25dec5f_NMILLIKEN.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/122848.jpg
 party:
 - name: Democratic
 roles:
@@ -13,19 +13,24 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:me/government
   district: '16'
 offices:
-- classification: capitol
-  address: House Majority Office Room 333, State House 2 State House Station Augusta, Maine 04333-0002
-- classification: district
+- classification: home
   address: 276 Turkey Farm Road, Blue Hill, ME 04614
+  voice: 207-412-8828
+- classification: capitol
+  address: Room 333, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1462
   note: homepage
 - url: https://legislature.maine.gov/housedems/milliken/index.html
 other_names:
 - name: Nina Azella Milliken
+- name: MILLIKEN of Blue Hill
 sources:
-- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1462
+- url: https://legislature.maine.gov/housedems/milliken/index.html
+- url: https://ballotpedia.org/Nina_Milliken
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '53'
   towns represented:

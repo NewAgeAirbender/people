@@ -13,12 +13,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '101'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5101
+=======
+>>>>>>> main
 - classification: district
   address: 3475 Sheridan St. Suite 203, Hollywood, FL 33021
   voice: 954-862-3004
+- classification: capitol
+  address: Room 1003, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5101
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4895&LegislativeTermId=90
   note: member detail page

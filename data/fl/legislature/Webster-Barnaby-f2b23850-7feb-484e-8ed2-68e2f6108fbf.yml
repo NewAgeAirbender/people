@@ -21,7 +21,11 @@ offices:
 - classification: district
   address: 120 S. Florida Ave., Deland, FL 32720
   voice: 386-736-5042
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 300, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5029
 links:

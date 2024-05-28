@@ -1,18 +1,21 @@
 id: ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49
 name: Gina Hinojosa
-given_name: Gina
+given_name: Regina Inez
 family_name: Hinojosa
+birth_date: '1973-12-08'
 gender: Female
-image: https://house.texas.gov/members/photos/3210.jpg?v=88.25
+email: gina.hinojosa@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/61027.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2017-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '49'
 offices:
-- classification: capitol
-  address: Room E2.214 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.214, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0668
   fax: 512-463-0957
 links:
@@ -21,4 +24,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000692
 sources:
+- url: https://ballotpedia.org/Gina_Hinojosa
+- url: https://en.wikipedia.org/wiki/Gina_Hinojosa
 - url: https://house.texas.gov/members/member-page/?district=49
+- url: https://justfacts.votesmart.org/candidate/biography/166708/gina-hinojosa
+- url: https://www.linkedin.com/in/gina-hinojosa-b8262b25

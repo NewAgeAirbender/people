@@ -1,10 +1,10 @@
 id: ocd-person/ba1384b3-1c88-4b66-8c97-f94d038f372c
 name: James Worth
-given_name: James
+given_name: James Mark
 family_name: Worth
 gender: Male
 email: james.worth@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/6b46df5b-47f1-4a54-80d9-ac5c6289711d_WORTH.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/125273.jpg
 party:
 - name: Democratic
 roles:
@@ -14,9 +14,11 @@ roles:
   district: '13'
 offices:
 - classification: capitol
-  address: House Majority Office Room 333, State House 2 State House Station Augusta, Maine 04333-0002
-- classification: district
-  address: 34 Sterling Street, Ellsworth, ME 04605
+  address: Room 333, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+- classification: home
+  address: P.O. Box 1137, Ellsworth, ME 04605
+  voice: 207-812-1787
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1460
   note: homepage
@@ -24,9 +26,12 @@ links:
 other_names:
 - name: James Mark Worth
 - name: J. Mark Worth
+- name: WORTH of Ellsworth
 sources:
-- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1460
+- url: https://legislature.maine.gov/housedems/worth/index.html
+- url: https://ballotpedia.org/James_Worth
+- url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '30'
   towns represented:

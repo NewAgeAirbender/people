@@ -1,10 +1,10 @@
 id: ocd-person/20082672-8aa7-4d49-bad7-fe5a92d1720d
 name: Amy Arata
-given_name: Amy
+given_name: Amy Bradstreet
 family_name: Arata
 gender: Female
 email: amy.arata@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/73657768-20f5-4692-8934-16f6b9a3cacd_arata.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/72894.jpg
 party:
 - name: Republican
 roles:
@@ -18,9 +18,9 @@ roles:
   district: '65'
 offices:
 - classification: capitol
-  address: House Minority Office Room 332, State House 2 State House Station Augusta,
-    Maine 04333-0002
-- classification: district
+  address: Room 332, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+- classification: home
   address: P.O. Box 2, New Gloucester, ME 04260
   voice: 207-333-1817
 links:
@@ -33,6 +33,10 @@ other_names:
 - name: Amy ARATA
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1356
+- url: https://mainehousegop.org/members/arata-amy
+- url: https://justfacts.votesmart.org/candidate/biography/176845/amy-arata
+- url: https://www.linkedin.com/in/amy-arata-a76b8340
+- url: https://ballotpedia.org/Amy_Arata
 - url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '22'

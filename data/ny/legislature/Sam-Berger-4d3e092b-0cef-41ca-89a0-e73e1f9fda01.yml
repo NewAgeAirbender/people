@@ -4,7 +4,7 @@ given_name: Samuel T.
 family_name: Berger
 gender: Male
 email: bergers@nyassembly.gov
-image: https://assembly.state.ny.us/write/upload/member_files/027/headshot/027.jpg?hst=1695676852
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/132979.jpg
 party:
 - name: Democratic
 roles:
@@ -24,4 +24,8 @@ links:
 - url: https://assembly.state.ny.us/mem/Sam-Berger
 - url: https://nyassembly.gov/mem/Sam-Berger
 sources:
+- url: https://nyassembly.gov/mem/Sam-Berger
+- url: https://en.wikipedia.org/wiki/Sam_Berger_(New_York_politician)
+- url: https://www.linkedin.com/in/sam-berger-74715020a
+- url: https://ballotpedia.org/Sam_Berger
 - url: https://assembly.state.ny.us/mem/Sam-Berger

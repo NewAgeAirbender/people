@@ -22,7 +22,11 @@ offices:
   address: Sunshine Professional Center 9240 Bonita Beach Road SE, Suite 2215, Bonita
     Springs, FL 34135
   voice: 239-949-6279
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 319, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5080
 links:

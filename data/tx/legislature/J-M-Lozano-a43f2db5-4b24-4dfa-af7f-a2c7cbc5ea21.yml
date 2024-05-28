@@ -1,21 +1,24 @@
 id: ocd-person/a43f2db5-4b24-4dfa-af7f-a2c7cbc5ea21
 name: J.M. Lozano
-given_name: J. M.
+given_name: Jose Manuel
 family_name: Lozano
+birth_date: '1980-05-23'
 gender: Male
-image: https://house.texas.gov/members/photos/2065.jpg?v=88.25
+email: jm.lozano@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/23075.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2012-03-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '43'
 offices:
-- classification: capitol
-  address: Room 1W.4 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room 1W.4, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0463
 - classification: district
-  address: '1211 US Highway 181 #106 Portland, TX 78374'
+  address: '1211 US Highway 181 #106, Portland, TX 78374'
   voice: 361-643-0063
 links:
 - url: https://house.texas.gov/members/member-page/?district=43
@@ -27,4 +30,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000657
 sources:
+- url: https://ballotpedia.org/J.M._Lozano
+- url: https://en.wikipedia.org/wiki/J._M._Lozano
 - url: https://house.texas.gov/members/member-page/?district=43
+- url: https://justfacts.votesmart.org/candidate/biography/116981/jm-lozano
+- url: https://www.linkedin.com/in/jose-lozano-448a6048

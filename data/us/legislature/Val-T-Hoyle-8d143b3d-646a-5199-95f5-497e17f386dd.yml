@@ -25,6 +25,8 @@ links:
   note: website
 ids:
   twitter: repvalhoyle
+other_names:
+- name: Hoyle (OR)
 other_identifiers:
 - scheme: bioguide
   identifier: H001094
@@ -32,6 +34,8 @@ other_identifiers:
   identifier: H2OR04095
 - scheme: govtrack
   identifier: '456932'
+- scheme: opensecrets
+  identifier: N00049734
 - scheme: wikidata
   identifier: Q7909103
 - scheme: wikipedia

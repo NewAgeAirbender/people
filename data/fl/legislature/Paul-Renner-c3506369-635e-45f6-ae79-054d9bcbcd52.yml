@@ -18,12 +18,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '24'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 420, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5019
+=======
+>>>>>>> main
 - classification: district
   address: 4877 Palm Coast Parkway NW Suite 1, Palm Coast, FL 32137
   voice: 386-446-7644
+- classification: capitol
+  address: Room 420, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5019
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4619&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4619&LegislativeTermId=88

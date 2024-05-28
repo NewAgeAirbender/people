@@ -13,6 +13,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '14'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 304, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5014
+>>>>>>> main
 - classification: district
   address: One President's Plaza 4902 Eisenhower Blvd., Suite 217, Tampa, FL 33634
   voice: 813-281-2538

@@ -25,6 +25,8 @@ links:
   note: website
 ids:
   twitter: RepAaronBean
+other_names:
+- name: Bean (FL)
 other_identifiers:
 - scheme: bioguide
   identifier: B001314
@@ -32,6 +34,8 @@ other_identifiers:
   identifier: H2FL04211
 - scheme: govtrack
   identifier: '456888'
+- scheme: opensecrets
+  identifier: N00051369
 - scheme: wikidata
   identifier: Q4661833
 - scheme: wikipedia

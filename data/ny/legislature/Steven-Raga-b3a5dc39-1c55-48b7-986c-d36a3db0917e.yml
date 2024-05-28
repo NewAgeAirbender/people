@@ -4,7 +4,7 @@ given_name: Steven B.
 family_name: Raga
 gender: Male
 email: ragas@nyassembly.gov
-image: https://assembly.state.ny.us/write/upload/member_files/030/headshot/030.jpg?hst=1672571626
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/81501.jpg
 party:
 - name: Democratic
 roles:
@@ -17,7 +17,7 @@ offices:
   address: 55-19 69th St., Maspeth, NY 11378
   voice: 718-651-3185
   fax: 718-651-3027
-- classification: district
+- classification: capitol
   address: Room 921, Legislative Office Building, Albany, NY 12248
   voice: 518-455-4755
   fax: 518-455-5032
@@ -27,4 +27,10 @@ links:
 other_names:
 - name: Steven B. Raga
 sources:
+- url: https://nyassembly.gov/mem/Steven-Raga
+- url: https://en.wikipedia.org/wiki/Steven_Raga
+- url: https://stevenraga.wordpress.com
+- url: https://stevenraga.wordpress.com/bio
+- url: https://www.linkedin.com/in/stevenraga
+- url: https://ballotpedia.org/Steven_Raga
 - url: https://assembly.state.ny.us/mem/Steven-Raga

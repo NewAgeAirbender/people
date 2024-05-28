@@ -2,14 +2,30 @@ id: ocd-person/6b2d7f89-d7e0-44d1-b861-3167915f6925
 name: Venton Jones
 given_name: Venton
 family_name: Jones
-image: https://house.texas.gov/members/photos/4275.jpg?v=88.25
+birth_date: '1984-01-31'
+gender: Male
+email: venton.jones@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/124070.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2023-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '100'
 offices:
 - classification: capitol
-  address: Room E2.404 P.O. Box 2910 Austin, TX 78768
+  address: Room E2.404, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0586
+- classification: district
+  address: 3535 Grand Ave., Dallas, TX 75210
+  voice: 214-421-0744
+links:
+- url: https://house.texas.gov/members/member-page/?district=100
+other_names:
+- name: Jones, Venton
+sources:
+- url: https://ballotpedia.org/Venton_Jones
+- url: https://en.wikipedia.org/wiki/Venton_Jones
+- url: https://house.texas.gov/members/member-page/?district=100
+- url: https://www.linkedin.com/in/ventonj

@@ -1,17 +1,31 @@
 id: ocd-person/bbd31428-1b2b-48c6-aa76-cb785e91ca8f
-name: Phil M. Hernandez
-email: DelPHernandez@house.virginia.gov
-image: http://memdata.virginiageneralassembly.gov/images/display_image/H0366
+name: Phil Hernandez
+given_name: Philip
+family_name: Hernandez
+gender: Male
+email: delphernandez@house.virginia.gov
+image: https://memdata.virginiageneralassembly.gov/images/display_image/H0366
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2024-01-10
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:va/government
   district: '94'
 offices:
 - classification: capitol
-  address: General Assembly Building, Room 1103; 201 North 9th Street; Richmond, Virginia 23219
+  address: Room 1103, General Assembly Building 201 N. 9th St., Richmond, VA 23219
+  voice: 804-698-1094
+- classification: district
+  address: P.O. Box 8927, Norfolk, VA 23503
 links:
 - url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H366
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0366
+other_names:
+- name: Phil M. Hernandez
+- name: Hernandez, Phil M.
 sources:
+- url: https://virginiageneralassembly.gov/house/members/members.php?id=H0366
+- url: https://www.linkedin.com/in/philip-hernandez-58937092
+- url: https://ballotpedia.org/Phil_Hernandez
 - url: https://lis.virginia.gov/cgi-bin/legp604.exe?241+mbr+H366

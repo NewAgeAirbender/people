@@ -1,22 +1,25 @@
 id: ocd-person/54769259-df18-4363-818e-127341188531
 name: Geanie Morrison
-given_name: Geanie
+given_name: Geanie Williams
 family_name: Morrison
+birth_date: '1950-10-06'
 gender: Female
-image: https://house.texas.gov/members/photos/3870.jpg?v=88.25
+email: geanie.morrison@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/23062.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 1999-01-12
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '30'
 offices:
-- classification: capitol
-  address: Room 1W.6 Austin, TX 78768
+- classification: capitol-mail
+  address: Room 1W.6, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0456
   fax: 512-463-0158
 - classification: district
-  address: 1908 N. Laurent, Suite 500 Victoria, Texas 77901
+  address: 311 E. Constitution St. Suite 100, Victoria, TX 77901
   voice: 361-572-0196
   fax: 361-576-0747
 links:
@@ -31,4 +34,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000623
 sources:
+- url: https://ballotpedia.org/Geanie_Morrison
+- url: https://en.wikipedia.org/wiki/Geanie_Morrison
 - url: https://house.texas.gov/members/member-page/?district=30
+- url: https://justfacts.votesmart.org/candidate/biography/25497/geanie-morrison

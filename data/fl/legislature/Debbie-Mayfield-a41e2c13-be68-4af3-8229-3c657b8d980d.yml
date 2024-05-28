@@ -28,12 +28,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '17'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 400, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
   voice: 850-487-5019
+=======
+>>>>>>> main
 - classification: district
   address: 900 E. Strawbridge Ave., Melbourne, FL 32901
   voice: 321-409-2025
+- classification: capitol
+  address: Room 400, Senate Building 404 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-487-5019
 links:
 - url: https://www.flsenate.gov/Senators/s17
 - url: https://www.flsenate.gov/Senators/2018-2020/S17

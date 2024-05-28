@@ -1,0 +1,25 @@
+id: ocd-person/ba5c637a-227f-48b4-98a9-b5da1d99347c
+name: Sue Chew
+given_name: Sue
+family_name: Chew
+email: SChew@house.idaho.gov
+image: https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Chew18.jpg
+party:
+- name: Democratic
+roles:
+- type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:id/government
+  district: 17B
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2021&district=17
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2022&district=17
+  note: homepage
+- url: https://legislature.idaho.gov/legislators/membership/?yr=2023&district=17
+  note: homepage
+other_identifiers:
+- scheme: legacy_openstates
+  identifier: IDL000285
+sources:
+- url: https://legislature.idaho.gov/house/membership/

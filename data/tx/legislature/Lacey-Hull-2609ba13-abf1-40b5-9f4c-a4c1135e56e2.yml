@@ -2,22 +2,28 @@ id: ocd-person/2609ba13-abf1-40b5-9f4c-a4c1135e56e2
 name: Lacey Hull
 given_name: Lacey
 family_name: Hull
+birth_date: '1986-08-21'
 gender: Female
-image: https://house.texas.gov/members/photos/3975.jpg?v=88.25
+email: lacey.hull@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/94916.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2021-01-12
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '138'
 offices:
-- classification: capitol
-  address: Room E1.322 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E1.322, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0727
 - classification: district
-  address: 10190 Katy Freeway, Suite 555G Houston, TX 77043
+  address: 10190 Katy Freeway Suite 555G, Houston, TX 77043
   voice: 713-647-0042
 links:
 - url: https://house.texas.gov/members/member-page/?district=138
 sources:
+- url: https://ballotpedia.org/Lacey_Hull
+- url: https://en.wikipedia.org/wiki/Lacey_Hull
 - url: https://house.texas.gov/members/member-page/?district=138
+- url: https://justfacts.votesmart.org/candidate/biography/188434/lacey-hull

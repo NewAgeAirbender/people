@@ -18,12 +18,21 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '34'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: 106 E. Dampier St., Inverness, FL 34450
   voice: 352-527-4510
 - classification: district
   address: Room 308, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5023
+=======
+- classification: capitol
+  address: Room 308, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5023
+- classification: district
+  address: 106 E. Dampier St., Inverness, FL 34450
+  voice: 352-527-4510
+>>>>>>> main
 links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=88
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=88

@@ -13,6 +13,12 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '93'
 offices:
+<<<<<<< HEAD
+=======
+- classification: capitol
+  address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5093
+>>>>>>> main
 - classification: district
   address: 3900 Woodlake Blvd. Suite 200-18, Greenacres, FL 33463
   voice: 561-291-6327

@@ -14,12 +14,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '32'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5032
+=======
+>>>>>>> main
 - classification: district
   address: 135A 5th Ave., Indialantic, FL 32903
   voice: 321-425-6179
+- classification: capitol
+  address: Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5032
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4329&LegislativeTermId=90
   note: member detail page

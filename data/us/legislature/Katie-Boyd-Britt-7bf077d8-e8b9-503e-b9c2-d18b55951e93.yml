@@ -25,6 +25,8 @@ links:
   note: website
 - url: https://www.britt.senate.gov/
   note: contact form
+other_names:
+- name: Britt (R-AL)
 other_identifiers:
 - scheme: bioguide
   identifier: B001319
@@ -34,6 +36,8 @@ other_identifiers:
   identifier: S2AL00145
 - scheme: govtrack
   identifier: '456874'
+- scheme: opensecrets
+  identifier: N00048812
 - scheme: wikidata
   identifier: Q111285444
 - scheme: wikipedia

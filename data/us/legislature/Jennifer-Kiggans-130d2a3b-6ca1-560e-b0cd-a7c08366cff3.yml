@@ -23,6 +23,9 @@ offices:
 links:
 - url: https://kiggans.house.gov/
   note: website
+other_names:
+- name: Jennifer A. Kiggans
+- name: Kiggans (VA)
 other_identifiers:
 - scheme: bioguide
   identifier: K000399
@@ -30,6 +33,8 @@ other_identifiers:
   identifier: H2VA02064
 - scheme: govtrack
   identifier: '456947'
+- scheme: opensecrets
+  identifier: N00048315
 - scheme: wikidata
   identifier: Q83119566
 - scheme: wikipedia

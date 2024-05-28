@@ -17,7 +17,11 @@ offices:
 - classification: district
   address: 9804 S. Military Trail Suite E2-6, Boynton Beach, FL 33436
   voice: 561-292-6015
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 1401, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5090
 links:

@@ -5,7 +5,7 @@ family_name: Otis
 birth_date: '1956-12-27'
 gender: Male
 email: otiss@nyassembly.gov
-image: https://assembly.state.ny.us/write/upload/member_files/091/headshot/091.jpg?hst=1661545963
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/53002.jpg
 party:
 - name: Democratic
 roles:
@@ -14,13 +14,13 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '91'
 offices:
+- classification: capitol
+  address: Room 739, Legislative Office Building, Albany, NY 12248
+  voice: 518-455-4897
 - classification: district
   address: 222 Grace Church St., Port Chester, NY 10573
   voice: 914-939-7028
   fax: 914-939-7167
-- classification: district
-  address: Room 739, Legislative Office Building, Albany, NY 12248
-  voice: 518-455-4897
 links:
 - url: https://assembly.state.ny.us/mem/?sh=email
 - url: https://assembly.state.ny.us/mem/Steven-Otis
@@ -33,5 +33,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000293
 sources:
-- url: https://assembly.state.ny.us/mem/Steven-Otis
+- url: https://nyassembly.gov/mem/Steven-Otis
+- url: https://en.wikipedia.org/wiki/Steven_Otis
+- url: https://justfacts.votesmart.org/candidate/biography/143183/steve-otis
+- url: https://ballotpedia.org/Steven_Otis
 - url: https://assembly.state.ny.us/mem/Steven-Otis

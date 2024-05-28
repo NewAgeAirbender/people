@@ -14,7 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '74'
 offices:
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 400, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5074
 - classification: district

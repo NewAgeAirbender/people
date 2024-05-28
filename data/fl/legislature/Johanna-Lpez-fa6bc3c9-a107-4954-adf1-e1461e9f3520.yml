@@ -14,7 +14,11 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '43'
 offices:
+<<<<<<< HEAD
 - classification: district
+=======
+- classification: capitol
+>>>>>>> main
   address: Room 1302, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5043
 - classification: district
@@ -26,6 +30,8 @@ links:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4875&LegislativeTermId=90
 other_names:
 - name: "Johanna L\xF3pez"
+- name: López, J.
+- name: LÃ³pez, J.
 sources:
 - url: https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4875&LegislativeTermId=90
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4875&LegislativeTermId=90

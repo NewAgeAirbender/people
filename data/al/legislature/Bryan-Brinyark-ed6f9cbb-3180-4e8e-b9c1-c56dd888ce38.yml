@@ -1,0 +1,25 @@
+id: ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38
+name: Bryan Brinyark
+given_name: Bryan Scott
+family_name: Brinyark
+gender: Male
+email: bryan.brinyark@alhouse.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/137553.jpg
+party:
+- name: Republican
+roles:
+- start_date: 2024-01-10
+  type: lower
+  jurisdiction: ocd-jurisdiction/country:us/state:al/government
+  district: '16'
+offices:
+- classification: capitol
+  address: Room 427-M, 11 S. Union St., Montgomery, AL 36130
+  voice: 334-261-0482
+- classification: district
+  address: '31 McFarland Blvd. #200, Northport, AL 35476'
+  voice: 205-759-5773
+sources:
+- url: https://ballotpedia.org/Bryan_Brinyark
+- url: https://brinyark.com/about
+- url: https://www.linkedin.com/in/bryan-brinyark-4a106457

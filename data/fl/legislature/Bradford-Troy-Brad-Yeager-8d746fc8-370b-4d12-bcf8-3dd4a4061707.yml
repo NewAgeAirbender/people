@@ -13,12 +13,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '56'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5056
+=======
+>>>>>>> main
 - classification: district
   address: 5509 Grand Blvd. Suite 200, New Port Richey, FL 34652
   voice: 727-841-6977
+- classification: capitol
+  address: Room 1101, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5056
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882&LegislativeTermId=90
   note: member detail page

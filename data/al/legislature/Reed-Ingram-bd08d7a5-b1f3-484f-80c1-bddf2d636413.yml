@@ -1,9 +1,10 @@
 id: ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413
 name: Reed Ingram
-given_name: Reed
+given_name: Robert Reed
 family_name: Ingram
+gender: Male
 email: reedingram75@gmail.com
-image: https://www.legislature.state.al.us/pdf/house/members/Ingram_75.png
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/44525.jpg
 party:
 - name: Republican
 roles:
@@ -12,13 +13,12 @@ roles:
   district: '75'
 offices:
 - classification: capitol
-  address: 11 South Union Street,Suite 413-C,Montgomery, AL 36130-2950
+  address: Room 413-C, 11 S. Union St., Montgomery, AL 36130
   voice: 334-261-0507
 - classification: district
-  address: 85 Meriwether Road,Pike Road, AL 36064
-  voice: 256-547-3589
+  address: 85 Meriwether Road, Pike Road, AL 36064
 links:
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100557&OID_PERSON=6167
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100557&OID_PERSON=6167
 - url: https://alison.legislature.state.al.us/house-leaders-members
   note: homepage
 other_identifiers:
@@ -31,10 +31,14 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: ALL000481
 sources:
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100557&OID_PERSON=6167
-- url: http://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
-- url: http://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Ingram&OID_SPONSOR=100557&OID_PERSON=6167&SESSNAME=
+- url: https://ballotpedia.org/Reed_Ingram
+- url: https://en.wikipedia.org/wiki/Reed_Ingram
 - url: https://gql.api.alison.legislature.state.al.us/graphql
   note: graphql endpoint for member information
+- url: https://justfacts.votesmart.org/candidate/biography/81538/reed-ingram
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Ingram&OID_SPONSOR=100557&OID_PERSON=6167&SESSNAME=
+- url: https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100557&OID_PERSON=6167
+- url: https://www.legislature.state.al.us/aliswww/ISD/House/ALRepresentatives.aspx
+- url: https://www.linkedin.com/in/reed-ingram-843bab22
 extras:
   counties: Elmore County, Montgomery County

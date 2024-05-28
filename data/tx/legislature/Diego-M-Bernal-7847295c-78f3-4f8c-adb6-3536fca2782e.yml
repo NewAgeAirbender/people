@@ -1,21 +1,23 @@
 id: ocd-person/7847295c-78f3-4f8c-adb6-3536fca2782e
 name: Diego Bernal
-given_name: Diego
+given_name: Diego M.
 family_name: Bernal
 gender: Male
-image: https://house.texas.gov/members/photos/3110.jpg?v=88.25
+email: diego.bernal@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/47345.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2015-03-03
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '123'
 offices:
-- classification: capitol
-  address: Room E1.508 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E1.508, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0532
 - classification: district
-  address: 6531 San Pedro Village Plaza San Antonio, TX 78216
+  address: 9862 Lorene Lane, Suite 102, San Antonio, TX
   voice: 210-308-9700
 links:
 - url: https://house.texas.gov/members/member-page/?district=123
@@ -28,4 +30,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000599
 sources:
+- url: https://ballotpedia.org/Diego_Bernal
+- url: https://en.wikipedia.org/wiki/Diego_Bernal
 - url: https://house.texas.gov/members/member-page/?district=123
+- url: https://justfacts.votesmart.org/candidate/biography/131548/diego-bernal
+- url: https://www.linkedin.com/in/diego-bernal-022870a7

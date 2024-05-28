@@ -14,6 +14,15 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '83'
 offices:
+<<<<<<< HEAD
+=======
+- classification: district
+  address: 55 S. Parrott Ave., Okeechobee, FL 34974
+  voice: 863-462-5019
+- classification: capitol
+  address: Room 214, House Office Building 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5083
+>>>>>>> main
 - classification: district
   address: 205 S. Commerce Ave. Suite B, Sebring, FL 33870
   voice: 863-386-6000

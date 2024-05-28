@@ -13,12 +13,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:fl/government
   district: '28'
 offices:
+<<<<<<< HEAD
 - classification: district
   address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
   voice: 850-717-5028
+=======
+>>>>>>> main
 - classification: district
   address: 1540 Cornerstone Blvd. Suite 240, Daytona Beach, FL 32117
   voice: 386-238-4865
+- classification: capitol
+  address: Room 418, The Capitol 402 S. Monroe St., Tallahassee, FL 32399
+  voice: 850-717-5028
 links:
 - url: https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90
   note: member detail page

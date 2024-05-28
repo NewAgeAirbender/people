@@ -1,10 +1,11 @@
 id: ocd-person/f94da191-f569-4d35-a9d4-edb04a1efc02
-name: Travis W. Grantham
+name: Travis Grantham
 given_name: Travis W.
 family_name: Grantham
+birth_date: '1979-02-24'
 gender: Male
 email: tgrantham@azleg.gov
-image: https://www.azleg.gov/alisImages/MemberPhotos/56leg/House/GRANTHAM.jpg
+image: https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRANTHAM.jpg
 party:
 - name: Republican
 roles:
@@ -18,7 +19,7 @@ roles:
   district: '12'
 offices:
 - classification: capitol
-  address: House of Representatives;1700 West Washington;Room 204;Phoenix, AZ 85007
+  address: Room 204, 1700 W. Washington St., Phoenix, AZ 85007
   voice: 602-926-4868
 links:
 - url: https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1879
@@ -30,6 +31,7 @@ links:
 - url: https://www.azleg.gov/House/House-member/?legislature=56&session=128&legislator=2162
 - url: https://www.azleg.gov/house-member/?legislature=55&legislator=2020
 other_names:
+- name: Travis W. Grantham
 - name: Travis Grantham
 - name: Travis W. Grantham
 ids:
@@ -39,7 +41,12 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: AZL000363
 sources:
-- url: http://www.azleg.gov/MemberRoster/?body=H
+- url: https://www.azleg.gov/house-member/?legislature=55&legislator=2020
+- url: https://en.wikipedia.org/wiki/Travis_Grantham
+- url: https://justfacts.votesmart.org/candidate/biography/141248/travis-grantham
+- url: https://www.linkedin.com/in/travis-grantham-29a1b490
+- url: https://ballotpedia.org/Travis_Grantham
+- url: https://www.azleg.gov/MemberRoster/?body=H
 - url: https://www.azleg.gov/memberroster/?body=H
 extras:
   title: Speaker Pro Tempore

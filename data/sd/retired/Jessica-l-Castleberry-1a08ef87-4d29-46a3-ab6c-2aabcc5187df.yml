@@ -1,0 +1,26 @@
+id: ocd-person/1a08ef87-4d29-46a3-ab6c-2aabcc5187df
+name: Jessica Castleberry
+given_name: Jessica
+family_name: Castleberry
+email: Jessica.Castleberry@sdlegislature.gov
+image: https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/castleberry,
+  jessica-4484 from 2022 rt.jpg
+party:
+- name: Republican
+roles:
+- type: upper
+  jurisdiction: ocd-jurisdiction/country:us/state:sd/government
+  district: '35'
+  end_date: '2024-01-01'
+offices: []
+links:
+- url: https://sdlegislature.gov/Legislators/Profile/1776/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4342/Detail
+other_names:
+- name: Jessica l. Castleberry
+- name: Jessica L. Castleberry
+sources:
+- url: https://sdlegislature.gov/Legislators/Profile/1776/Detail
+- url: https://sdlegislature.gov/Legislators/Profile/4342/Detail
+extras:
+  occupation: Business Owner

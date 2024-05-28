@@ -5,7 +5,7 @@ family_name: Gunther
 birth_date: '1954-01-21'
 gender: Female
 email: gunthea@nyassembly.gov
-image: https://assembly.state.ny.us/write/upload/member_files/100/headshot/100.jpg?hst=1660074329
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/53007.jpg
 party:
 - name: Democratic
 roles:
@@ -14,7 +14,7 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:ny/government
   district: '100'
 offices:
-- classification: district
+- classification: capitol
   address: Room 826, Legislative Office Building, Albany, NY 12248
   voice: 518-455-5355
 - classification: district
@@ -39,5 +39,9 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: NYL000268
 sources:
-- url: https://assembly.state.ny.us/mem/Aileen-M-Gunther
+- url: https://nyassembly.gov/mem/aileen-m-gunther
+- url: https://en.wikipedia.org/wiki/Aileen_Gunther
+- url: https://justfacts.votesmart.org/candidate/biography/44402/aileen-gunther
+- url: https://www.linkedin.com/in/aileen-m-gunther-228a409
+- url: https://ballotpedia.org/Aileen_Gunther
 - url: https://assembly.state.ny.us/mem/Aileen-M-Gunther

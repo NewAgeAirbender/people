@@ -4,7 +4,7 @@ given_name: Michael
 family_name: Murphy
 gender: Male
 email: michael.murphy@house.ks.gov
-image: http://www.kslegislature.org/li/m/images/pics/rep_murphy_michael_1.jpg
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKwXLW2-GGx639WKAs10NgKJgmOprF8JoSnBrc3tSNe41yMEh6bGuVEiIvAulBU795Tk&usqp=CAU
 party:
 - name: Republican
 roles:
@@ -14,18 +14,24 @@ roles:
   district: '114'
 offices:
 - classification: capitol
-  address: Room 176-W; Kansas State Capitol Building; 300 SW 10th St.; Topeka, KS
+  address: State Capitol Room 176-W, Kansas  Building 300 SW 10th St., Topeka, KS
     66612
   voice: 785-296-7105
+- classification: home
+  address: 35810 W. Greenfield Road, Sylvia, KS 67581
+  voice: 620-204-0416
 links:
 - url: https://www.kslegislature.org/li/b2021_22/members/rep_murphy_michael_1/
 - url: https://www.kslegislature.org/li/b2023_24/members/rep_murphy_michael_1/
 other_names:
 - name: Michael Murphy
 sources:
-- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_murphy_michael_1/
 - url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1/
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1/
+- url: https://www.kslegislature.org/li/b2023_24/members/rep_murphy_michael_1
+- url: https://ballotpedia.org/Michael_Murphy_(Kansas)
+- url: https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1
 - url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1
-- url: http://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1/
 extras:
   occupation: B and B Owner/Operator

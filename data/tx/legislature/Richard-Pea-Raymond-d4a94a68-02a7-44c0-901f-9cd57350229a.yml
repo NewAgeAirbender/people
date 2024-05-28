@@ -1,9 +1,11 @@
 id: ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a
-name: "Richard Pe\xF1a Raymond"
-given_name: Richard
+name: Richard Raymond
+given_name: Richard Pena
 family_name: Raymond
+birth_date: '1960-10-27'
 gender: Male
-image: https://house.texas.gov/members/photos/4215.jpg?v=88.25
+email: richard.raymond@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/23074.jpg
 party:
 - name: Democratic
 roles:
@@ -11,17 +13,18 @@ roles:
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '42'
 offices:
-- classification: capitol
-  address: Room 1W.2 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room 1W.2, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0558
   fax: 512-463-6296
 - classification: district
-  address: P.O. Box 6419 Laredo, Texas 78042
+  address: W. End Washington St., Laredo, TX 78040
   voice: 956-753-7722
   fax: 956-753-7729
 links:
 - url: https://house.texas.gov/members/member-page/?district=42
 other_names:
+- name: "Richard Pe\xF1a Raymond"
 - name: "Richard Pe\xC3\xB1a Raymond"
 other_identifiers:
 - scheme: legacy_openstates
@@ -35,4 +38,7 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000667
 sources:
+- url: https://ballotpedia.org/Richard_Raymond
+- url: https://en.wikipedia.org/wiki/Richard_Raymond_(Texas_politician)
 - url: https://house.texas.gov/members/member-page/?district=42
+- url: https://justfacts.votesmart.org/candidate/biography/5571/richard-raymond

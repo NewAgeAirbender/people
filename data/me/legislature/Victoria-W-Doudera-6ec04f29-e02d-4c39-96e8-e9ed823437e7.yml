@@ -1,10 +1,10 @@
 id: ocd-person/6ec04f29-e02d-4c39-96e8-e9ed823437e7
 name: Vicki Doudera
-given_name: Vicki
+given_name: Victoria Wenzel
 family_name: Doudera
 gender: Female
 email: vicki.doudera@legislature.maine.gov
-image: https://legislature.maine.gov/house/house/Repository/MemberProfiles/b23e405e-96d3-42e0-8cea-8c5bb8949003_Doudera.jpg
+image: https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/72924.jpg
 party:
 - name: Democratic
 roles:
@@ -18,10 +18,10 @@ roles:
   district: '94'
 offices:
 - classification: capitol
-  address: House Majority Office Room 333, State House 2 State House Station Augusta,
-    Maine 04333-0002
-- classification: district
-  address: 43 Elm Street, Camden, ME 04843
+  address: Room 333, 2 State House Station, Augusta, ME 04333
+  voice: 800-423-2900
+- classification: home
+  address: 18 Trim St., Camden, ME 04843
   voice: 207-542-1990
 links:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
@@ -33,6 +33,8 @@ other_names:
 - name: DOUDERA of Camden
 sources:
 - url: https://legislature.maine.gov/house/house/MemberProfiles/Details/1365
+- url: https://justfacts.votesmart.org/candidate/biography/181250/victoria-doudera
+- url: https://ballotpedia.org/Victoria_Doudera
 - url: https://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
 extras:
   Seat Number: '70'

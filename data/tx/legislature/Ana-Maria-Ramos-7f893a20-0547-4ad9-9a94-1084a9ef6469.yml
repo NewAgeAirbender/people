@@ -2,20 +2,31 @@ id: ocd-person/7f893a20-0547-4ad9-9a94-1084a9ef6469
 name: Ana-Maria Ramos
 given_name: Ana-Maria
 family_name: Ramos
+birth_date: '1976-06-16'
 gender: Female
-image: https://house.texas.gov/members/photos/3735.jpg?v=88.25
+email: ana-maria.ramos@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/74793.jpg
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: 2019-01-08
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '102'
 offices:
-- classification: capitol
-  address: Room E2.318 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E2.318, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0454
   fax: 512-463-1121
+- classification: district
+  address: 13140 Coit Road Suite 412, Dallas, TX 75240
 links:
 - url: https://house.texas.gov/members/member-page/?district=102
+- url: https://www.texasrepramos.com/
 sources:
+- url: https://ballotpedia.org/Ana-Maria_Ramos
+- url: https://en.wikipedia.org/wiki/Ana-Maria_Ramos
 - url: https://house.texas.gov/members/member-page/?district=102
+- url: https://justfacts.votesmart.org/candidate/biography/177509/ana-maria-ramos
+- url: https://www.linkedin.com/in/ana-maria-ramos-20a18b11b
+- url: https://www.texasrepramos.com

@@ -1,21 +1,24 @@
 id: ocd-person/1ca78d00-1ede-4486-b14e-16bd81ba73e4
 name: Tony Tinderholt
-given_name: Tony
+given_name: Tony Dale
 family_name: Tinderholt
+birth_date: '1970-08-13'
 gender: Male
-image: https://house.texas.gov/members/photos/3065.jpg?v=88.25
+email: tony.tinderholt@house.texas.gov
+image: https://storage.googleapis.com/enview-public-general/legislative-people-photos/47338.jpg
 party:
 - name: Republican
 roles:
-- type: lower
+- start_date: 2015-01-13
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:tx/government
   district: '94'
 offices:
-- classification: capitol
-  address: Room E1.420 P.O. Box 2910 Austin, TX 78768
+- classification: capitol-mail
+  address: Room E1.420, P.O. Box 2910, Austin, TX 78768
   voice: 512-463-0624
 - classification: district
-  address: 1000 Ballpark Way Suite 310 Arlington, Texas 76011
+  address: 1000 Ballpark Way Suite 301, Arlington, TX 76011
   voice: 817-476-2660
 links:
 - url: https://house.texas.gov/members/member-page/?district=94
@@ -25,4 +28,8 @@ other_identifiers:
 - scheme: legacy_openstates
   identifier: TXL000616
 sources:
+- url: https://ballotpedia.org/Tony_Tinderholt
+- url: https://en.wikipedia.org/wiki/Tony_Tinderholt
 - url: https://house.texas.gov/members/member-page/?district=94
+- url: https://justfacts.votesmart.org/candidate/biography/147676/tony-tinderholt
+- url: https://www.linkedin.com/in/tony-tinderholt-b16b2a4
